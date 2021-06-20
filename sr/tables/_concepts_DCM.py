@@ -45,10 +45,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113689": ("ACR Accreditation Phantom - PET Faceplate", [4051, 4052]),
     },
     "ACRAccreditationPhantomStereotacticBreastBiopsy": {
-        "113685": (
-            "ACR Accreditation Phantom - Stereotactic Breast Biopsy",
-            [4051, 4052],
-        ),
+        "113685": ("ACR Accreditation Phantom - Stereotactic Breast Biopsy", [4051, 4052]),
     },
     "ACRGuidelinePerformanceOfAdultCTColonography": {
         "112248": ("ACR Guideline, Performance of Adult CT Colonography", [6208]),
@@ -312,10 +309,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "121078": ("Addendum", []),
     },
     "AdditionalEvaluationRequestedFromAbnormalScreeningExam": {
-        "111419": (
-            "Additional evaluation requested from abnormal screening exam",
-            [6051],
-        ),
+        "111419": ("Additional evaluation requested from abnormal screening exam", [6051]),
     },
     "AdditionalEvaluationRequestedFromPriorStudy": {
         "111415": ("Additional evaluation requested from prior study", [6051]),
@@ -660,10 +654,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "126754": ("Anti-B220 ^89^Zr", [4021]),
     },
     "AnyDecisionToBiopsyShouldBeBasedOnClinicalAssessment": {
-        "111141": (
-            "Any decision to biopsy should be based on clinical assessment",
-            [6028, 6029],
-        ),
+        "111141": ("Any decision to biopsy should be based on clinical assessment", [6028, 6029]),
     },
     "AorticIntervention": {
         "122054": ("Aortic Intervention", [3405, 3406]),
@@ -732,10 +723,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122355": ("Arc of Calcium", []),
     },
     "ArchOfTheAzygosVein": {
-        "112103": (
-            "Arch of the Azygos vein",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "112103": ("Arch of the Azygos vein", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "ArchitecturalDistortion": {
         "112079": ("Architectural distortion", [6108]),
@@ -808,10 +796,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122229": ("Arteriovenous difference", []),
     },
     "ArtifactsOtherThanGridOrDetectorArtifact": {
-        "111215": (
-            "Artifact(s) other than grid or detector artifact",
-            [6041, 6135, 7011],
-        ),
+        "111215": ("Artifact(s) other than grid or detector artifact", [6041, 6135, 7011]),
     },
     "ArtificialIntelligence": {
         "123110": ("Artificial Intelligence", [7162]),
@@ -988,10 +973,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111300": ("Axillary node with lymphoma", [6030, 6033]),
     },
     "AzygoesophagealRecessInterface": {
-        "112090": (
-            "Azygoesophageal recess interface",
-            [6102, 6109, 6113, 6148, 7151, 7192, 9514],
-        ),
+        "112090": ("Azygoesophageal recess interface", [6102, 6109, 6113, 6148, 7151, 7192, 9514]),
     },
     "BIC": {
         "126224": ("BIC", [218, 7180, 7469]),
@@ -1342,25 +1324,16 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111454": ("Blood tinged color", [6067]),
     },
     "BloodVelocityMean": {
-        "122205": (
-            "Blood velocity, mean",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122205": ("Blood velocity, mean", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "BloodVelocityMeasurements": {
         "122124": ("Blood velocity measurements", []),
     },
     "BloodVelocityMinimum": {
-        "122206": (
-            "Blood velocity, minimum",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122206": ("Blood velocity, minimum", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "BloodVelocityPeak": {
-        "122207": (
-            "Blood velocity, peak",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122207": ("Blood velocity, peak", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "BloodVelocityVsTimeOfCardiacCycle": {
         "122667": ("Blood velocity vs. time of cardiac cycle", []),
@@ -1555,10 +1528,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111202": ("CC Not all medial tissue visualized", [6041]),
     },
     "CCPosteriorNippleLineDoesNotMeasureWithin1cmOfMLO": {
-        "111204": (
-            "CC Posterior nipple line does not measure within 1 cm of MLO",
-            [6041],
-        ),
+        "111204": ("CC Posterior nipple line does not measure within 1 cm of MLO", [6041]),
     },
     "CD": {
         "110032": ("CD", [405]),
@@ -2429,10 +2399,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113094": ("Creatine and Choline", [218, 4032, 4033, 7180, 7186, 7469]),
     },
     "CreatineCholineCitrateRatio": {
-        "113096": (
-            "Creatine+Choline/Citrate Ratio",
-            [218, 4032, 4033, 7180, 7186, 7469],
-        ),
+        "113096": ("Creatine+Choline/Citrate Ratio", [218, 4032, 4033, 7180, 7186, 7469]),
     },
     "CrossBScanPattern": {
         "128283": ("Cross B-scan pattern", [4272]),
@@ -2489,10 +2456,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "121385": ("Current Fraction Number", []),
     },
     "CurrentPregnancyKnownOrSuspectedMalformationsSyndromes": {
-        "111573": (
-            "Current pregnancy, known or suspected malformations/syndromes",
-            [6087, 6088],
-        ),
+        "111573": ("Current pregnancy, known or suspected malformations/syndromes", [6087, 6088]),
     },
     "CurrentProcedureDescriptions": {
         "121064": ("Current Procedure Descriptions", []),
@@ -2966,16 +2930,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122745": ("Diaphragmatic attenuation", [3115]),
     },
     "DiastolicBloodVelocityMean": {
-        "122201": (
-            "Diastolic blood velocity, mean",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122201": ("Diastolic blood velocity, mean", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "DiastolicBloodVelocityPeak": {
-        "122202": (
-            "Diastolic blood velocity, peak",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122202": ("Diastolic blood velocity, peak", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "DiastolicPressureAverage": {
         "109020": ("Diastolic pressure, average", []),
@@ -3125,10 +3083,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "121115": ("Discharge Summary", []),
     },
     "DiscontinuedForUnspecifiedReason": {
-        "110513": (
-            "Discontinued for unspecified reason",
-            [9300, 9301, 9302, 9303, 9561],
-        ),
+        "110513": ("Discontinued for unspecified reason", [9300, 9301, 9302, 9303, 9561]),
     },
     "DiscontinuedProcedureStepRescheduled": {
         "110528": ("Discontinued Procedure Step rescheduled", [9300]),
@@ -4060,10 +4015,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "130360": ("Fixed Laser Setup Point", [9554]),
     },
     "FlashDoesnTIncludeCassetteScreenDetectorIdentification": {
-        "111191": (
-            "Flash doesn't include cassette/screen/detector identification",
-            [6041],
-        ),
+        "111191": ("Flash doesn't include cassette/screen/detector identification", [6041]),
     },
     "FlashDoesnTIncludeDateOfExamination": {
         "111188": ("Flash doesn't include date of examination", [6041]),
@@ -4075,10 +4027,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111192": ("Flash doesn't include mammography unit identification", [6041]),
     },
     "FlashDoesnTIncludePatientNameAndAdditionalPatientId": {
-        "111187": (
-            "Flash doesn't include patient name and additional patient id",
-            [6041],
-        ),
+        "111187": ("Flash doesn't include patient name and additional patient id", [6041]),
     },
     "FlashDoesnTIncludeTechnologistIdentification": {
         "111190": ("Flash doesn't include technologist identification", [6041]),
@@ -4475,10 +4424,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113574": ("Glomerular Filtration Rate black (MDRD)", [10047]),
     },
     "GlomerularFiltrationRateCreatinineBasedFormulaSchwartz": {
-        "113577": (
-            "Glomerular Filtration Rate Creatinine-based formula (Schwartz)",
-            [10047],
-        ),
+        "113577": ("Glomerular Filtration Rate Creatinine-based formula (Schwartz)", [10047]),
     },
     "GlomerularFiltrationRateCystatinBasedFormula": {
         "113576": ("Glomerular Filtration Rate Cystatin-based formula", [10047]),
@@ -4784,10 +4730,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113562": ("High Thyroid Uptake", [64, 10045]),
     },
     "HighlySuggestiveOfMalignancyTakeAppropriateAction": {
-        "111149": (
-            "Highly suggestive of malignancy - take appropriate action",
-            [6028, 6029],
-        ),
+        "111149": ("Highly suggestive of malignancy - take appropriate action", [6028, 6029]),
     },
     "HisBundleElectrogram": {
         "109007": ("His bundle electrogram", [3240]),
@@ -5435,29 +5378,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122192": ("Indicator appearance time", []),
     },
     "IndicatorMeanTransitTime": {
-        "109071": (
-            "Indicator mean transit time",
-            [
-                3337,
-                3613,
-                12254,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-            ],
-        ),
+        "109071": ("Indicator mean transit time", [3337, 3613, 12254, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274]),
     },
     "IndirectDetector": {
         "113949": ("Indirect Detector", [10030]),
@@ -5541,10 +5462,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113529": ("Institutionally Approved Estimates", [10040]),
     },
     "InstitutionallyDefinedQualityControlStandard": {
-        "111240": (
-            "Institutionally defined quality control standard",
-            [6045, 6136, 6208],
-        ),
+        "111240": ("Institutionally defined quality control standard", [6045, 6136, 6208]),
     },
     "InstrumentApproach": {
         "111431": ("Instrument Approach", []),
@@ -5559,10 +5477,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113958": ("Integrated Projection Radiography System", [10032]),
     },
     "IntegrationOfSumOfClosedAreasOnContiguousSlicesMethodForVolume": {
-        "122503": (
-            "Integration of sum of closed areas on contiguous slices method for volume",
-            [7474],
-        ),
+        "122503": ("Integration of sum of closed areas on contiguous slices method for volume", [7474]),
     },
     "InterHemisphericPlane": {
         "125030": ("Inter-Hemispheric Plane", [7101, 7111]),
@@ -5884,10 +5799,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111125": ("Known biopsy proven malignancy", [6051]),
     },
     "KnownBiopsyProvenMalignancyTakeAppropriateAction": {
-        "111122": (
-            "Known biopsy proven malignancy - take appropriate action",
-            [6028, 6029],
-        ),
+        "111122": ("Known biopsy proven malignancy - take appropriate action", [6028, 6029]),
     },
     "Ktrans": {
         "126312": ("Ktrans", [218, 4107, 7180, 7469]),
@@ -6049,28 +5961,19 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "125270": ("Left Ventricle Mass by Area Length", [12227, 12232]),
     },
     "LeftVentricleMassByAreaLengthAdjustedByHeight": {
-        "125273": (
-            "Left Ventricle Mass by Area Length - adjusted by Height",
-            [12227, 12232],
-        ),
+        "125273": ("Left Ventricle Mass by Area Length - adjusted by Height", [12227, 12232]),
     },
     "LeftVentricleMassByMMode": {
         "125221": ("Left Ventricle Mass by M-mode", [12227, 12232]),
     },
     "LeftVentricleMassByMModeAdjustedByHeight": {
-        "125271": (
-            "Left Ventricle Mass by M-mode - adjusted by Height",
-            [12227, 12232],
-        ),
+        "125271": ("Left Ventricle Mass by M-mode - adjusted by Height", [12227, 12232]),
     },
     "LeftVentricleMassByTruncatedEllipse": {
         "125222": ("Left Ventricle Mass by Truncated Ellipse", [12227, 12232]),
     },
     "LeftVentricleMassByTruncatedEllipseAdjustedByHeight": {
-        "125272": (
-            "Left Ventricle Mass by Truncated Ellipse - adjusted by Height",
-            [12227, 12232],
-        ),
+        "125272": ("Left Ventricle Mass by Truncated Ellipse - adjusted by Height", [12227, 12232]),
     },
     "LeftVentricularEjectionTime": {
         "122211": ("Left Ventricular ejection time", [3613]),
@@ -6355,16 +6258,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111197": ("MLO Insufficient pectoral muscle", [6041]),
     },
     "MLONoFatIsVisualizedPosteriorToFibroglandularTissues": {
-        "111198": (
-            "MLO No fat is visualized posterior to fibroglandular tissues",
-            [6041],
-        ),
+        "111198": ("MLO No fat is visualized posterior to fibroglandular tissues", [6041]),
     },
     "MLOPoorSeparationOfDeepAndSuperficialBreastTissues": {
-        "111199": (
-            "MLO Poor separation of deep and superficial breast tissues",
-            [6041],
-        ),
+        "111199": ("MLO Poor separation of deep and superficial breast tissues", [6041]),
     },
     "MODImported": {
         "110026": ("MOD Imported", [7008]),
@@ -6959,10 +6856,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "130113": ("Mold", [7151, 7157, 7193, 9505, 9513, 9520]),
     },
     "MonoExponentialApparentDiffusionCoefficient": {
-        "113290": (
-            "Mono-exponential Apparent Diffusion Coefficient",
-            [218, 7180, 7272, 7469],
-        ),
+        "113290": ("Mono-exponential Apparent Diffusion Coefficient", [218, 7180, 7272, 7469]),
     },
     "MonoExponentialDiffusionModel": {
         "113250": ("Mono-exponential diffusion model", [7273]),
@@ -7094,16 +6988,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122655": ("NASCET", [3804]),
     },
     "NAcetylaspartateCholineRatio": {
-        "113083": (
-            "N-acetylaspartate/Choline Ratio",
-            [218, 4032, 4033, 7180, 7186, 7469],
-        ),
+        "113083": ("N-acetylaspartate/Choline Ratio", [218, 4032, 4033, 7180, 7186, 7469]),
     },
     "NAcetylaspartateCreatineRatio": {
-        "113082": (
-            "N-acetylaspartate/Creatine Ratio",
-            [218, 4032, 4033, 7180, 7186, 7469],
-        ),
+        "113082": ("N-acetylaspartate/Creatine Ratio", [218, 4032, 4033, 7180, 7186, 7469]),
     },
     "NEMAXR212000Phantom": {
         "113692": ("NEMA XR21-2000 Phantom", [4051, 4052]),
@@ -7349,10 +7237,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "112045": ("Non-Target Lesion Complete Response", [6143, 6144]),
     },
     "NonTargetLesionIncompleteResponseOrStableDisease": {
-        "112046": (
-            "Non-Target Lesion Incomplete Response or Stable Disease",
-            [6143, 6144],
-        ),
+        "112046": ("Non-Target Lesion Incomplete Response or Stable Disease", [6143, 6144]),
     },
     "NonTargetLesionProgressiveDisease": {
         "112047": ("Non-Target Lesion Progressive Disease", [6143, 6144]),
@@ -7412,10 +7297,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111225": ("Not Attempted", [6042]),
     },
     "NotForPresentationRenderingDeviceExpectedNotToPresent": {
-        "111152": (
-            "Not for Presentation: Rendering device expected not to present",
-            [6034],
-        ),
+        "111152": ("Not for Presentation: Rendering device expected not to present", [6034]),
     },
     "NotOptimizedForTheDeviceInstance": {
         "128620": ("Not optimized for the device instance", [800]),
@@ -7457,10 +7339,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "121038": ("Number of Fetuses", []),
     },
     "NumberOfFirstDegreeRelativesAffectedByMalignantMelanoma": {
-        "130487": (
-            "Number of first-degree relatives affected by malignant melanoma",
-            [],
-        ),
+        "130487": ("Number of first-degree relatives affected by malignant melanoma", []),
     },
     "NumberOfFocalPlanes": {
         "112707": ("Number of focal planes", []),
@@ -7619,10 +7498,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111455": ("Occult blood test result", []),
     },
     "OccultCarcinomaPresentingWithAxillaryLymphNodeMetastases": {
-        "111322": (
-            "Occult carcinoma presenting with axillary lymph node metastases",
-            [6030, 6033],
-        ),
+        "111322": ("Occult carcinoma presenting with axillary lymph node metastases", [6030, 6033]),
     },
     "OfInterest": {
         "113000": ("Of Interest", [7010]),
@@ -8427,10 +8303,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111483": ("Percutaneous silicone injection", [6058, 6059]),
     },
     "PerformanceOfCTForDetectionOfPulmonaryEmbolismInAdults": {
-        "112185": (
-            "Performance of CT for Detection of Pulmonary Embolism in Adults",
-            [6136],
-        ),
+        "112185": ("Performance of CT for Detection of Pulmonary Embolism in Adults", [6136]),
     },
     "PerformanceOfHighResolutionCTOfTheLungsInAdults": {
         "112186": ("Performance of High-Resolution CT of the Lungs in Adults", [6136]),
@@ -8463,16 +8336,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "110831": ("Perfusion", [218, 7180, 7469]),
     },
     "PerfusionAnalysisByArterialSpinLabelingMRTechnique": {
-        "126302": (
-            "Perfusion analysis by Arterial Spin Labeling MR technique",
-            [4102, 4106],
-        ),
+        "126302": ("Perfusion analysis by Arterial Spin Labeling MR technique", [4102, 4106]),
     },
     "PerfusionAnalysisByIVIodinatedContrastCTTechnique": {
-        "126301": (
-            "Perfusion analysis by IV Iodinated Contrast CT technique",
-            [4102, 4106],
-        ),
+        "126301": ("Perfusion analysis by IV Iodinated Contrast CT technique", [4102, 4106]),
     },
     "PerfusionAnalysisByStableXenonCTTechnique": {
         "126300": ("Perfusion analysis by Stable Xenon CT technique", [4102, 4106]),
@@ -8566,10 +8433,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111550": ("Personal breast cancer history", [6081, 6087]),
     },
     "PersonalHistoryOfBreastCancerWithBreastConservationTherapy": {
-        "111421": (
-            "Personal history of breast cancer with breast conservation therapy",
-            [6051],
-        ),
+        "111421": ("Personal history of breast cancer with breast conservation therapy", [6051]),
     },
     "PersonalHistoryOfBreastCancerWithMastectomy": {
         "111124": ("Personal history of breast cancer with mastectomy", [6051]),
@@ -8581,24 +8445,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122042": ("Personnel Departed", [3404]),
     },
     "Phantom": {
-        "113681": (
-            "Phantom",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4042,
-                4051,
-                4052,
-                7151,
-                7192,
-                7710,
-                8134,
-                9514,
-                10060,
-            ],
-        ),
+        "113681": ("Phantom", [4, 4009, 4030, 4031, 4042, 4051, 4052, 7151, 7192, 7710, 8134, 9514, 10060]),
     },
     "PhantomTumor": {
         "112123": ("Phantom tumor (pseudotumor)", [6102, 6104]),
@@ -8982,10 +8829,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "110871": ("Posterior To Anterior", [7185]),
     },
     "PosteriorTrachealStripe": {
-        "112092": (
-            "Posterior tracheal stripe",
-            [6102, 6109, 6113, 6148, 7151, 7192, 9514],
-        ),
+        "112092": ("Posterior tracheal stripe", [6102, 6109, 6113, 6148, 7151, 7192, 9514]),
     },
     "Posttreatment": {
         "126074": ("Posttreatment", [6146]),
@@ -9060,10 +8904,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111151": ("Presentation Optional: Rendering device may present", [6034]),
     },
     "PresentationRequiredRenderingDeviceIsExpectedToPresent": {
-        "111150": (
-            "Presentation Required: Rendering device is expected to present",
-            [6034],
-        ),
+        "111150": ("Presentation Required: Rendering device is expected to present", [6034]),
     },
     "PresentationState": {
         "PR": ("Presentation State", [32, 33]),
@@ -9432,28 +9273,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "126757": ("RO6958948 ^18^F", [4021]),
     },
     "RRInterval": {
-        "122182": (
-            "R-R interval",
-            [
-                3613,
-                12254,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-            ],
-        ),
+        "122182": ("R-R interval", [3613, 12254, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274]),
     },
     "RTBeamEnergy": {
         "130034": ("RT Beam Energy", []),
@@ -10294,16 +10114,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113112": ("Retain Institution Identity Option", [7050]),
     },
     "RetainLongitudinalTemporalInformationFullDatesOption": {
-        "113106": (
-            "Retain Longitudinal Temporal Information Full Dates Option",
-            [7050],
-        ),
+        "113106": ("Retain Longitudinal Temporal Information Full Dates Option", [7050]),
     },
     "RetainLongitudinalTemporalInformationModifiedDatesOption": {
-        "113107": (
-            "Retain Longitudinal Temporal Information Modified Dates Option",
-            [7050],
-        ),
+        "113107": ("Retain Longitudinal Temporal Information Modified Dates Option", [7050]),
     },
     "RetainPatientCharacteristicsOption": {
         "113108": ("Retain Patient Characteristics Option", [7050]),
@@ -10703,10 +10517,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113607": ("Series Number", [10022]),
     },
     "SeriesOrInstanceUsedForWaterEquivalentDiameterEstimation": {
-        "113985": (
-            "Series or Instance used for Water Equivalent Diameter estimation",
-            [],
-        ),
+        "113985": ("Series or Instance used for Water Equivalent Diameter estimation", []),
     },
     "ServiceDeliveryLocation": {
         "121434": ("Service Delivery Location", []),
@@ -11326,10 +11137,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113061": ("Standard Deviation", []),
     },
     "StandardDeviationDistanceOfCalcificationsInACluster": {
-        "112201": (
-            "Standard deviation distance of calcifications in a cluster",
-            [6142],
-        ),
+        "112201": ("Standard deviation distance of calcifications in a cluster", [6142]),
     },
     "StandardDeviationOfAttenuationCoefficient": {
         "112183": ("Standard Deviation of Attenuation Coefficient", [6141]),
@@ -11658,10 +11466,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "112359": ("Supporting Information", []),
     },
     "SurfaceBetweenInnerAndOuterSegmentsOfThePhotoreceptors": {
-        "128295": (
-            "Surface between Inner and Outer Segments of the photoreceptors",
-            [4273, 7151, 7192, 9514],
-        ),
+        "128295": ("Surface between Inner and Outer Segments of the photoreceptors", [4273, 7151, 7192, 9514]),
     },
     "SurfaceContourMapping": {
         "111792": ("Surface contour mapping", [4245]),
@@ -11673,10 +11478,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128301": ("Surface of the choroid-sclera interface", [4273, 7151, 7192, 9514]),
     },
     "SurfaceOfTheInterdigitatingZoneBetweenRetinaAndRPE": {
-        "128296": (
-            "Surface of the interdigitating zone between retina and RPE",
-            [4273, 7151, 7192, 9514],
-        ),
+        "128296": ("Surface of the interdigitating zone between retina and RPE", [4273, 7151, 7192, 9514]),
     },
     "SurfaceRendering": {
         "113075": ("Surface rendering", [7203]),
@@ -11733,16 +11535,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122162": ("Systemic Flow", [3618]),
     },
     "SystolicBloodVelocityMean": {
-        "122203": (
-            "Systolic blood velocity, mean",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122203": ("Systolic blood velocity, mean", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "SystolicBloodVelocityPeak": {
-        "122204": (
-            "Systolic blood velocity, peak",
-            [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276],
-        ),
+        "122204": ("Systolic blood velocity, peak", [3612, 12261, 12263, 12264, 12266, 12267, 12268, 12276]),
     },
     "SystolicPeakPressure": {
         "109033": ("Systolic peak pressure", []),
@@ -11766,10 +11562,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "126353": ("T1 Used For Calculation", []),
     },
     "T1WeightedDynamicContrastEnhancedMRSignalIntensity": {
-        "110816": (
-            "T1 Weighted Dynamic Contrast Enhanced MR Signal Intensity",
-            [218, 7180, 7469],
-        ),
+        "110816": ("T1 Weighted Dynamic Contrast Enhanced MR Signal Intensity", [218, 7180, 7469]),
     },
     "T1WeightedMRSignalIntensity": {
         "110804": ("T1 Weighted MR Signal Intensity", [218, 7180, 7469]),
@@ -11787,19 +11580,13 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113064": ("T2*", [218, 7180, 7469]),
     },
     "T2StarWeightedDynamicContrastEnhancedMRSignalIntensity": {
-        "110818": (
-            "T2* Weighted Dynamic Contrast Enhanced MR Signal Intensity",
-            [218, 7180, 7469],
-        ),
+        "110818": ("T2* Weighted Dynamic Contrast Enhanced MR Signal Intensity", [218, 7180, 7469]),
     },
     "T2StarWeightedMRSignalIntensity": {
         "110806": ("T2* Weighted MR Signal Intensity", [218, 7180, 7469]),
     },
     "T2WeightedDynamicContrastEnhancedMRSignalIntensity": {
-        "110817": (
-            "T2 Weighted Dynamic Contrast Enhanced MR Signal Intensity",
-            [218, 7180, 7469],
-        ),
+        "110817": ("T2 Weighted Dynamic Contrast Enhanced MR Signal Intensity", [218, 7180, 7469]),
     },
     "T2WeightedMRSignalIntensity": {
         "110805": ("T2 Weighted MR Signal Intensity", [218, 7180, 7469]),
@@ -12204,29 +11991,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111127": ("Targeted", [6051, 6058, 6061]),
     },
     "Tau": {
-        "109072": (
-            "Tau",
-            [
-                3337,
-                3613,
-                12254,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-            ],
-        ),
+        "109072": ("Tau", [3337, 3613, 12254, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274]),
     },
     "TauM": {
         "126330": ("tau_m", [218, 4107, 7180, 7469]),
@@ -12268,10 +12033,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "121349": ("Temporal Successor", [7201]),
     },
     "TemporallyRelatedFramesExtractedFromTheSetOfVolumes": {
-        "113092": (
-            "Temporally-related frames extracted from the set of volumes",
-            [7203],
-        ),
+        "113092": ("Temporally-related frames extracted from the set of volumes", [7203]),
     },
     "TerminatedByScanner": {
         "130177": ("Terminated by scanner", [67, 71]),
@@ -12385,10 +12147,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "110802": ("Time Of Flight Angio MR Signal Intensity", [218, 7180, 7469]),
     },
     "TimeOfLeadingHalfPeakConcentration": {
-        "126372": (
-            "Time of Leading Half-Peak Concentration",
-            [218, 4104, 4106, 4109, 7180, 7469],
-        ),
+        "126372": ("Time of Leading Half-Peak Concentration", [218, 4104, 4106, 4109, 7180, 7469]),
     },
     "TimeOfPeakConcentration": {
         "126370": ("Time of Peak Concentration", [218, 4104, 4106, 4109, 7180, 7469]),
@@ -12972,10 +12731,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111179": ("View and Laterality Marker does not have approved codes", [6041]),
     },
     "ViewAndLateralityMarkerDoesNotHaveBothViewAndLaterality": {
-        "111178": (
-            "View and Laterality Marker does not have both view and laterality",
-            [6041],
-        ),
+        "111178": ("View and Laterality Marker does not have both view and laterality", [6041]),
     },
     "ViewAndLateralityMarkerIsIncorrect": {
         "111183": ("View and Laterality Marker is incorrect", [6041]),
@@ -13176,10 +12932,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122652": ("Volume Based Method", [3807]),
     },
     "VolumeCorrespondingToSpatiallyRelatedAcquisitionFrames": {
-        "121347": (
-            "Volume corresponding to spatially-related acquisition frames",
-            [7201],
-        ),
+        "121347": ("Volume corresponding to spatially-related acquisition frames", [7201]),
     },
     "VolumeEditing": {
         "113077": ("Volume editing", [7203]),
@@ -13188,16 +12941,10 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "121216": ("Volume estimated from single 2D region", [218, 3471, 7469, 7472]),
     },
     "VolumeEstimatedFromThreeOrMoreNonCoplanar2DRegions": {
-        "121217": (
-            "Volume estimated from three or more non-coplanar 2D regions",
-            [218, 7469, 7472],
-        ),
+        "121217": ("Volume estimated from three or more non-coplanar 2D regions", [218, 7469, 7472]),
     },
     "VolumeEstimatedFromTwoNonCoplanar2DRegions": {
-        "121218": (
-            "Volume estimated from two non-coplanar 2D regions",
-            [218, 3471, 7469, 7472],
-        ),
+        "121218": ("Volume estimated from two non-coplanar 2D regions", [218, 3471, 7469, 7472]),
     },
     "VolumeMethod": {
         "122429": ("Volume Method", []),
@@ -13248,40 +12995,22 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122096": ("Volume unadministered or discarded", [3410]),
     },
     "VolumetricDiffusionDxxComponent": {
-        "110810": (
-            "Volumetric Diffusion Dxx Component",
-            [218, 7180, 7186, 7263, 7270, 7469],
-        ),
+        "110810": ("Volumetric Diffusion Dxx Component", [218, 7180, 7186, 7263, 7270, 7469]),
     },
     "VolumetricDiffusionDxyComponent": {
-        "110811": (
-            "Volumetric Diffusion Dxy Component",
-            [218, 7180, 7186, 7263, 7270, 7469],
-        ),
+        "110811": ("Volumetric Diffusion Dxy Component", [218, 7180, 7186, 7263, 7270, 7469]),
     },
     "VolumetricDiffusionDxzComponent": {
-        "110812": (
-            "Volumetric Diffusion Dxz Component",
-            [218, 7180, 7186, 7263, 7270, 7469],
-        ),
+        "110812": ("Volumetric Diffusion Dxz Component", [218, 7180, 7186, 7263, 7270, 7469]),
     },
     "VolumetricDiffusionDyyComponent": {
-        "110813": (
-            "Volumetric Diffusion Dyy Component",
-            [218, 7180, 7186, 7263, 7270, 7469],
-        ),
+        "110813": ("Volumetric Diffusion Dyy Component", [218, 7180, 7186, 7263, 7270, 7469]),
     },
     "VolumetricDiffusionDyzComponent": {
-        "110814": (
-            "Volumetric Diffusion Dyz Component",
-            [218, 7180, 7186, 7263, 7270, 7469],
-        ),
+        "110814": ("Volumetric Diffusion Dyz Component", [218, 7180, 7186, 7263, 7270, 7469]),
     },
     "VolumetricDiffusionDzzComponent": {
-        "110815": (
-            "Volumetric Diffusion Dzz Component",
-            [218, 7180, 7186, 7263, 7270, 7469],
-        ),
+        "110815": ("Volumetric Diffusion Dzz Component", [218, 7180, 7186, 7263, 7270, 7469]),
     },
     "VoxelizedRadiationTransportModel": {
         "128422": ("Voxelized Radiation Transport Model", [10065]),
@@ -13338,10 +13067,7 @@ concepts_DCM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113983": ("Water Equivalent Diameter From Raw Data", [10024, 10069]),
     },
     "WaterEquivalentDiameterIntegratedAcrossScanRange": {
-        "113982": (
-            "Water Equivalent Diameter Integrated Across Scan Range",
-            [10024, 10069],
-        ),
+        "113982": ("Water Equivalent Diameter Integrated Across Scan Range", [10024, 10069]),
     },
     "WaterEquivalentDiameterRepresentativeValue": {
         "113981": ("Water Equivalent Diameter Representative Value", [10024, 10069]),

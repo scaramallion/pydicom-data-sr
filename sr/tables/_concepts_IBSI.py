@@ -15,10 +15,7 @@ concepts_IBSI: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "7T7F": ("Area Density in Convex Hull", [218, 7477]),
     },
     "AreaDensityInFrameOfReferenceAxisAlignedBoundingBox": {
-        "R59B": (
-            "Area Density in Frame of Reference Axis Aligned Bounding Box",
-            [218, 7477],
-        ),
+        "R59B": ("Area Density in Frame of Reference Axis Aligned Bounding Box", [218, 7477]),
     },
     "AreaDensityInMinimumVolumeEnclosingEllipsoid": {
         "BRI8": ("Area Density in Minimum Volume Enclosing Ellipsoid", [218, 7477]),
@@ -126,10 +123,7 @@ concepts_IBSI: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "BYLV": ("Gray Level Variance in Size Zones", [218, 7468, 7476]),
     },
     "GreyLevelNonUniformityOfDistanceZoneCounts": {
-        "VFT7": (
-            "Grey Level Non-uniformity of Distance Zone Counts",
-            [218, 7468, 7479],
-        ),
+        "VFT7": ("Grey Level Non-uniformity of Distance Zone Counts", [218, 7468, 7479]),
     },
     "GreyLevelNonUniformityOfNGLDM": {
         "FP8K": ("Grey level non-uniformity of NGLDM", [218, 7468, 7501]),
@@ -216,19 +210,13 @@ concepts_IBSI: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "AMMC": ("Intensity Histogram Mode", [218, 7468, 7478]),
     },
     "IntensityHistogramQuartileCoefficientOfDispersion": {
-        "SLWD": (
-            "Intensity Histogram Quartile Coefficient of Dispersion",
-            [218, 7468, 7478],
-        ),
+        "SLWD": ("Intensity Histogram Quartile Coefficient of Dispersion", [218, 7468, 7478]),
     },
     "IntensityHistogramRange": {
         "5Z3W": ("Intensity Histogram Range", [218, 7468, 7478]),
     },
     "IntensityHistogramRobustMeanAbsoluteDeviation": {
-        "WRZB": (
-            "Intensity Histogram Robust Mean Absolute Deviation",
-            [218, 7468, 7478],
-        ),
+        "WRZB": ("Intensity Histogram Robust Mean Absolute Deviation", [218, 7468, 7478]),
     },
     "IntensityHistogramSkewness": {
         "88K1": ("Intensity Histogram Skewness", [218, 7468, 7478]),
@@ -327,16 +315,10 @@ concepts_IBSI: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "OVBL": ("Normalized Gray Level Nonuniformity in Runs", [218, 7468, 7475]),
     },
     "NormalizedGrayLevelNonuniformityOfSizeZoneCounts": {
-        "Y1RO": (
-            "Normalized Gray Level Nonuniformity of Size Zone Counts",
-            [218, 7468, 7476],
-        ),
+        "Y1RO": ("Normalized Gray Level Nonuniformity of Size Zone Counts", [218, 7468, 7476]),
     },
     "NormalizedGreyLevelNonUniformityOfDistanceZoneCounts": {
-        "7HP3": (
-            "Normalized Grey Level Non-uniformity of Distance Zone Counts",
-            [218, 7468, 7479],
-        ),
+        "7HP3": ("Normalized Grey Level Non-uniformity of Distance Zone Counts", [218, 7468, 7479]),
     },
     "NormalizedGreyLevelNonUniformityOfNGLDM": {
         "5SPA": ("Normalized grey level non-uniformity of NGLDM", [218, 7468, 7501]),
@@ -369,10 +351,7 @@ concepts_IBSI: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "9ZK5": ("Run Percentage", [218, 7468, 7475]),
     },
     "SecondMeasureOfInformationCorrelationOfGLCM": {
-        "JN9H": (
-            "Second Measure of Information Correlation of GLCM",
-            [218, 7467, 7468],
-        ),
+        "JN9H": ("Second Measure of Information Correlation of GLCM", [218, 7467, 7468]),
     },
     "ShortRunHighGrayLevelEmphasis": {
         "GD3A": ("Short Run High Gray Level Emphasis", [218, 7468, 7475]),
@@ -435,10 +414,7 @@ concepts_IBSI: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "R3ER": ("Volume Density in Convex Hull", [218, 7477]),
     },
     "VolumeDensityInFrameOfReferenceAxisAlignedBoundingBox": {
-        "PBX1": (
-            "Volume Density in Frame of Reference Axis Aligned Bounding Box",
-            [218, 7477],
-        ),
+        "PBX1": ("Volume Density in Frame of Reference Axis Aligned Bounding Box", [218, 7477]),
     },
     "VolumeDensityInMinimumVolumeEnclosingEllipsoid": {
         "SWZ1": ("Volume Density in Minimum Volume Enclosing Ellipsoid", [218, 7477]),

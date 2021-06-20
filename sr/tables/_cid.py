@@ -2911,9 +2911,7 @@ cid_concepts[619] = {
     ],
 }
 
-name_for_cid[
-    620
-] = "AirwayManagementSubMethodCodeTypefromAnesthesiaQualityInitiative(AQI)"
+name_for_cid[620] = "AirwayManagementSubMethodCodeTypefromAnesthesiaQualityInitiative(AQI)"
 cid_concepts[620] = {
     "SCT": [
         "ContinuousFlowVentilation",
@@ -3191,7 +3189,8 @@ cid_concepts[627] = {
 }
 
 name_for_cid[628] = "AncillaryMedicationsforSmallAnimalAnesthesia"
-cid_concepts[628] = {}
+cid_concepts[628] = {
+}
 
 name_for_cid[629] = "CarrierGasesforSmallAnimalAnesthesia"
 cid_concepts[629] = {
@@ -6845,7 +6844,8 @@ cid_concepts[3416] = {
 }
 
 name_for_cid[3418] = "LesionRisk"
-cid_concepts[3418] = {}
+cid_concepts[3418] = {
+}
 
 name_for_cid[3419] = "FindingsTitles"
 cid_concepts[3419] = {
@@ -8939,13 +8939,16 @@ cid_concepts[3729] = {
 }
 
 name_for_cid[3730] = "InsurancePayor"
-cid_concepts[3730] = {}
+cid_concepts[3730] = {
+}
 
 name_for_cid[3733] = "PrimaryCauseofDeath"
-cid_concepts[3733] = {}
+cid_concepts[3733] = {
+}
 
 name_for_cid[3735] = "AcuteCoronarySyndromeTimePeriod"
-cid_concepts[3735] = {}
+cid_concepts[3735] = {
+}
 
 name_for_cid[3736] = "NYHAClassification"
 cid_concepts[3736] = {
@@ -8958,10 +8961,12 @@ cid_concepts[3736] = {
 }
 
 name_for_cid[3737] = "NoninvasiveTestIschemia"
-cid_concepts[3737] = {}
+cid_concepts[3737] = {
+}
 
 name_for_cid[3738] = "PreCathAnginaType"
-cid_concepts[3738] = {}
+cid_concepts[3738] = {
+}
 
 name_for_cid[3739] = "CathProcedureType"
 cid_concepts[3739] = {
@@ -9048,7 +9053,8 @@ cid_concepts[3746] = {
 }
 
 name_for_cid[3747] = "PercutaneousClosure"
-cid_concepts[3747] = {}
+cid_concepts[3747] = {
+}
 
 name_for_cid[3748] = "AngiographicEFTestingMethod"
 cid_concepts[3748] = {
@@ -9059,10 +9065,12 @@ cid_concepts[3748] = {
 }
 
 name_for_cid[3749] = "PCIProcedureResult"
-cid_concepts[3749] = {}
+cid_concepts[3749] = {
+}
 
 name_for_cid[3750] = "PreviouslyDilatedLesion"
-cid_concepts[3750] = {}
+cid_concepts[3750] = {
+}
 
 name_for_cid[3752] = "GuidewireCrossing"
 cid_concepts[3752] = {
@@ -10274,9 +10282,7 @@ cid_concepts[4017] = {
     ],
 }
 
-name_for_cid[
-    4018
-] = "PrimaryAnatomicStructureforIntraoralRadiography(PermanentDentitionDesignationofTeeth)"
+name_for_cid[4018] = "PrimaryAnatomicStructureforIntraoralRadiography(PermanentDentitionDesignationofTeeth)"
 cid_concepts[4018] = {
     "SCT": [
         "MandibularLeftCanineTooth",
@@ -10314,9 +10320,7 @@ cid_concepts[4018] = {
     ],
 }
 
-name_for_cid[
-    4019
-] = "PrimaryAnatomicStructureforIntraoralRadiography(DeciduousDentitionDesignationofTeeth)"
+name_for_cid[4019] = "PrimaryAnatomicStructureforIntraoralRadiography(DeciduousDentitionDesignationofTeeth)"
 cid_concepts[4019] = {
     "SCT": [
         "DeciduousMandibularLeftCanineTooth",
@@ -10530,9 +10534,7 @@ cid_concepts[4021] = {
     ],
 }
 
-name_for_cid[
-    4025
-] = "PrimaryAnatomicStructureforIntraoralRadiography(SupernumeraryDentitionDesignationofTeeth)"
+name_for_cid[4025] = "PrimaryAnatomicStructureforIntraoralRadiography(SupernumeraryDentitionDesignationofTeeth)"
 cid_concepts[4025] = {
     "SCT": [
         "SupernumeraryDeciduousMandibularLeftCanineTooth",
@@ -10590,9 +10592,7 @@ cid_concepts[4025] = {
     ],
 }
 
-name_for_cid[
-    4026
-] = "PrimaryAnatomicStructureforIntraoralandCraniofacialRadiographyTeeth"
+name_for_cid[4026] = "PrimaryAnatomicStructureforIntraoralandCraniofacialRadiographyTeeth"
 cid_concepts[4026] = {
     "SCT": [
         "DeciduousMandibularLeftCanineTooth",
@@ -13057,7 +13057,8 @@ cid_concepts[6026] = {
 }
 
 name_for_cid[6027] = "AssessmentfromBIRADS®"
-cid_concepts[6027] = {}
+cid_concepts[6027] = {
+}
 
 name_for_cid[6028] = "MammographyRecommendedFollowup"
 cid_concepts[6028] = {
@@ -18936,9 +18937,7 @@ cid_concepts[7185] = {
     ],
 }
 
-name_for_cid[
-    7186
-] = "AbstractMultidimensionalImageModelQualitativeDimensionSampleSemantics"
+name_for_cid[7186] = "AbstractMultidimensionalImageModelQualitativeDimensionSampleSemantics"
 cid_concepts[7186] = {
     "DCM": [
         "CholineCreatineRatio",

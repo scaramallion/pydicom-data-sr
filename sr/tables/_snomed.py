@@ -12,7 +12,7 @@ from typing import Dict
 
 mapping: Dict[str, Dict[str, str]] = {}
 
-mapping["SCT"] = {
+mapping['SCT'] = {
     "111002": "T-B7000",
     "125001": "C-B1123",
     "187006": "C-B1021",

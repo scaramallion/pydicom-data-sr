@@ -91,19 +91,16 @@ def download_file(url: str, dst: Path) -> None:
         f.write(r.content)
 
 
-def download_files(urls: List[str], dsts: List[Path]) -> None:
+def download_files(urls_dsts: List[Tuple[str, Path]]) -> None:
     """Use requests to download the data at `urls` and write it to `dsts`.
 
     Parameters
     ----------
-    urls : list of str
-        The URLs of the data to be downloaded.
-    dsts : list of pathlib.Path
-        The paths where the data should be written.
+    urls : list of Tuple[str, Path]
+        A list of (URL, path where the data should be written).
     """
-    args = [(a, b) for a, b in zip(urls, dsts)]
     with ThreadPoolExecutor(max_workers=32) as pool:
-        pool.map(lambda p: download_file(*p), args)
+        pool.map(lambda p: download_file(*p), urls_dsts)
 
 
 def _hash_func(path: Path) -> Tuple[Path, str]:

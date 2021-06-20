@@ -38,11 +38,13 @@ ConceptType = Dict[str, Dict[str, Dict[str, Tuple[str, List[int]]]]]
 SnomedType = List[Tuple[str, str, str]]
 CIDListType = Dict[int, Dict[str, List[str]]]
 NameForCIDType = Dict[int, str]
+RetiredCodesType = Dict[str, Dict[str, Tuple[str, str]]]
 ProcessReturnType = Tuple[
     SnomedType,
     ConceptType,
     CIDListType,
     NameForCIDType,
+    RetiredCodesType,
 ]
 
 
@@ -50,6 +52,7 @@ def process_source_data(
     cid_paths: List[Path],
     table_o1: Path,
     table_d1: Path,
+    table_j1: Path,
 ) -> ProcessReturnType:
     """Process the downloaded souce data.
 
@@ -63,12 +66,15 @@ def process_source_data(
     table_d1 : pathlib.Path
         The path to the Part 16, Table D-1 HTML file, contains the
         'DICOM Controlled Terminology Definitions' data.
+    table_j1 : pathlib.Path
+        The path to the Part 16, Table J-1 HTML file, contains the
+        'SNOMED Codes Retired from DICOM Use' data.
 
     Returns
     -------
-    (list, dict, dict, dict)
-        The SNOMED mappings and concepts, CID list and CID to name
-        dictionaries.
+    (list, dict, dict, dict, dict)
+        The SNOMED mappings and concepts, CID list, CID to name and retired
+        codes dictionaries.
     """
     CID_REGEX = re.compile("^dicom-cid-([0-9]+)-[a-zA-Z]+")
     concepts: ConceptType = {}
@@ -148,58 +154,11 @@ def process_source_data(
 
     snomed, concepts = process_table_o1(concepts, table_o1)
     dicom, concepts = process_table_d1(concepts, table_d1)
+    retired = process_retired(concepts, table_j1)
 
     cid_lists = {k: v for k, v in sorted(cid_lists.items(), key=lambda x: x[0])}
 
-    return snomed, concepts, cid_lists, name_for_cid
-
-
-def process_table_o1(
-    concepts: ConceptType,
-    table: Path,
-) -> Tuple[List[Tuple[str, str, str]], ConceptType]:
-    """Process the Part 16, O-1 table and add the data to `concepts`
-
-    Parameters
-    ----------
-    concepts : dict
-        A dict containing the processed CID files.
-    table : pathlib.Path
-        The path to the Part 16, Table O-1 HTML file, contains the
-        'SNOMED Concept ID to SNOMED ID Mapping' data.
-
-    Returns
-    -------
-    codes : List[Tuple[str, str, str]]
-        A list of SNOMED codes as (Concept ID, SNOMED ID, SNOMED Fully
-        Specified Name).
-    concepts : dict
-        A dict containing the processed CID files with added SNOMED concepts.
-    """
-    LOGGER.info(f"Processing 'SCT' table from '{table.name}'")
-    scheme = "SCT"
-
-    with open(table, "rb") as f:
-        doc = BeautifulSoup(f.read(), "html.parser")
-
-    # List[(Concept ID, SNOMED ID, SNOMED Fully Specified Name)]
-    codes: List[Tuple[str, str, str]] = []
-    data = doc.find_all("table")[2]
-    for row in data.tbody.find_all("tr"):
-        [code, srt_code, meaning] = [
-            cell.get_text().strip() for cell in row.find_all("td")
-        ]
-        name = identifier_from_meaning(meaning)
-        if name not in concepts[scheme]:
-            concepts[scheme][name] = {code: (meaning, [])}
-        else:
-            prior = concepts[scheme][name]
-            if code not in prior:
-                prior[code] = (meaning, [])
-
-        codes.append((code, srt_code, meaning))
-
-    return codes, concepts
+    return snomed, concepts, cid_lists, name_for_cid, retired
 
 
 def process_table_d1(
@@ -249,6 +208,104 @@ def process_table_d1(
                 prior[code] = (meaning, [])
 
         codes.append((code, meaning, definition, notes))
+
+    return codes, concepts
+
+
+def process_retired(
+    concepts: ConceptType,
+    table: Path,
+) -> List[Tuple[str, str, str]]:
+    """Process the Part 16 J-1 table.
+
+    * Coding scheme designator for the retired codes may be 99SDM, SNM3 or SRT.
+    * Applications receiving SOP instances should continue to support retired
+      codes with the meanings in Annex J.
+    * Some applications may continue to send retired codes with the meanings
+      defined in Annex J
+
+    Parameters
+    ----------
+    concepts : dict
+        A dict containing the processed CID files.
+    table : pathlib.Path
+        The path to the Part 16, Table J-1 HTML file, contains the
+        'SNOMED Codes Retired from DICOM Use' data.
+
+    Returns
+    -------
+    codes : List[Tuple[str, str, str, str]]
+        A list of code values and meanings as (Retired Code Value, Code
+        Meaning, Replacement Code, Notes).
+    """
+    LOGGER.info(f"Processing 'DCM' table from '{table.name}'")
+    scheme = "DCM"
+
+    with open(table, "rb") as f:
+        doc = BeautifulSoup(f.read(), "html.parser")
+
+    # (Code Value, Code Meaning, Definition, Notes)
+    codes: List[Tuple[str, str, str, str]] = []
+    data = doc.find_all("table")[2]
+    for row in data.tbody.find_all("tr"):
+        [code, meaning, replacement, notes] = [
+            cell.get_text().strip() for cell in row.find_all("td")
+        ]
+        # Add replacement processing
+        if replacement == "":
+            # Check the notes for possible replacements
+            # However some codes have no replacement
+            pass
+
+        codes.append((code, scheme, replacement))
+
+    return codes
+
+
+def process_table_o1(
+    concepts: ConceptType,
+    table: Path,
+) -> Tuple[List[Tuple[str, str, str]], ConceptType]:
+    """Process the Part 16, O-1 table and add the data to `concepts`
+
+    Parameters
+    ----------
+    concepts : dict
+        A dict containing the processed CID files.
+    table : pathlib.Path
+        The path to the Part 16, Table O-1 HTML file, contains the
+        'SNOMED Concept ID to SNOMED ID Mapping' data.
+
+    Returns
+    -------
+    codes : List[Tuple[str, str, str]]
+        A list of SNOMED codes as (Concept ID, SNOMED ID, SNOMED Fully
+        Specified Name).
+    concepts : dict
+        A dict containing the processed CID files with added SNOMED concepts.
+    """
+    LOGGER.info(f"Processing 'SCT' table from '{table.name}'")
+    scheme = "SCT"
+
+    with open(table, "rb") as f:
+        doc = BeautifulSoup(f.read(), "html.parser")
+
+    # List[(Concept ID, SNOMED ID, SNOMED Fully Specified Name)]
+    codes: List[Tuple[str, str, str]] = []
+    data = doc.find_all("table")[2]
+    for row in data.tbody.find_all("tr"):
+        [code, srt_code, meaning] = [
+            cell.get_text().strip() for cell in row.find_all("td")
+        ]
+        name = identifier_from_meaning(meaning)
+        if name not in concepts[scheme]:
+            concepts[scheme][name] = {code: (meaning, [])}
+        else:
+            prior = concepts[scheme][name]
+            if code not in prior:
+                prior[code] = (meaning, [])
+
+        codes.append((code, srt_code, meaning))
 
     return codes, concepts
 

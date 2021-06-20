@@ -180,10 +180,7 @@ concepts_UCUM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "1": ("no units", [7181]),
     },
     "NumberParticlesPer100GramOfTissue": {
-        "{Particles}/[100]g{Tissue}": (
-            "number particles per 100 gram of tissue",
-            [7181],
-        ),
+        "{Particles}/[100]g{Tissue}": ("number particles per 100 gram of tissue", [7181]),
     },
     "PRU": {
         "[PRU]": ("P.R.U.", [3502, 7181]),
@@ -237,37 +234,22 @@ concepts_UCUM: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "mm2": ("square millimeter", [7181, 7461]),
     },
     "StandardizedUptakeValueBodySurfaceArea": {
-        "cm2/ml{SUVbsa}": (
-            "Standardized Uptake Value body surface area",
-            [83, 84, 85, 7181],
-        ),
+        "cm2/ml{SUVbsa}": ("Standardized Uptake Value body surface area", [83, 84, 85, 7181]),
     },
     "StandardizedUptakeValueBodyWeight": {
         "g/ml{SUVbw}": ("Standardized Uptake Value body weight", [83, 84, 85, 7181]),
     },
     "StandardizedUptakeValueIdealBodyWeight": {
-        "g/ml{SUVibw}": (
-            "Standardized Uptake Value ideal body weight",
-            [83, 84, 85, 7181],
-        ),
+        "g/ml{SUVibw}": ("Standardized Uptake Value ideal body weight", [83, 84, 85, 7181]),
     },
     "StandardizedUptakeValueLeanBodyMassJames": {
-        "g/ml{SUVlbm}": (
-            "Standardized Uptake Value lean body mass (James)",
-            [83, 84, 85, 7181],
-        ),
+        "g/ml{SUVlbm}": ("Standardized Uptake Value lean body mass (James)", [83, 84, 85, 7181]),
     },
     "StandardizedUptakeValueLeanBodyMassJames128Multiplier": {
-        "g/ml{SUVlbm(James128)}": (
-            "Standardized Uptake Value lean body mass (James 128 multiplier)",
-            [83, 84, 85, 7181],
-        ),
+        "g/ml{SUVlbm(James128)}": ("Standardized Uptake Value lean body mass (James 128 multiplier)", [83, 84, 85, 7181]),
     },
     "StandardizedUptakeValueLeanBodyMassJanma": {
-        "g/ml{SUVlbm(Janma)}": (
-            "Standardized Uptake Value lean body mass (Janma)",
-            [83, 84, 85, 7181],
-        ),
+        "g/ml{SUVlbm(Janma)}": ("Standardized Uptake Value lean body mass (Janma)", [83, 84, 85, 7181]),
     },
     "Sv": {
         "Sv": ("Sv", [7181, 10071]),

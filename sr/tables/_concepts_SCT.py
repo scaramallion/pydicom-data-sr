@@ -24,66 +24,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128617001": ("AV Fistula", [3413, 3754]),
     },
     "AVGrooveContinuationOfCircumflexArtery": {
-        "75902001": (
-            "AV groove continuation of Circumflex Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "75902001": ("AV groove continuation of Circumflex Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "AVSequentialPacing": {
         "371910005": ("A-V sequential pacing", [3555]),
     },
     "Abdomen": {
-        "818981001": (
-            "Abdomen",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7154,
-                7192,
-                7482,
-                7483,
-                8134,
-                9514,
-                12020,
-            ],
-        ),
+        "818981001": ("Abdomen", [4, 4009, 4030, 4031, 4042, 7151, 7154, 7192, 7482, 7483, 8134, 9514, 12020]),
     },
     "AbdomenAndOrPelvisStructure": {
         "416949008": ("Abdomen and/or pelvis structure (body structure)", []),
     },
     "AbdomenAndPelvis": {
-        "818982008": (
-            "Abdomen and Pelvis",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "818982008": ("Abdomen and Pelvis", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "AbdominalAorta": {
-        "7832008": (
-            "Abdominal aorta",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4030,
-                4042,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                12103,
-                12112,
-                12125,
-                12291,
-            ],
-        ),
+        "7832008": ("Abdominal aorta", [4, 3010, 3604, 3606, 3630, 3827, 4030, 4042, 7151, 7154, 7192, 8134, 9514, 12103, 12112, 12125, 12291]),
     },
     "AbdominalAortaStructure": {
         "7832008": ("Abdominal aorta structure (body structure)", []),
@@ -221,10 +177,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "15119000": ("Accessory nerve structure (body structure)", []),
     },
     "AccessoryRenalArtery": {
-        "85383006": (
-            "Accessory Renal Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12115, 12125],
-        ),
+        "85383006": ("Accessory Renal Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12115, 12125]),
     },
     "AccidentAndEmergency": {
         "225728007": ("Accident and Emergency", [7030]),
@@ -269,10 +222,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "17693003": ("acriflavine stain", [8112]),
     },
     "AcromioclavicularJoint": {
-        "85856004": (
-            "Acromioclavicular joint",
-            [4, 1000, 1001, 1004, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "85856004": ("Acromioclavicular joint", [4, 1000, 1001, 1004, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "AcromioclavicularJointStructure": {
         "85856004": ("Acromioclavicular joint structure (body structure)", []),
@@ -305,34 +255,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371813006": ("Acute mitral regurgitation from chordal rupture", [3728]),
     },
     "AcuteMitralRegurgitationFromPapillaryMuscleDysfunction": {
-        "371815004": (
-            "Acute mitral regurgitation from papillary muscle dysfunction",
-            [3728],
-        ),
+        "371815004": ("Acute mitral regurgitation from papillary muscle dysfunction", [3728]),
     },
     "AcuteMitralRegurgitationFromPapillaryMuscleRupture": {
-        "371816003": (
-            "Acute mitral regurgitation from papillary muscle rupture",
-            [3728],
-        ),
+        "371816003": ("Acute mitral regurgitation from papillary muscle rupture", [3728]),
     },
     "AcuteMyocardialInfarction": {
         "57054005": ("Acute myocardial infarction", [3700]),
     },
     "AcuteNonSTSegmentElevationMyocardialInfarction": {
-        "401314000": (
-            "Acute non-ST segment elevation myocardial infarction (disorder)",
-            [],
-        ),
+        "401314000": ("Acute non-ST segment elevation myocardial infarction (disorder)", []),
     },
     "AcuteOnset": {
         "373933003": ("Acute onset", [6130]),
     },
     "AcuteSTSegmentElevationMyocardialInfarction": {
-        "401303003": (
-            "Acute ST segment elevation myocardial infarction (disorder)",
-            [],
-        ),
+        "401303003": ("Acute ST segment elevation myocardial infarction (disorder)", []),
     },
     "AcuteVentricularSeptalRupture": {
         "371817007": ("Acute ventricular septal rupture", [3700, 3728]),
@@ -374,10 +312,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "254582000": ("Adenocarcinoma of rectum", [638, 639]),
     },
     "AdenocarcinomaWithApocrineMetaplasia": {
-        "22694002": (
-            "Adenocarcinoma with apocrine metaplasia (morphologic abnormality)",
-            [],
-        ),
+        "22694002": ("Adenocarcinoma with apocrine metaplasia (morphologic abnormality)", []),
     },
     "Adenohypophysis": {
         "62818001": ("Adenohypophysis", [7151, 7153, 7192, 8134, 9514]),
@@ -428,10 +363,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371899006": ("Administered after lab visit", [3741]),
     },
     "AdministeredAfterPercutaneousCoronaryIntervention": {
-        "371902009": (
-            "Administered After Percutaneous Coronary Intervention",
-            [3742, 3743],
-        ),
+        "371902009": ("Administered After Percutaneous Coronary Intervention", [3742, 3743]),
     },
     "AdministeredBeforeLabVisit": {
         "371898003": ("Administered before lab visit", [3741]),
@@ -455,19 +387,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371901002": ("Administered Less than 72 Hours before PCI", [3743]),
     },
     "AdministeredPriorToPercutaneousCoronaryIntervention": {
-        "371904005": (
-            "Administered Prior to Percutaneous Coronary Intervention",
-            [3742],
-        ),
+        "371904005": ("Administered Prior to Percutaneous Coronary Intervention", [3742]),
     },
     "AdministrationOfAnesthesia": {
         "399097000": ("Administration of anesthesia (procedure)", []),
     },
     "AdministrationOfMedicationNotDoneDueToContraindication": {
-        "373147003": (
-            "Administration of medication not done due to contraindication (situation)",
-            [],
-        ),
+        "373147003": ("Administration of medication not done due to contraindication (situation)", []),
     },
     "AdministrationOfRadiopharmaceutical": {
         "440252007": ("Administration of radiopharmaceutical (procedure)", []),
@@ -476,25 +402,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "72641008": ("Administration of sedative (procedure)", []),
     },
     "AdrenalGland": {
-        "23451007": (
-            "Adrenal gland",
-            [
-                4,
-                1000,
-                1001,
-                1005,
-                4030,
-                6202,
-                6204,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "23451007": ("Adrenal gland", [4, 1000, 1001, 1005, 4030, 6202, 6204, 7151, 7154, 7192, 8134, 9514, 10044, 10060]),
     },
     "AdrenalStructure": {
         "23451007": ("Adrenal structure (body structure)", []),
@@ -1052,10 +960,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373265006": ("Analgesic", [621, 622]),
     },
     "AnastomosisOfPulmonarySubclavianArteryByBlalockTaussigOperation": {
-        "13662000": (
-            "Anastomosis of pulmonary-subclavian artery by Blalock-Taussig operation (procedure)",
-            [],
-        ),
+        "13662000": ("Anastomosis of pulmonary-subclavian artery by Blalock-Taussig operation (procedure)", []),
     },
     "Anastrozole": {
         "386910003": ("Anastrozole", [6080]),
@@ -1067,10 +972,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "409926004": ("Anatolian shepherd dog breed", [7480]),
     },
     "AnatomicStructurePotentiallyInvolvedInEvolutionOfDisease": {
-        "413530006": (
-            "Anatomic structure potentially involved in evolution of disease (observable entity)",
-            [],
-        ),
+        "413530006": ("Anatomic structure potentially involved in evolution of disease (observable entity)", []),
     },
     "Anatomical": {
         "51845000": ("anatomical", [20]),
@@ -1235,10 +1137,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131443009": ("Ankina cattle breed", [7480]),
     },
     "AnkleJoint": {
-        "70258002": (
-            "Ankle joint",
-            [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "70258002": ("Ankle joint", [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "AnkleJointStructure": {
         "70258002": ("Ankle joint structure (body structure)", []),
@@ -1253,16 +1152,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373135009": ("Annular Abscess of Aortic Root", [3709]),
     },
     "AnomalousPulmonaryVein": {
-        "128585006": (
-            "Anomalous pulmonary vein",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128585006": ("Anomalous pulmonary vein", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "AntecubitalVein": {
-        "128553008": (
-            "Antecubital vein",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128553008": ("Antecubital vein", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "AntegradeDirection": {
         "263677008": ("Antegrade Direction", [12306]),
@@ -1277,16 +1170,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "25247006": ("anterior auricular lymph node", [7600, 8134]),
     },
     "AnteriorCardiacVein": {
-        "194996006": (
-            "Anterior cardiac vein",
-            [4, 3010, 3827, 3839, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "194996006": ("Anterior cardiac vein", [4, 3010, 3827, 3839, 4042, 7151, 7192, 8134, 9514]),
     },
     "AnteriorCerebralArtery": {
-        "60176003": (
-            "Anterior Cerebral Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "60176003": ("Anterior Cerebral Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "AnteriorCervicalLymphNode": {
         "5727003": ("anterior cervical lymph node", [7600, 8134]),
@@ -1304,24 +1191,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "62872008": ("Anterior Commissure", [7101, 7111, 7705, 7710, 8134]),
     },
     "AnteriorCommunicatingArtery": {
-        "8012006": (
-            "Anterior communicating artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12105,
-            ],
-        ),
+        "8012006": ("Anterior communicating artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "AnteriorCompression": {
         "441752004": ("Anterior compression", [4015]),
@@ -1345,16 +1215,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "5296000": ("anterior mediastinal lymph node", [7600, 8134]),
     },
     "AnteriorMiddleCerebralArteryBifurcation": {
-        "397418009": (
-            "Anterior-Middle Cerebral Artery Bifurcation",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "397418009": ("Anterior-Middle Cerebral Artery Bifurcation", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "AnteriorPosteriorCerebralArteryBifurcation": {
-        "397419001": (
-            "Anterior-Posterior Cerebral Artery Bifurcation",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "397419001": ("Anterior-Posterior Cerebral Artery Bifurcation", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "AnteriorProjection": {
         "399321004": ("Anterior projection", [26, 501]),
@@ -1366,25 +1230,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "39743006": ("Anterior segment of right upper lobe", [6124, 6127]),
     },
     "AnteriorSpinalArtery": {
-        "17388009": (
-            "Anterior spinal artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "17388009": ("Anterior spinal artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "AnteriorTibialArtery": {
-        "68053000": (
-            "Anterior tibial artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "68053000": ("Anterior tibial artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "AnteriorTibialLymphNode": {
         "303713004": ("anterior tibial lymph node", [7600, 8134]),
     },
     "AnteriorTibialVein": {
-        "26703007": (
-            "Anterior Tibial Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "26703007": ("Anterior Tibial Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "AnteriorTriangleOfNeck": {
         "182329002": ("Anterior triangle of neck", [4029, 8134]),
@@ -1458,43 +1313,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "53505006": ("Anus", [4, 645, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "AnusRectumAndSigmoidColon": {
-        "110612005": (
-            "Anus, rectum and sigmoid colon",
-            [4, 4040, 7151, 7192, 8134, 9514],
-        ),
+        "110612005": ("Anus, rectum and sigmoid colon", [4, 4040, 7151, 7192, 8134, 9514]),
     },
     "AnusRectumAndSigmoidColonCombinedSite": {
-        "110612005": (
-            "Anus, rectum and sigmoid colon (combined site) (body structure)",
-            [],
-        ),
+        "110612005": ("Anus, rectum and sigmoid colon (combined site) (body structure)", []),
     },
     "Anxiety": {
         "48694002": ("Anxiety", [60, 64, 9300]),
     },
     "Aorta": {
-        "15825003": (
-            "Aorta",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                4042,
-                6129,
-                6202,
-                6204,
-                7151,
-                7152,
-                7192,
-                8134,
-                9514,
-                12141,
-                12223,
-                12236,
-            ],
-        ),
+        "15825003": ("Aorta", [4, 3010, 3604, 3606, 3630, 4042, 6129, 6202, 6204, 7151, 7152, 7192, 8134, 9514, 12141, 12223, 12236]),
     },
     "AortaToPulmonaryArteryConnection": {
         "443096004": ("Aorta to Pulmonary Artery Connection", [12290, 12293]),
@@ -1503,29 +1331,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "67362008": ("Aortic aneurysm", [3700]),
     },
     "AorticArch": {
-        "57034009": (
-            "Aortic arch",
-            [
-                4,
-                1000,
-                1001,
-                1004,
-                3010,
-                3604,
-                3606,
-                3630,
-                4030,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12291,
-            ],
-        ),
+        "57034009": ("Aortic arch", [4, 1000, 1001, 1004, 3010, 3604, 3606, 3630, 4030, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12291]),
     },
     "AorticArchStructure": {
         "57034009": ("Aortic arch structure (body structure)", []),
@@ -1537,10 +1343,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "308546005": ("Aortic dissection", [3700]),
     },
     "AorticFistula": {
-        "128551005": (
-            "Aortic fistula",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128551005": ("Aortic fistula", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "AorticIncompetenceNonRheumatic": {
         "194983005": ("Aortic incompetence, non-rheumatic (disorder)", []),
@@ -1549,10 +1352,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "194983005": ("Aortic insufficiency", [3700, 3728]),
     },
     "AorticIsthmus": {
-        "88593004": (
-            "Aortic isthmus",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514, 12291],
-        ),
+        "88593004": ("Aortic isthmus", [6102, 6109, 6117, 7151, 7192, 8134, 9514, 12291]),
     },
     "AorticLymphNode": {
         "35783009": ("aortic lymph node", [7600, 8134]),
@@ -1606,10 +1406,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128453006": ("Aortic valve pullback pressure waveform", [3003]),
     },
     "AorticValvePullbackPressureWaveformFunction": {
-        "128453006": (
-            "Aortic valve pullback pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128453006": ("Aortic valve pullback pressure waveform, function (observable entity)", []),
     },
     "AorticValveRegurgitation": {
         "60234000": ("Aortic valve regurgitation (disorder)", []),
@@ -1627,10 +1424,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "54640009": ("Aortography", [3405, 3428]),
     },
     "AortopulmonaryReconstructionWithRightVentricleToPulmonaryArterialValvelessConduit": {
-        "429616001": (
-            "Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit (procedure)",
-            [],
-        ),
+        "429616001": ("Aortopulmonary reconstruction with right ventricle to pulmonary arterial valveless conduit (procedure)", []),
     },
     "AostaBlackPiedCattleBreed": {
         "133292005": ("Aosta Black Pied cattle breed", [7480]),
@@ -1648,22 +1442,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "13383001": ("Apex of heart", [1000, 1001, 1004, 8134]),
     },
     "ApexOfLeftVentricle": {
-        "128564006": (
-            "Apex of left ventricle",
-            [4, 3010, 3011, 3717, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128564006": ("Apex of left ventricle", [4, 3010, 3011, 3717, 4042, 7151, 7192, 8134, 9514]),
     },
     "ApexOfLung": {
-        "86598002": (
-            "Apex of Lung",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "86598002": ("Apex of Lung", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "ApexOfRightVentricle": {
-        "128565007": (
-            "Apex of right ventricle",
-            [4, 3010, 3011, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128565007": ("Apex of right ventricle", [4, 3010, 3011, 4042, 7151, 7192, 8134, 9514]),
     },
     "Aphakia": {
         "24010005": ("Aphakia (disorder)", []),
@@ -1783,47 +1568,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "40265002": ("Arch of vertebra", [6115, 8134]),
     },
     "ArchitecturalDistortionOfBreast": {
-        "129792006": (
-            "Architectural distortion of breast",
-            [6014, 6015, 6016, 6054, 6056],
-        ),
+        "129792006": ("Architectural distortion of breast", [6014, 6015, 6016, 6054, 6056]),
     },
     "ArcuateArteryOfTheKidney": {
-        "274231001": (
-            "Arcuate Artery of the Kidney",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12115],
-        ),
+        "274231001": ("Arcuate Artery of the Kidney", [3827, 7151, 7192, 8134, 9514, 12103, 12115]),
     },
     "ArdennesHorseBreed": {
         "133116001": ("Ardennes horse breed", [7480]),
     },
     "Area": {
-        "42798000": (
-            "Area",
-            [
-                218,
-                7469,
-                7471,
-                12253,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12274,
-                12304,
-            ],
-        ),
+        "42798000": ("Area", [218, 7469, 7471, 12253, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12274, 12304]),
     },
     "AreaOfDefinedRegion": {
         "131184002": ("Area of defined region", [218, 7469, 7471]),
@@ -1908,10 +1662,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "17941002": ("arteriolosclerosis", [3817]),
     },
     "ArteriolosclerosisWithFibrinoidNecrosis": {
-        "32651000": (
-            "Arteriolosclerosis with fibrinoid necrosis (morphologic abnormality)",
-            [],
-        ),
+        "32651000": ("Arteriolosclerosis with fibrinoid necrosis (morphologic abnormality)", []),
     },
     "Arteriosclerosis": {
         "28960008": ("arteriosclerosis", [3817]),
@@ -1930,10 +1681,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "111289009": ("Arteriovenous fistula of pulmonary vessels (disorder)", []),
     },
     "Artery": {
-        "51114001": (
-            "Artery",
-            [3010, 3604, 3606, 3630, 4042, 7151, 7166, 7191, 7192, 8134, 9514],
-        ),
+        "51114001": ("Artery", [3010, 3604, 3606, 3630, 4042, 7151, 7166, 7191, 7192, 8134, 9514]),
     },
     "ArtificialMenopauseState": {
         "31351009": ("Artificial menopause state", [6086]),
@@ -1948,26 +1696,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "79458005": ("Ascending", [5]),
     },
     "AscendingAorta": {
-        "54247002": (
-            "Ascending aorta",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12291,
-                12305,
-            ],
-        ),
+        "54247002": ("Ascending aorta", [4, 3010, 3604, 3606, 3630, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12291, 12305]),
     },
     "AscendingAortaStructure": {
         "54247002": ("Ascending aorta structure (body structure)", []),
@@ -2027,10 +1756,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "38713004": ("Astrocytoma", [638, 639]),
     },
     "AstrocytomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "38713004": (
-            "Astrocytoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "38713004": ("Astrocytoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "AsturianMountainCattleBreed": {
         "131563004": ("Asturian Mountain cattle breed", [7480]),
@@ -2117,42 +1843,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "284470004": ("Atrial premature contraction", [3230]),
     },
     "AtrialSeptalDefect": {
-        "70142008": (
-            "Atrial Septal defect",
-            [
-                3610,
-                3630,
-                3700,
-                3728,
-                6102,
-                6109,
-                6113,
-                6148,
-                7151,
-                7192,
-                9514,
-                12236,
-                12244,
-                12248,
-                12249,
-                12284,
-            ],
-        ),
+        "70142008": ("Atrial Septal defect", [3610, 3630, 3700, 3728, 6102, 6109, 6113, 6148, 7151, 7192, 9514, 12236, 12244, 12248, 12249, 12284]),
     },
     "AtrialSeptalDefectRepair": {
         "112811009": ("Atrial septal defect repair", [12247]),
     },
     "AtrialSeptalDefectWithEndocardialCushionDefectPartial": {
-        "60732002": (
-            "Atrial septal defect with endocardial cushion defect, partial",
-            [12248, 12249],
-        ),
+        "60732002": ("Atrial septal defect with endocardial cushion defect, partial", [12248, 12249]),
     },
     "AtrialSeptalDefectWithEndocardialCushionDefectPartialType": {
-        "60732002": (
-            "Atrial septal defect with endocardial cushion defect, partial type (disorder)",
-            [],
-        ),
+        "60732002": ("Atrial septal defect with endocardial cushion defect, partial type (disorder)", []),
     },
     "AtrialStructure": {
         "59652004": ("Atrial structure (body structure)", []),
@@ -2336,10 +2036,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "8359006": ("Automated", [7230]),
     },
     "AutomaticImplantableCardiacDefibrillatorInSitu": {
-        "443325000": (
-            "Automatic implantable cardiac defibrillator in situ (finding)",
-            [],
-        ),
+        "443325000": ("Automatic implantable cardiac defibrillator in situ (finding)", []),
     },
     "AutonomicNerve": {
         "53520000": ("Autonomic nerve", [7151, 7167, 7192, 8134, 9514]),
@@ -2409,33 +2106,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "127189005": ("Axillary adenopathy", [6014, 6015, 6016, 6054, 6056]),
     },
     "AxillaryArtery": {
-        "67937003": (
-            "Axillary Artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12107,
-            ],
-        ),
+        "67937003": ("Axillary Artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "AxillaryFascia": {
-        "368536000": (
-            "Axillary Fascia",
-            [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "368536000": ("Axillary Fascia", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "AxillaryLymphNode": {
         "68171009": ("Axillary lymph node", [6014, 6015, 6016, 6054, 6056, 7600, 8134]),
@@ -2468,26 +2142,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442580003": ("Axillary tissue mammography view (qualifier value)", []),
     },
     "AxillaryVein": {
-        "68705008": (
-            "Axillary vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12108,
-            ],
-        ),
+        "68705008": ("Axillary vein", [4, 3010, 3607, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "AxillaryVeinLymphNode": {
         "421624008": ("axillary vein lymph node", [7600, 8134]),
@@ -2544,25 +2199,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "11069001": ("azure C stain", [8112]),
     },
     "AzygosVein": {
-        "72107004": (
-            "Azygos vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                3839,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "72107004": ("Azygos vein", [4, 3010, 3607, 3630, 3827, 3839, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "BBShotDevice": {
         "102378009": ("BB shot, device (qualifier value)", []),
@@ -2598,10 +2235,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132731005": ("Baden Wurttemburg horse breed", [7480]),
     },
     "Baffle": {
-        "128981007": (
-            "Baffle",
-            [4, 3010, 3604, 3606, 3608, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128981007": ("Baffle", [4, 3010, 3604, 3606, 3608, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "BaffleDevice": {
         "128981007": ("Baffle, device (physical object)", []),
@@ -2817,30 +2451,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133135001": ("Bashkir horse breed", [7480]),
     },
     "BasilarArtery": {
-        "59011009": (
-            "Basilar artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12106,
-            ],
-        ),
+        "59011009": ("Basilar artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12106]),
     },
     "BasilicVein": {
-        "19715009": (
-            "Basilic vein",
-            [3607, 3630, 3827, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "19715009": ("Basilic vein", [3607, 3630, 3827, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "BasqueBlackPiedPigBreed": {
         "132122004": ("Basque Black Pied pig breed", [7480]),
@@ -3092,10 +2706,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "92248004": ("Benign neoplasm of nipple of female breast (disorder)", []),
     },
     "BenignNeoplasmOfNippleOfFemaleBreastNippleAdenoma": {
-        "92248004": (
-            "Benign neoplasm of nipple of female breast (Nipple adenoma)",
-            [6030, 6031],
-        ),
+        "92248004": ("Benign neoplasm of nipple of female breast (Nipple adenoma)", [6030, 6031]),
     },
     "BentheimBlackPiedPigBreed": {
         "132355002": ("Bentheim Black Pied pig breed", [7480]),
@@ -3161,10 +2772,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371912002": ("Best value", [3627]),
     },
     "BestValueNumericEstimationTechnique": {
-        "371912002": (
-            "Best value - numeric estimation technique (qualifier value)",
-            [],
-        ),
+        "371912002": ("Best value - numeric estimation technique (qualifier value)", []),
     },
     "BestuzhevCattleBreed": {
         "133321009": ("Bestuzhev cattle breed", [7480]),
@@ -3220,16 +2828,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "739006": ("Bicycle ergometer, device (physical object)", []),
     },
     "BidirectionalGlennShuntProcedureOfLeftSuperiorVenaCava": {
-        "443989003": (
-            "Bidirectional Glenn shunt procedure of left superior vena cava (procedure)",
-            [],
-        ),
+        "443989003": ("Bidirectional Glenn shunt procedure of left superior vena cava (procedure)", []),
     },
     "BidirectionalGlennShuntProcedureOfRightSuperiorVenaCava": {
-        "444034006": (
-            "Bidirectional Glenn shunt procedure of right superior vena cava (procedure)",
-            [],
-        ),
+        "444034006": ("Bidirectional Glenn shunt procedure of right superior vena cava (procedure)", []),
     },
     "BiebrichScarletStain": {
         "76605005": ("biebrich scarlet stain", [8112]),
@@ -3259,19 +2861,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "372872006": ("Bile acid sequestrant antilipemic agent (substance)", []),
     },
     "BileDuct": {
-        "28273000": (
-            "Bile duct",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514],
-        ),
+        "28273000": ("Bile duct", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514]),
     },
     "BileDuctStructure": {
         "28273000": ("Bile duct structure (body structure)", []),
     },
     "BiliaryTract": {
-        "34707002": (
-            "Biliary tract",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514],
-        ),
+        "34707002": ("Biliary tract", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514]),
     },
     "BiliaryTractStructure": {
         "34707002": ("Biliary tract structure (body structure)", []),
@@ -3421,29 +3017,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131576005": ("Blacksided Trondheim and Norland cattle breed", [7480]),
     },
     "Bladder": {
-        "89837001": (
-            "Bladder",
-            [
-                4,
-                645,
-                4009,
-                4030,
-                4031,
-                4040,
-                4042,
-                6202,
-                6204,
-                7151,
-                7160,
-                7192,
-                7482,
-                7483,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "89837001": ("Bladder", [4, 645, 4009, 4030, 4031, 4040, 4042, 6202, 6204, 7151, 7160, 7192, 7482, 7483, 8134, 9514, 10044, 10060]),
     },
     "BladderAndUrethra": {
         "110837003": ("Bladder and urethra", [4, 4040, 7151, 7192, 8134, 9514]),
@@ -3452,10 +3026,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399326009": ("Bladder cancer", [638, 639]),
     },
     "BlalockTaussigShuntPulmonarySubclavianArteryAnastomosis": {
-        "13662000": (
-            "Blalock-Taussig shunt, pulmonary-subclavian artery anastomosis",
-            [12247],
-        ),
+        "13662000": ("Blalock-Taussig shunt, pulmonary-subclavian artery anastomosis", [12247]),
     },
     "BlancDeBouscatRabbitBreed": {
         "132888004": ("Blanc de Bouscat rabbit breed", [7480]),
@@ -3509,28 +3080,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "64779008": ("Blood Coagulation Disorders", [1201]),
     },
     "BloodPressure": {
-        "75367002": (
-            "Blood Pressure",
-            [
-                12254,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-                12304,
-            ],
-        ),
+        "75367002": ("Blood Pressure", [12254, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274, 12304]),
     },
     "BloodPressureCuffMethod": {
         "371911009": ("Blood pressure cuff method", [3560]),
@@ -3542,10 +3092,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "243776001": ("blood sampling from extracorporeal blood circuit", [3515]),
     },
     "BloodVessel": {
-        "59820001": (
-            "Blood Vessel",
-            [6202, 6204, 7151, 7155, 7166, 7191, 7192, 8134, 9514],
-        ),
+        "59820001": ("Blood Vessel", [6202, 6204, 7151, 7155, 7166, 7191, 7192, 8134, 9514]),
     },
     "BloodVesselStructure": {
         "59820001": ("Blood vessel structure (body structure)", []),
@@ -3578,10 +3125,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445084008": ("Blue optical filter", [4204, 8124]),
     },
     "BlueOpticalFilterOfOpticalMicroscope": {
-        "445084008": (
-            "Blue optical filter of optical microscope (physical object)",
-            [],
-        ),
+        "445084008": ("Blue optical filter of optical microscope (physical object)", []),
     },
     "BlueShadeEosinStain": {
         "1346008": ("blue shade eosin stain", [8112]),
@@ -3809,19 +3353,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "63289001": ("Bone Nail", [7307, 7309]),
     },
     "BoneOfLowerLimb": {
-        "72001000": (
-            "Bone of lower limb",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "72001000": ("Bone of lower limb", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "BoneOfThorax": {
         "272710004": ("Bone of thorax", [7151, 7155, 7192, 8134, 9514]),
     },
     "BoneOfUpperLimb": {
-        "371195002": (
-            "Bone of upper limb",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "371195002": ("Bone of upper limb", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "BonePin": {
         "77444004": ("Bone Pin", [7151, 7157, 7193]),
@@ -3890,10 +3428,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "24097009": ("Bone structure of hand (body structure)", []),
     },
     "BoneStructureOfHeadAndOrNeck": {
-        "312779009": (
-            "Bone structure of head and/or neck",
-            [4028, 7151, 7192, 8134, 9514],
-        ),
+        "312779009": ("Bone structure of head and/or neck", [4028, 7151, 7192, 8134, 9514]),
     },
     "BoneStructureOfHumerus": {
         "85050009": ("Bone structure of humerus (body structure)", []),
@@ -4058,16 +3593,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "125091004": ("Bos taurus indicus cow breed", [7480]),
     },
     "BosTaurusTaurusSubspeciesDomesticEuropeanCattle": {
-        "385474004": (
-            "Bos taurus taurus subspecies domestic European cattle (organism)",
-            [],
-        ),
+        "385474004": ("Bos taurus taurus subspecies domestic European cattle (organism)", []),
     },
     "BosTaurusTaurusSubspeciesDomesticEuropeanCowBreed": {
-        "385474004": (
-            "Bos taurus taurus subspecies domestic European cow breed",
-            [7480],
-        ),
+        "385474004": ("Bos taurus taurus subspecies domestic European cow breed", [7480]),
     },
     "BosTaurusXBisonBisonHybridCowBreed": {
         "425181009": ("Bos taurus X Bison bison hybrid cow breed", [7480]),
@@ -4118,10 +3647,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "42250008": ("Boxer dog", [7480]),
     },
     "BoydPerforatingVein": {
-        "128548003": (
-            "Boyd's perforating vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "128548003": ("Boyd's perforating vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "BoykinSpanielDogBreed": {
         "132580003": ("Boykin Spaniel dog breed", [7480]),
@@ -4148,28 +3674,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132562007": ("Bracco Italiano dog breed", [7480]),
     },
     "BrachialArtery": {
-        "17137000": (
-            "Brachial artery",
-            [
-                4,
-                3010,
-                3440,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12107,
-            ],
-        ),
+        "17137000": ("Brachial artery", [4, 3010, 3440, 3604, 3606, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "BrachialPlexus": {
         "36582005": ("Brachial plexus", [8134]),
@@ -4178,10 +3683,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "36582005": ("Brachial plexus structure (body structure)", []),
     },
     "BrachialVein": {
-        "20115005": (
-            "Brachial vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "20115005": ("Brachial vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "BrachiocephalicTrunk": {
         "12691009": ("brachiocephalic trunk", [3604, 3606, 3630, 6102, 6109, 6117]),
@@ -4229,16 +3731,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133766002": ("Brahorn X zebu cattle breed", [7480]),
     },
     "Brain": {
-        "12738006": (
-            "Brain",
-            [4, 644, 645, 4030, 7151, 7153, 7192, 8134, 9514, 10044, 10060],
-        ),
+        "12738006": ("Brain", [4, 644, 645, 4030, 7151, 7153, 7192, 8134, 9514, 10044, 10060]),
     },
     "BrainCerebrospinalFluidPathway": {
-        "280371009": (
-            "Brain cerebrospinal fluid pathway",
-            [7151, 7153, 7192, 8134, 9514],
-        ),
+        "280371009": ("Brain cerebrospinal fluid pathway", [7151, 7153, 7192, 8134, 9514]),
     },
     "BrainStem": {
         "119238007": ("Brain Stem", [7140, 7151, 7153, 7192, 8134, 9514]),
@@ -4334,24 +3830,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "41750006": ("brazilin stain", [8112]),
     },
     "Breast": {
-        "76752008": (
-            "Breast",
-            [
-                4,
-                645,
-                4009,
-                4013,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "76752008": ("Breast", [4, 645, 4009, 4013, 4030, 4031, 4042, 7151, 7192, 8134, 9514, 10044, 10060]),
     },
     "BreastComposition": {
         "129715009": ("Breast composition", [6014, 6015, 6016, 6052, 6053, 6054, 6056]),
@@ -4525,10 +4004,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "410463003": ("Broad tangential direct illumination", [4203]),
     },
     "BroadTangentialDirectIlluminationAction": {
-        "410463003": (
-            "Broad tangential direct illumination - action (qualifier value)",
-            [],
-        ),
+        "410463003": ("Broad tangential direct illumination - action (qualifier value)", []),
     },
     "Broden": {
         "399344001": ("Broden", [4012]),
@@ -4555,25 +4031,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "4386001": ("Bronchospasm", [60, 9300]),
     },
     "Bronchus": {
-        "955009": (
-            "Bronchus",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4040,
-                4042,
-                6102,
-                6109,
-                6111,
-                7151,
-                7155,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "955009": ("Bronchus", [4, 4009, 4030, 4031, 4040, 4042, 6102, 6109, 6111, 7151, 7155, 7192, 8134, 9514]),
     },
     "BroselowLutenBlueZone1923kg": {
         "444474005": ("Broselow Luten Blue Zone (19-23 kg)", [7039, 7040]),
@@ -4585,52 +4043,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "444496004": ("Broselow Luten Orange Zone (24-29 kg)", [7039, 7040]),
     },
     "BroselowLutenPediatricWeightEstimationBlueZone": {
-        "444474005": (
-            "Broselow Luten pediatric weight estimation blue zone (finding)",
-            [],
-        ),
+        "444474005": ("Broselow Luten pediatric weight estimation blue zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationGreenZone": {
-        "444503000": (
-            "Broselow Luten pediatric weight estimation green zone (finding)",
-            [],
-        ),
+        "444503000": ("Broselow Luten pediatric weight estimation green zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationOrangeZone": {
-        "444496004": (
-            "Broselow Luten pediatric weight estimation orange zone (finding)",
-            [],
-        ),
+        "444496004": ("Broselow Luten pediatric weight estimation orange zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationPinkZone": {
-        "444488009": (
-            "Broselow Luten pediatric weight estimation pink zone (finding)",
-            [],
-        ),
+        "444488009": ("Broselow Luten pediatric weight estimation pink zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationPurpleZone": {
-        "444489001": (
-            "Broselow Luten pediatric weight estimation purple zone (finding)",
-            [],
-        ),
+        "444489001": ("Broselow Luten pediatric weight estimation purple zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationRedZone": {
-        "444471002": (
-            "Broselow Luten pediatric weight estimation red zone (finding)",
-            [],
-        ),
+        "444471002": ("Broselow Luten pediatric weight estimation red zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationWhiteZone": {
-        "444504006": (
-            "Broselow Luten pediatric weight estimation white zone (finding)",
-            [],
-        ),
+        "444504006": ("Broselow Luten pediatric weight estimation white zone (finding)", []),
     },
     "BroselowLutenPediatricWeightEstimationYellowZone": {
-        "444505007": (
-            "Broselow Luten pediatric weight estimation yellow zone (finding)",
-            [],
-        ),
+        "444505007": ("Broselow Luten pediatric weight estimation yellow zone (finding)", []),
     },
     "BroselowLutenPinkZone67kg": {
         "444488009": ("Broselow Luten Pink Zone (6-7 kg)", [7039, 7040]),
@@ -4879,10 +4313,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "82474009": ("Calcaneal tubercle structure (body structure)", []),
     },
     "Calcaneus": {
-        "80144004": (
-            "Calcaneus",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "80144004": ("Calcaneus", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "CalcificationCluster": {
         "129769006": ("Calcification Cluster", [6014, 6015, 6016, 6054, 6056]),
@@ -5237,10 +4668,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "426005005": ("Cardiac CT for calcium scoring", [3757]),
     },
     "CardiacCathCoronaryAngiogramAndLeftVentriculogram": {
-        "418903008": (
-            "Cardiac cath coronary angiogram and left ventriculogram",
-            [3757],
-        ),
+        "418903008": ("Cardiac cath coronary angiogram and left ventriculogram", [3757]),
     },
     "CardiacCatheterization": {
         "41976001": ("Cardiac catheterization", [3757]),
@@ -5264,46 +4692,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128957000": ("Cardiac catheterization intervention phase", [3250, 3405]),
     },
     "CardiacCatheterizationLeftHeartTransseptal": {
-        "67338003": (
-            "Cardiac catheterization, left heart, transseptal (procedure)",
-            [],
-        ),
+        "67338003": ("Cardiac catheterization, left heart, transseptal (procedure)", []),
     },
     "CardiacCatheterizationPostContrastPhase": {
-        "129083002": (
-            "Cardiac catheterization post contrast phase",
-            [3250, 3405, 3651],
-        ),
+        "129083002": ("Cardiac catheterization post contrast phase", [3250, 3405, 3651]),
     },
     "CardiacCatheterizationPostInterventionPhase": {
-        "128960007": (
-            "Cardiac catheterization post-intervention phase",
-            [3250, 3405, 3480, 3651],
-        ),
+        "128960007": ("Cardiac catheterization post-intervention phase", [3250, 3405, 3480, 3651]),
     },
     "CardiacCatheterizationPreInterventionPhase": {
-        "128958005": (
-            "Cardiac catheterization pre-intervention phase",
-            [3250, 3405, 3480],
-        ),
+        "128958005": ("Cardiac catheterization pre-intervention phase", [3250, 3405, 3480]),
     },
     "CardiacCatheterizationProcedurePhase": {
         "129085009": ("Cardiac catheterization procedure phase (qualifier value)", []),
     },
     "CardiacCatheterizationTestChallengePhase": {
-        "373105002": (
-            "Cardiac catheterization test/challenge phase",
-            [3250, 3405, 3651],
-        ),
+        "373105002": ("Cardiac catheterization test/challenge phase", [3250, 3405, 3651]),
     },
     "CardiacCatheterizationTherapyPhase": {
         "128959002": ("Cardiac catheterization therapy phase", [3250, 3405]),
     },
     "CardiacComputedTomographyForCalciumScoring": {
-        "426005005": (
-            "Cardiac computed tomography for calcium scoring (procedure)",
-            [],
-        ),
+        "426005005": ("Cardiac computed tomography for calcium scoring (procedure)", []),
     },
     "CardiacCyclePhase": {
         "246092007": ("Cardiac cycle phase (attribute)", []),
@@ -5312,25 +4722,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "25437005": ("Cardiac dyskinesia (finding)", []),
     },
     "CardiacEjectionFraction": {
-        "70822001": (
-            "Cardiac ejection fraction",
-            [
-                12252,
-                12257,
-                12259,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-                12304,
-            ],
-        ),
+        "70822001": ("Cardiac ejection fraction", [12252, 12257, 12259, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274, 12304]),
     },
     "CardiacEjectionFractionFunction": {
         "70822001": ("Cardiac ejection fraction, function (observable entity)", []),
@@ -5339,26 +4731,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "165076002": ("cardiac function test abnormal", [3727]),
     },
     "CardiacIndex": {
-        "54993008": (
-            "Cardiac Index",
-            [
-                12200,
-                12207,
-                12239,
-                12257,
-                12259,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-            ],
-        ),
+        "54993008": ("Cardiac Index", [12200, 12207, 12239, 12257, 12259, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274]),
     },
     "CardiacIntensiveCare": {
         "309907008": ("Cardiac Intensive Care", [7030]),
@@ -5379,51 +4752,20 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "122448007": ("Cardiac muscle (tissue) (body structure)", []),
     },
     "CardiacOutput": {
-        "82799009": (
-            "Cardiac Output",
-            [
-                12200,
-                12207,
-                12239,
-                12257,
-                12259,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-            ],
-        ),
+        "82799009": ("Cardiac Output", [12200, 12207, 12239, 12257, 12259, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274]),
     },
     "CardiacOutputMeasurementByThermalBathMethod": {
-        "371838001": (
-            "Cardiac output measurement by thermal bath method (procedure)",
-            [],
-        ),
+        "371838001": ("Cardiac output measurement by thermal bath method (procedure)", []),
     },
     "CardiacOutputMeasurementByThermalDyeDilutionMethod": {
-        "373104003": (
-            "Cardiac output measurement by thermal dye dilution method (procedure)",
-            [],
-        ),
+        "373104003": ("Cardiac output measurement by thermal dye dilution method (procedure)", []),
     },
     "CardiacOutputMeasurementByThermalInlineMethod": {
-        "371843008": (
-            "Cardiac output measurement by thermal inline method (procedure)",
-            [],
-        ),
+        "371843008": ("Cardiac output measurement by thermal inline method (procedure)", []),
     },
     "CardiacPacemaker": {
         "118378005": ("Cardiac Pacemaker", [6040, 6401, 7151, 7193]),
-        "14106009": (
-            "Cardiac pacemaker",
-            [1000, 3777, 6102, 6138, 6404, 7151, 7157, 7193],
-        ),
+        "14106009": ("Cardiac pacemaker", [1000, 3777, 6102, 6138, 6404, 7151, 7157, 7193]),
     },
     "CardiacPacemakerDevice": {
         "14106009": ("Cardiac pacemaker, device (physical object)", []),
@@ -5528,107 +4870,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "395112001": ("Cardiovascular event risk (finding)", []),
     },
     "CardiovascularOrificeArea": {
-        "399367004": (
-            "Cardiovascular Orifice Area",
-            [
-                12200,
-                12204,
-                12207,
-                12208,
-                12209,
-                12211,
-                12218,
-                12222,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12276,
-            ],
-        ),
+        "399367004": ("Cardiovascular Orifice Area", [12200, 12204, 12207, 12208, 12209, 12211, 12218, 12222, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12276]),
     },
     "CardiovascularOrificeDiameter": {
-        "399027007": (
-            "Cardiovascular Orifice Diameter",
-            [
-                12200,
-                12204,
-                12207,
-                12208,
-                12209,
-                12211,
-                12218,
-                12222,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12276,
-            ],
-        ),
+        "399027007": ("Cardiovascular Orifice Diameter", [12200, 12204, 12207, 12208, 12209, 12211, 12218, 12222, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12276]),
     },
     "CardiovascularPressureGradient": {
         "251081004": ("Cardiovascular pressure gradient (observable entity)", []),
     },
     "CardiovascularStressTestUsingBicycleErgometer": {
-        "26046004": (
-            "Cardiovascular stress test using bicycle ergometer (procedure)",
-            [],
-        ),
+        "26046004": ("Cardiovascular stress test using bicycle ergometer (procedure)", []),
     },
     "CardiovascularStressTestUsingPharmacologicStressAgent": {
-        "424064009": (
-            "Cardiovascular stress test using pharmacologic stress agent (procedure)",
-            [],
-        ),
+        "424064009": ("Cardiovascular stress test using pharmacologic stress agent (procedure)", []),
     },
     "CardiovascularStressTestUsingTheAdenosineStressTestProtocol": {
-        "424444005": (
-            "Cardiovascular stress test using the adenosine stress test protocol (procedure)",
-            [],
-        ),
+        "424444005": ("Cardiovascular stress test using the adenosine stress test protocol (procedure)", []),
     },
     "CardiovascularStressTestUsingTheDipyridamoleStressTestProtocol": {
-        "422685009": (
-            "Cardiovascular stress test using the dipyridamole stress test protocol (procedure)",
-            [],
-        ),
+        "422685009": ("Cardiovascular stress test using the dipyridamole stress test protocol (procedure)", []),
     },
     "CardiovascularStressTestUsingTheDobutamineStressTestProtocol": {
-        "424225000": (
-            "Cardiovascular stress test using the dobutamine stress test protocol (procedure)",
-            [],
-        ),
+        "424225000": ("Cardiovascular stress test using the dobutamine stress test protocol (procedure)", []),
     },
     "CardiovascularSystem": {
         "113257007": ("Cardiovascular system", [7151, 7156, 7192, 8134, 9514]),
@@ -5640,10 +4903,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129511002": ("Carfentanil C^11^", [4021]),
     },
     "Carina": {
-        "28700002": (
-            "Carina",
-            [1000, 1001, 1004, 6102, 6109, 6111, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "28700002": ("Carina", [1000, 1001, 1004, 6102, 6109, 6111, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "CarinthianBlondCattleBreed": {
         "131582008": ("Carinthian Blond cattle breed", [7480]),
@@ -5667,35 +4927,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132544003": ("Carolina Dog breed", [7480]),
     },
     "CarotidArtery": {
-        "69105007": (
-            "Carotid Artery",
-            [
-                4,
-                1000,
-                1001,
-                1002,
-                3010,
-                3440,
-                3604,
-                3606,
-                3630,
-                4030,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "69105007": ("Carotid Artery", [4, 1000, 1001, 1002, 3010, 3440, 3604, 3606, 3630, 4030, 4042, 7151, 7192, 8134, 9514]),
     },
     "CarotidArteryStructure": {
         "69105007": ("Carotid artery structure (body structure)", []),
     },
     "CarotidBifurcation": {
-        "80272002": (
-            "Carotid Bifurcation",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12104],
-        ),
+        "80272002": ("Carotid Bifurcation", [3827, 7151, 7192, 8134, 9514, 12103, 12104]),
     },
     "CarotidBody": {
         "51345006": ("Carotid Body", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
@@ -5770,26 +5008,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "248584002": ("Catching breath (finding)", []),
     },
     "Catheter": {
-        "19923001": (
-            "Catheter",
-            [
-                8,
-                69,
-                3451,
-                4051,
-                6040,
-                6102,
-                6138,
-                6202,
-                6203,
-                6401,
-                6404,
-                7111,
-                7112,
-                7151,
-                7193,
-            ],
-        ),
+        "19923001": ("Catheter", [8, 69, 3451, 4051, 6040, 6102, 6138, 6202, 6203, 6401, 6404, 7111, 7112, 7151, 7193]),
     },
     "CatheterDevice": {
         "19923001": ("Catheter, device (physical object)", []),
@@ -5804,16 +5023,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "45211000": ("Catheterization", [9]),
     },
     "CatheterizationOfBothLeftAndRightHeartWithGraft": {
-        "128952006": (
-            "Catheterization of both left and right heart with graft",
-            [3250, 3405, 3739],
-        ),
+        "128952006": ("Catheterization of both left and right heart with graft", [3250, 3405, 3739]),
     },
     "CatheterizationOfBothLeftAndRightHeartWithoutGraft": {
-        "128953001": (
-            "Catheterization of both left and right heart without graft",
-            [3250, 3405, 3739],
-        ),
+        "128953001": ("Catheterization of both left and right heart without graft", [3250, 3405, 3739]),
     },
     "CatheterizationOfLeftHeart": {
         "67629009": ("Catheterization of left heart", [3250, 3405, 3739]),
@@ -5873,10 +5086,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442604001": ("Caudodistal-cranioproximal oblique", [7484]),
     },
     "CaudodistalCranioproximalObliqueProjection": {
-        "442604001": (
-            "Caudodistal-cranioproximal oblique projection (qualifier value)",
-            [],
-        ),
+        "442604001": ("Caudodistal-cranioproximal oblique projection (qualifier value)", []),
     },
     "Causton": {
         "399065000": ("Causton", [4012]),
@@ -5948,16 +5158,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129786000": ("Central region of breast", [6018, 6019]),
     },
     "CentralRetinalArtery": {
-        "76117006": (
-            "Central Retinal Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "76117006": ("Central Retinal Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "CentralRetinalVein": {
-        "62869001": (
-            "Central Retinal Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "62869001": ("Central Retinal Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "CentralRussianBlackPiedCattleBreed": {
         "133348005": ("Central Russian Black Pied cattle breed", [7480]),
@@ -5975,25 +5179,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128445003": ("Central venous pressure waveform", [3003]),
     },
     "CentralVenousPressureWaveformFunction": {
-        "128445003": (
-            "Central venous pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128445003": ("Central venous pressure waveform, function (observable entity)", []),
     },
     "CentralVenousSystem": {
         "34340008": ("Central venous system", [3607, 3630]),
     },
     "CentralZoneOfLeftHalfProstate": {
-        "716901006": (
-            "Central zone of left half prostate",
-            [6300, 6301, 6302, 6303, 6304],
-        ),
+        "716901006": ("Central zone of left half prostate", [6300, 6301, 6302, 6303, 6304]),
     },
     "CentralZoneOfRightHalfProstate": {
-        "716900007": (
-            "Central zone of right half prostate",
-            [6300, 6301, 6302, 6303, 6304],
-        ),
+        "716900007": ("Central zone of right half prostate", [6300, 6301, 6302, 6303, 6304]),
     },
     "CentrallyActingHypotensiveAgent": {
         "4382004": ("Centrally acting hypotensive agent", [10]),
@@ -6005,10 +5200,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "66787007": ("Cephalic", [2, 23, 502]),
     },
     "CephalicVein": {
-        "20699002": (
-            "Cephalic vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "20699002": ("Cephalic vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "CephalosporinAntibiotic": {
         "764147003": ("Cephalosporin antibiotic", [621, 622]),
@@ -6032,10 +5224,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "263972004": ("Cerebellar Subarachnoid Space", [7140]),
     },
     "CerebellarWhiteMatter": {
-        "33060004": (
-            "Cerebellar White Matter",
-            [7140, 7151, 7153, 7192, 7710, 8134, 9514],
-        ),
+        "33060004": ("Cerebellar White Matter", [7140, 7151, 7153, 7192, 7710, 8134, 9514]),
     },
     "CerebellarWhiteMatterStructure": {
         "33060004": ("Cerebellar white matter structure (body structure)", []),
@@ -6047,10 +5236,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "80447000": ("Cerebral aqueduct", [7151, 7153, 7192, 8134, 9514]),
     },
     "CerebralArtery": {
-        "88556005": (
-            "Cerebral artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "88556005": ("Cerebral artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "CerebralCortex": {
         "40146001": ("Cerebral cortex", [7151, 7153, 7192, 8134, 9514]),
@@ -6071,10 +5257,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "372073000": ("Cerebral hemisphere structure (body structure)", []),
     },
     "CerebralWhiteMatter": {
-        "68523003": (
-            "Cerebral White Matter",
-            [7140, 7151, 7153, 7192, 7710, 8134, 9514],
-        ),
+        "68523003": ("Cerebral White Matter", [7140, 7151, 7153, 7192, 7710, 8134, 9514]),
     },
     "CerebralWhiteMatterStructure": {
         "68523003": ("Cerebral white matter structure (body structure)", []),
@@ -6101,25 +5284,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "81105003": ("Cervical lymph node structure (body structure)", []),
     },
     "CervicalSpine": {
-        "122494005": (
-            "Cervical spine",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514],
-        ),
+        "122494005": ("Cervical spine", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "CervicoThoracicSpine": {
-        "297171002": (
-            "Cervico-thoracic spine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514],
-        ),
+        "297171002": ("Cervico-thoracic spine", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "CervicothoracicRegionOfSpineStructure": {
         "297171002": ("Cervicothoracic region of spine structure (body structure)", []),
     },
     "Cervix": {
-        "71252005": (
-            "Cervix",
-            [4, 645, 4040, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 12023],
-        ),
+        "71252005": ("Cervix", [4, 645, 4040, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 12023]),
     },
     "CervixUteriStructure": {
         "71252005": ("Cervix uteri structure (body structure)", []),
@@ -6248,28 +5422,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133353000": ("Chesi cattle breed", [7480]),
     },
     "Chest": {
-        "816094009": (
-            "Chest",
-            [4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514],
-        ),
+        "816094009": ("Chest", [4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514]),
     },
     "ChestAbdomenAndPelvis": {
-        "416775004": (
-            "Chest, Abdomen and Pelvis",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "416775004": ("Chest, Abdomen and Pelvis", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "ChestAndAbdomen": {
-        "416550000": (
-            "Chest and Abdomen",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514],
-        ),
+        "416550000": ("Chest and Abdomen", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514]),
     },
     "ChestAndOrAbdomenAndOrPelvisStructure": {
-        "416775004": (
-            "Chest and/or abdomen and/or pelvis structure (body structure)",
-            [],
-        ),
+        "416775004": ("Chest and/or abdomen and/or pelvis structure (body structure)", []),
     },
     "ChestAndOrAbdomenStructure": {
         "416550000": ("Chest and/or abdomen structure (body structure)", []),
@@ -6452,16 +5614,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "14990007": ("Chondrosarcoma", [6030, 6033]),
     },
     "ChondrosarcomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "14990007": (
-            "Chondrosarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "14990007": ("Chondrosarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "ChordaeTendineaeCordis": {
-        "102298001": (
-            "Chordae tendineae cordis",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "102298001": ("Chordae tendineae cordis", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "ChoroidOfEye": {
         "68703001": ("Choroid of eye", [4209, 4211, 8134]),
@@ -6545,46 +5701,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "413854007": ("Circulating Nurse", [7453]),
     },
     "Circumference": {
-        "74551000": (
-            "Circumference",
-            [
-                218,
-                6165,
-                7469,
-                7470,
-                12218,
-                12250,
-                12251,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12277,
-            ],
-        ),
+        "74551000": ("Circumference", [218, 6165, 7469, 7470, 12218, 12250, 12251, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12277]),
     },
     "Circumferential": {
         "255593009": ("Circumferential", [6209]),
     },
     "CircumflexCoronaryArtery": {
-        "57396003": (
-            "Circumflex Coronary Artery",
-            [3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292],
-        ),
+        "57396003": ("Circumflex Coronary Artery", [3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292]),
     },
     "Circumscribed": {
         "263706005": ("Circumscribed", [6120]),
@@ -6626,26 +5749,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "16973004": ("Claudication", [3220, 3221]),
     },
     "Clavicle": {
-        "51299004": (
-            "Clavicle",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4042,
-                6102,
-                6109,
-                6114,
-                7151,
-                7155,
-                7192,
-                7304,
-                8134,
-                9514,
-                12021,
-            ],
-        ),
+        "51299004": ("Clavicle", [4, 4009, 4030, 4031, 4042, 6102, 6109, 6114, 7151, 7155, 7192, 7304, 8134, 9514, 12021]),
     },
     "ClavicularNotchOfSternum": {
         "75319007": ("Clavicular notch of sternum", [6115, 8134]),
@@ -6762,10 +5866,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "7305005": ("Coarctation of the Aorta", [12248, 12249]),
     },
     "CoarctationOfTheAortaAngioplastyWithImplantOfStent": {
-        "443829004": (
-            "Coarctation of the Aorta Angioplasty with Implant of Stent",
-            [12247],
-        ),
+        "443829004": ("Coarctation of the Aorta Angioplasty with Implant of Stent", [12247]),
     },
     "CoarctationOfTheAortaBalloonAngioplasty": {
         "308696000": ("Coarctation of the Aorta Balloon Angioplasty", [12247]),
@@ -6807,10 +5908,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "30565000": ("Cocker spaniel, any solid color other than black (organism)", []),
     },
     "CockettPerforatingVein": {
-        "128549006": (
-            "Cockett's perforating vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "128549006": ("Cockett's perforating vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "CoiledPosition": {
         "34108001": ("Coiled position (finding)", []),
@@ -6852,25 +5950,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131804001": ("Colombian Criollo horse breed", [7480]),
     },
     "Colon": {
-        "71854001": (
-            "Colon",
-            [
-                4,
-                645,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7482,
-                7483,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "71854001": ("Colon", [4, 645, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514, 10044, 10060]),
     },
     "ColonStructure": {
         "71854001": ("Colon structure (body structure)", []),
@@ -6939,42 +6019,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "360481003": ("Common atrioventricular canal", [12248, 12249]),
     },
     "CommonAtrium": {
-        "253276007": (
-            "Common atrium",
-            [4, 3010, 3608, 3630, 4042, 7151, 7192, 8134, 9514, 12284],
-        ),
+        "253276007": ("Common atrium", [4, 3010, 3608, 3630, 4042, 7151, 7192, 8134, 9514, 12284]),
     },
     "CommonBileDuct": {
-        "79741001": (
-            "Common bile duct",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "79741001": ("Common bile duct", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514]),
     },
     "CommonBileDuctStructure": {
         "79741001": ("Common bile duct structure (body structure)", []),
     },
     "CommonCarotidArtery": {
-        "32062004": (
-            "Common carotid artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12104,
-            ],
-        ),
+        "32062004": ("Common carotid artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12104]),
     },
     "CommonCarotidArteryStructure": {
         "32062004": ("Common carotid artery structure (body structure)", []),
@@ -6983,65 +6037,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "280639005": ("common duct lymph node", [7600, 8134]),
     },
     "CommonFemoralArtery": {
-        "181347005": (
-            "Common Femoral Artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12109,
-            ],
-        ),
+        "181347005": ("Common Femoral Artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "CommonFemoralVein": {
-        "397363009": (
-            "Common Femoral Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "397363009": ("Common Femoral Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "CommonFemoralVeinStructure": {
         "397363009": ("Common femoral vein structure (body structure)", []),
     },
     "CommonHepaticArtery": {
-        "66559000": (
-            "Common Hepatic Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "66559000": ("Common Hepatic Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "CommonIliacArtery": {
-        "73634005": (
-            "Common iliac artery",
-            [
-                4,
-                3010,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12109,
-                12111,
-                12125,
-                12140,
-            ],
-        ),
+        "73634005": ("Common iliac artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109, 12111, 12125, 12140]),
     },
     "CommonIliacArteryBifurcation": {
-        "413896006": (
-            "Common iliac artery bifurcation",
-            [1000, 1001, 1005, 3827, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "413896006": ("Common iliac artery bifurcation", [1000, 1001, 1005, 3827, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "CommonIliacArteryStructure": {
         "73634005": ("Common iliac artery structure (body structure)", []),
@@ -7050,25 +6061,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "413896006": ("Common Iliac Bifurcation", [3837, 7111]),
     },
     "CommonIliacVein": {
-        "46027005": (
-            "Common iliac vein",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110, 12113, 12125],
-        ),
+        "46027005": ("Common iliac vein", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110, 12113, 12125]),
     },
     "CommonNonMitralNonTricuspidAtrioventricularValveStructure": {
-        "312522004": (
-            "Common non-mitral non-tricuspid Atrioventricular Valve Structure",
-            [12285],
-        ),
+        "312522004": ("Common non-mitral non-tricuspid Atrioventricular Valve Structure", [12285]),
     },
     "CommonTruncusArteriosus": {
         "61959006": ("Common truncus arteriosus (disorder)", []),
     },
     "CommonVentricle": {
-        "45503006": (
-            "Common ventricle",
-            [4, 3010, 3011, 3609, 3630, 4042, 7151, 7192, 8134, 9514, 12287],
-        ),
+        "45503006": ("Common ventricle", [4, 3010, 3011, 3609, 3630, 4042, 7151, 7192, 8134, 9514, 12287]),
     },
     "Complaint": {
         "409586006": ("Complaint", [3769]),
@@ -7116,10 +6118,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128576006": ("Computed hemodynamic measurement method (regime/therapy)", []),
     },
     "ComputedTomographyAngiographyOfCoronaryArteries": {
-        "419545005": (
-            "Computed tomography angiography of coronary arteries (procedure)",
-            [],
-        ),
+        "419545005": ("Computed tomography angiography of coronary arteries (procedure)", []),
     },
     "ComputedTomographyGuidedBiopsy": {
         "277591006": ("Computed tomography guided biopsy", [6058, 6060]),
@@ -7143,46 +6142,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399331006": ("Computed tomography without contrast (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForAsymmetricBreastTissue": {
-        "133889002": (
-            "Computer assisted image analysis for asymmetric breast tissue (procedure)",
-            [],
-        ),
+        "133889002": ("Computer assisted image analysis for asymmetric breast tissue (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForBreastCompositionAnalysis": {
-        "133890006": (
-            "Computer assisted image analysis for breast composition analysis (procedure)",
-            [],
-        ),
+        "133890006": ("Computer assisted image analysis for breast composition analysis (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForFocalAsymmetricDensity": {
-        "133888005": (
-            "Computer assisted image analysis for focal asymmetric density (procedure)",
-            [],
-        ),
+        "133888005": ("Computer assisted image analysis for focal asymmetric density (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForImageQuality": {
-        "133887000": (
-            "Computer assisted image analysis for image quality (procedure)",
-            [],
-        ),
+        "133887000": ("Computer assisted image analysis for image quality (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForSpatialCollocation": {
-        "133884007": (
-            "Computer assisted image analysis for spatial collocation (procedure)",
-            [],
-        ),
+        "133884007": ("Computer assisted image analysis for spatial collocation (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForSpatialProximity": {
-        "133885008": (
-            "Computer assisted image analysis for spatial proximity (procedure)",
-            [],
-        ),
+        "133885008": ("Computer assisted image analysis for spatial proximity (procedure)", []),
     },
     "ComputerAssistedImageAnalysisForTemporalCorrelation": {
-        "133886009": (
-            "Computer assisted image analysis for temporal correlation (procedure)",
-            [],
-        ),
+        "133886009": ("Computer assisted image analysis for temporal correlation (procedure)", []),
     },
     "ComputerizedAxialTomography": {
         "77477000": ("Computerized axial tomography (procedure)", []),
@@ -7221,10 +6199,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "702569007": ("Cone Beam Acquisition", [10013]),
     },
     "ConeBeamComputedTomographyImagingAction": {
-        "702569007": (
-            "Cone beam computed tomography imaging - action (qualifier value)",
-            [],
-        ),
+        "702569007": ("Cone beam computed tomography imaging - action (qualifier value)", []),
     },
     "ConfocalScanningLaserOphthalmoscope": {
         "392004000": ("Confocal Scanning Laser Ophthalmoscope", [4210]),
@@ -7233,28 +6208,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "9904008": ("Congenital anomaly of cardiovascular system (disorder)", []),
     },
     "CongenitalCoronaryArteryFistulaToLeftAtrium": {
-        "128555001": (
-            "Congenital coronary artery fistula to left atrium",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128555001": ("Congenital coronary artery fistula to left atrium", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "CongenitalCoronaryArteryFistulaToLeftVentricle": {
-        "128556000": (
-            "Congenital coronary artery fistula to left ventricle",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128556000": ("Congenital coronary artery fistula to left ventricle", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "CongenitalCoronaryArteryFistulaToRightAtrium": {
-        "128557009": (
-            "Congenital coronary artery fistula to right atrium",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128557009": ("Congenital coronary artery fistula to right atrium", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "CongenitalCoronaryArteryFistulaToRightVentricle": {
-        "128558004": (
-            "Congenital coronary artery fistula to right ventricle",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128558004": ("Congenital coronary artery fistula to right ventricle", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "CongenitalHeartDisease": {
         "13213009": ("Congenital heart disease", [12246]),
@@ -7311,22 +6274,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "85598007": ("Constrictive pericarditis", [3700, 3728]),
     },
     "ConstructionOfConduitRightAtriumToPulmonaryTrunk": {
-        "233022006": (
-            "Construction of conduit - right atrium to pulmonary trunk (procedure)",
-            [],
-        ),
+        "233022006": ("Construction of conduit - right atrium to pulmonary trunk (procedure)", []),
     },
     "ConstructionOfLVToAortaTunnelWRVToPAValvedConduit": {
-        "429620002": (
-            "Construction of LV to aorta tunnel w RV to PA valved conduit",
-            [12247],
-        ),
+        "429620002": ("Construction of LV to aorta tunnel w RV to PA valved conduit", [12247]),
     },
     "ConstructionOfLeftVentricleToAortaTunnelWithRightVentricleToPulmonaryArteryValvedConduit": {
-        "429620002": (
-            "Construction of left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit (procedure)",
-            [],
-        ),
+        "429620002": ("Construction of left ventricle to aorta tunnel with right ventricle to pulmonary artery valved conduit (procedure)", []),
     },
     "Consultant": {
         "309390008": ("Consultant", [7450, 7452]),
@@ -7402,19 +6356,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "66925006": ("Copper", [10006, 10067]),
     },
     "Copper62LabeledPyruvaldehydeBisN4MethylThiosemicarbazone": {
-        "422789008": (
-            "Copper^62^ labeled pyruvaldehyde-bis N-(4)-methyl-thiosemicarbazone (product)",
-            [],
-        ),
+        "422789008": ("Copper^62^ labeled pyruvaldehyde-bis N-(4)-methyl-thiosemicarbazone (product)", []),
     },
     "Copper64Acetate": {
         "78686003": ("Copper^64^ acetate", [25]),
     },
     "Copper64LabeledDiacetylBisN4Methylthiosemicarbazone": {
-        "422855001": (
-            "Copper^64^ labeled diacetyl-bis N-(4)-methylthiosemicarbazone (product)",
-            [],
-        ),
+        "422855001": ("Copper^64^ labeled diacetyl-bis N-(4)-methylthiosemicarbazone (product)", []),
     },
     "Copper64Versenate": {
         "88166005": ("Copper^64^ versenate", [25]),
@@ -7432,10 +6380,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "8931003": ("Coracoid process of scapula", [6115, 8134]),
     },
     "CoreBodyTemperatureMeasuredInRectum": {
-        "307047009": (
-            "Core body temperature measured in rectum (observable entity)",
-            [],
-        ),
+        "307047009": ("Core body temperature measured in rectum (observable entity)", []),
     },
     "CoreNeedleBiopsyOfBreast": {
         "44578009": ("Core needle biopsy of breast", [6050, 6083]),
@@ -7456,10 +6401,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131753009": ("Cormo sheep breed", [7480]),
     },
     "Cornea": {
-        "28726007": (
-            "Cornea",
-            [4, 4029, 4209, 4211, 4233, 4266, 7151, 7192, 8134, 9514],
-        ),
+        "28726007": ("Cornea", [4, 4029, 4209, 4211, 4233, 4266, 7151, 7192, 8134, 9514]),
     },
     "CornealEndothelium": {
         "65431007": ("Corneal endothelium", [4211, 8134]),
@@ -7489,10 +6431,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "53741008": ("Coronary arteriosclerosis (disorder)", []),
     },
     "CoronaryArtery": {
-        "41801008": (
-            "Coronary artery",
-            [4, 3010, 3604, 3606, 3630, 4030, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "41801008": ("Coronary artery", [4, 3010, 3604, 3606, 3630, 4030, 4042, 7151, 7192, 8134, 9514]),
     },
     "CoronaryArteryBypassGraft": {
         "232717009": ("Coronary artery bypass graft", [3721, 3764]),
@@ -7510,24 +6449,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373095005": ("Coronary artery fistula to right atrium (disorder)", []),
     },
     "CoronaryArteryGraft": {
-        "264293000": (
-            "Coronary artery graft",
-            [
-                1000,
-                1001,
-                1004,
-                3015,
-                3604,
-                3827,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "264293000": ("Coronary artery graft", [1000, 1001, 1004, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "CoronaryArteryStructure": {
         "41801008": ("Coronary artery structure (body structure)", []),
@@ -7537,10 +6459,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
     },
     "CoronarySinus": {
         "31162003": ("Coronary sinus", [3608, 3630]),
-        "90219004": (
-            "Coronary sinus",
-            [4, 3010, 3011, 3827, 3839, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "90219004": ("Coronary sinus", [4, 3010, 3011, 3827, 3839, 4042, 7151, 7192, 8134, 9514]),
     },
     "CoronarySinusStructure": {
         "90219004": ("Coronary sinus structure (body structure)", []),
@@ -7597,10 +6516,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131807008": ("Costa Rican Saddle Horse horse breed", [7480]),
     },
     "CostalCartilage": {
-        "50016007": (
-            "Costal Cartilage",
-            [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "50016007": ("Costal Cartilage", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "CostalGroove": {
         "17399006": ("Costal groove", [6115, 8134]),
@@ -7642,52 +6558,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "49727002": ("Cough", [60, 9300]),
     },
     "CouinaudHepaticSegmentI": {
-        "71133005": (
-            "Couinaud hepatic segment I",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "71133005": ("Couinaud hepatic segment I", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentII": {
-        "277956007": (
-            "Couinaud hepatic segment II",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277956007": ("Couinaud hepatic segment II", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentIII": {
-        "277957003": (
-            "Couinaud hepatic segment III",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277957003": ("Couinaud hepatic segment III", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentIV": {
-        "277958008": (
-            "Couinaud hepatic segment IV",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277958008": ("Couinaud hepatic segment IV", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentV": {
-        "277959000": (
-            "Couinaud hepatic segment V",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277959000": ("Couinaud hepatic segment V", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentVI": {
-        "277960005": (
-            "Couinaud hepatic segment VI",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277960005": ("Couinaud hepatic segment VI", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentVII": {
-        "277961009": (
-            "Couinaud hepatic segment VII",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277961009": ("Couinaud hepatic segment VII", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "CouinaudHepaticSegmentVIII": {
-        "277962002": (
-            "Couinaud hepatic segment VIII",
-            [7151, 7154, 7170, 7171, 7192, 8134, 9514],
-        ),
+        "277962002": ("Couinaud hepatic segment VIII", [7151, 7154, 7170, 7171, 7192, 8134, 9514]),
     },
     "Cranial": {
         "66787007": ("Cranial", [5]),
@@ -7714,10 +6606,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "408725003": ("Cranial RAO", [3466]),
     },
     "CranialRightAnteriorObliqueProjection": {
-        "408725003": (
-            "Cranial right anterior oblique projection (qualifier value)",
-            [],
-        ),
+        "408725003": ("Cranial right anterior oblique projection (qualifier value)", []),
     },
     "CranialSubarachnoidSpace": {
         "33930006": ("Cranial Subarachnoid Space", [7140]),
@@ -7738,25 +6627,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399162004": ("Cranio-caudal projection (qualifier value)", []),
     },
     "CranioCaudalProjectionExaggeratedLaterally": {
-        "399192008": (
-            "Cranio-caudal projection exaggerated laterally (qualifier value)",
-            [],
-        ),
+        "399192008": ("Cranio-caudal projection exaggerated laterally (qualifier value)", []),
     },
     "CranioCaudalProjectionExaggeratedMedially": {
-        "399101009": (
-            "Cranio-caudal projection exaggerated medially (qualifier value)",
-            [],
-        ),
+        "399101009": ("Cranio-caudal projection exaggerated medially (qualifier value)", []),
     },
     "Creatine": {
         "14804005": ("Creatine", [218, 4032, 4033, 7180, 7186, 7469]),
     },
     "CreationOfConduitBetweenRightVentricleAndPulmonaryArtery": {
-        "44777001": (
-            "Creation of conduit between right ventricle and pulmonary artery (procedure)",
-            [],
-        ),
+        "44777001": ("Creation of conduit between right ventricle and pulmonary artery (procedure)", []),
     },
     "CreationOfConduitRightAtriumToPulmonaryTrunk": {
         "233022006": ("Creation of conduit right atrium to pulmonary trunk", [12247]),
@@ -8170,10 +7050,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445663002": ("de Sénarmont compensator", [8124]),
     },
     "DeSénarmontCompensatorOfOpticalMicroscope": {
-        "445663002": (
-            "de Sénarmont compensator of optical microscope (physical object)",
-            [],
-        ),
+        "445663002": ("de Sénarmont compensator of optical microscope (physical object)", []),
     },
     "Dead": {
         "419099009": ("Dead (finding)", []),
@@ -8257,10 +7134,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129727007": ("Decrease in number of calcifications", [6002, 6003]),
     },
     "DecreaseInNumberOfCalcificationsSincePreviousMammogram": {
-        "129727007": (
-            "Decrease in number of calcifications since previous mammogram (finding)",
-            [],
-        ),
+        "129727007": ("Decrease in number of calcifications since previous mammogram (finding)", []),
     },
     "DecreaseInSize": {
         "19776001": ("Decrease in size", [6002, 6003, 6134]),
@@ -8269,10 +7143,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "1250004": ("Decreased", [3642]),
     },
     "DecreasedMyocardialIschemiaComparedToPriorStudy": {
-        "429232006": (
-            "Decreased myocardial ischemia compared to prior study (finding)",
-            [],
-        ),
+        "429232006": ("Decreased myocardial ischemia compared to prior study (finding)", []),
     },
     "DecreasedSize": {
         "19776001": ("Decreased size (finding)", []),
@@ -8302,16 +7173,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "60996007": ("deep lymph node", [7600, 8134]),
     },
     "DeepPalmarArchOfRadialArtery": {
-        "10119003": (
-            "Deep Palmar Arch of Radial Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12107],
-        ),
+        "10119003": ("Deep Palmar Arch of Radial Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "DeepPalmarVenousArch": {
-        "368481004": (
-            "Deep Palmar Venous Arch",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "368481004": ("Deep Palmar Venous Arch", [3827, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "DeepParotidLymphNode": {
         "279142004": ("deep parotid lymph node", [7600, 8134]),
@@ -8326,16 +7191,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373142009": ("Definite Thrombus", [3714]),
     },
     "DegreeOfBloodVesselLumenCrossSectionalAreaReduction": {
-        "408714007": (
-            "Degree of blood vessel lumen cross sectional area reduction (observable entity)",
-            [],
-        ),
+        "408714007": ("Degree of blood vessel lumen cross sectional area reduction (observable entity)", []),
     },
     "DegreeOfBloodVesselLumenDiameterReduction": {
-        "408715008": (
-            "Degree of blood vessel lumen diameter reduction (observable entity)",
-            [],
-        ),
+        "408715008": ("Degree of blood vessel lumen diameter reduction (observable entity)", []),
     },
     "DehydrationOfTissueSpecimen": {
         "433470006": ("Dehydration of tissue specimen (procedure)", []),
@@ -8446,14 +7305,8 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "75294000": ("Descending", [5]),
     },
     "DescendingAorta": {
-        "281130003": (
-            "Descending aorta",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514, 12141],
-        ),
-        "32672002": (
-            "Descending aorta",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "281130003": ("Descending aorta", [6102, 6109, 6117, 7151, 7192, 8134, 9514, 12141]),
+        "32672002": ("Descending aorta", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "DescendingAortaStructure": {
         "281130003": ("Descending aorta structure (body structure)", []),
@@ -8604,40 +7457,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133648003": ("Diali cattle breed", [7480]),
     },
     "Diameter": {
-        "81827009": (
-            "Diameter",
-            [
-                218,
-                3423,
-                6165,
-                7469,
-                7470,
-                12008,
-                12218,
-                12250,
-                12251,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12277,
-                12304,
-            ],
-        ),
+        "81827009": ("Diameter", [218, 3423, 6165, 7469, 7470, 12008, 12218, 12250, 12251, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12277, 12304]),
     },
     "DiameterOfCircumscribedCircle": {
         "131192006": ("Diameter of circumscribed circle", [218, 6165, 7469, 7470]),
@@ -8649,10 +7469,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133176005": ("Diani pig breed", [7480]),
     },
     "Diaphragm": {
-        "5798000": (
-            "Diaphragm",
-            [1000, 1001, 1004, 6102, 6109, 6116, 7151, 7155, 7192, 8134, 9514],
-        ),
+        "5798000": ("Diaphragm", [1000, 1001, 1004, 6102, 6109, 6116, 7151, 7155, 7192, 8134, 9514]),
     },
     "DiaphragmStructure": {
         "5798000": ("Diaphragm structure (body structure)", []),
@@ -8783,10 +7600,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "82680008": ("Digit structure (body structure)", []),
     },
     "DigitalArteryOfHand": {
-        "40254007": (
-            "Digital artery of hand",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12107],
-        ),
+        "40254007": ("Digital artery of hand", [3827, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "DigitalImager": {
         "468440006": ("Digital imager", [7026, 7027, 7151, 7193]),
@@ -8906,10 +7720,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "46053002": ("Distal", [2, 5, 211, 212, 3019, 12116, 12281]),
     },
     "DistalCircumflexCoronaryArtery": {
-        "6511003": (
-            "Distal Circumflex Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292],
-        ),
+        "6511003": ("Distal Circumflex Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292]),
     },
     "DistalFemur": {
         "310652005": ("Distal Femur", [7304, 8134]),
@@ -8918,19 +7729,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "118495001": ("Distal Humerus", [7304, 8134]),
     },
     "DistalLeftAnteriorDescendingCoronaryArtery": {
-        "36672000": (
-            "Distal Left Anterior Descending Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "36672000": ("Distal Left Anterior Descending Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "DistalRadius": {
         "75129005": ("Distal Radius", [7304, 8134]),
     },
     "DistalRightCoronaryArtery": {
-        "41879009": (
-            "Distal Right Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "41879009": ("Distal Right Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "DistalTibia": {
         "64605006": ("Distal Tibia", [7304, 8134]),
@@ -8988,10 +7793,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "424225000": ("Dobutamine Stress protocol", [3261, 12001]),
     },
     "DoddPerforatingVein": {
-        "128554002": (
-            "Dodd's perforating vein",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128554002": ("Dodd's perforating vein", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "DogueDeBordeauxDogBreed": {
         "132389001": ("Dogue de Bordeaux dog breed (organism)", []),
@@ -9054,163 +7856,109 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442745004": ("Dorsal 20 degree rostral-ventrocaudal oblique", [7484]),
     },
     "Dorsal20DegreeRostralVentrocaudalObliqueProjection": {
-        "442745004": (
-            "Dorsal 20 degree rostral-ventrocaudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442745004": ("Dorsal 20 degree rostral-ventrocaudal oblique projection (qualifier value)", []),
     },
     "Dorsal35DegreeLateralPalmaromedialOblique": {
         "442746003": ("Dorsal 35 degree lateral-palmaromedial oblique", [7484]),
     },
     "Dorsal35DegreeLateralPalmaromedialObliqueProjection": {
-        "442746003": (
-            "Dorsal 35 degree lateral-palmaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442746003": ("Dorsal 35 degree lateral-palmaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal35DegreeLateralPlantaromedialOblique": {
         "442606004": ("Dorsal 35 degree lateral-plantaromedial oblique", [7484]),
     },
     "Dorsal35DegreeLateralPlantaromedialObliqueProjection": {
-        "442606004": (
-            "Dorsal 35 degree lateral-plantaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442606004": ("Dorsal 35 degree lateral-plantaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal35DegreeMedialPalmarolateralOblique": {
         "442583001": ("Dorsal 35 degree medial-palmarolateral oblique", [7484]),
     },
     "Dorsal35DegreeMedialPalmarolateralObliqueProjection": {
-        "442583001": (
-            "Dorsal 35 degree medial-palmarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442583001": ("Dorsal 35 degree medial-palmarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal35DegreeMedialPlantarolateralOblique": {
         "442608003": ("Dorsal 35 degree medial-plantarolateral oblique", [7484]),
     },
     "Dorsal35DegreeMedialPlantarolateralObliqueProjection": {
-        "442608003": (
-            "Dorsal 35 degree medial-plantarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442608003": ("Dorsal 35 degree medial-plantarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal40DegreeLateralPlantaromedialOblique": {
         "442585008": ("Dorsal 40 degree lateral-plantaromedial oblique", [7484]),
     },
     "Dorsal40DegreeLateralPlantaromedialObliqueProjection": {
-        "442585008": (
-            "Dorsal 40 degree lateral-plantaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442585008": ("Dorsal 40 degree lateral-plantaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal40DegreeMedialPalmarolateralOblique": {
         "442621005": ("Dorsal 40 degree medial-palmarolateral oblique", [7484]),
     },
     "Dorsal40DegreeMedialPalmarolateralObliqueProjection": {
-        "442621005": (
-            "Dorsal 40 degree medial-palmarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442621005": ("Dorsal 40 degree medial-palmarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal40DegreeMedialPlantarolateralOblique": {
         "442622003": ("Dorsal 40 degree medial-plantarolateral oblique", [7484]),
     },
     "Dorsal40DegreeMedialPlantarolateralObliqueProjection": {
-        "442622003": (
-            "Dorsal 40 degree medial-plantarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442622003": ("Dorsal 40 degree medial-plantarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal45DegreeLateralPalmaromedialOblique": {
         "442597009": ("Dorsal 45 degree lateral-palmaromedial oblique", [7484]),
     },
     "Dorsal45DegreeLateralPalmaromedialObliqueProjection": {
-        "442597009": (
-            "Dorsal 45 degree lateral-palmaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442597009": ("Dorsal 45 degree lateral-palmaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal45DegreeLateralPlantaromedialOblique": {
         "442643002": ("Dorsal 45 degree lateral-plantaromedial oblique", [7484]),
     },
     "Dorsal45DegreeLateralPlantaromedialObliqueProjection": {
-        "442643002": (
-            "Dorsal 45 degree lateral-plantaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442643002": ("Dorsal 45 degree lateral-plantaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal45DegreeMedialPalmarolateral": {
         "442623008": ("Dorsal 45 degree medial-palmarolateral", [7484]),
     },
     "Dorsal45DegreeMedialPalmarolateralProjection": {
-        "442623008": (
-            "Dorsal 45 degree medial-palmarolateral projection (qualifier value)",
-            [],
-        ),
+        "442623008": ("Dorsal 45 degree medial-palmarolateral projection (qualifier value)", []),
     },
     "Dorsal45DegreeMedialPlantarolateralOblique": {
         "442600005": ("Dorsal 45 degree medial-plantarolateral oblique", [7484]),
     },
     "Dorsal45DegreeMedialPlantarolateralObliqueProjection": {
-        "442600005": (
-            "Dorsal 45 degree medial-plantarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442600005": ("Dorsal 45 degree medial-plantarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal60DegreeLateralPalmaromedialOblique": {
         "442639001": ("Dorsal 60 degree lateral-palmaromedial oblique", [7484]),
     },
     "Dorsal60DegreeLateralPalmaromedialObliqueProjection": {
-        "442639001": (
-            "Dorsal 60 degree lateral-palmaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442639001": ("Dorsal 60 degree lateral-palmaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal60DegreeLateralPlantaromedialOblique": {
         "442601009": ("Dorsal 60 degree lateral-plantaromedial oblique", [7484]),
     },
     "Dorsal60DegreeLateralPlantaromedialObliqueProjection": {
-        "442601009": (
-            "Dorsal 60 degree lateral-plantaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442601009": ("Dorsal 60 degree lateral-plantaromedial oblique projection (qualifier value)", []),
     },
     "Dorsal60DegreeMedialPalmarolateralOblique": {
         "442602002": ("Dorsal 60 degree medial-palmarolateral oblique", [7484]),
     },
     "Dorsal60DegreeMedialPalmarolateralObliqueProjection": {
-        "442602002": (
-            "Dorsal 60 degree medial-palmarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442602002": ("Dorsal 60 degree medial-palmarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal60DegreeMedialPlantarolateralOblique": {
         "442641000": ("Dorsal 60 degree medial-plantarolateral oblique", [7484]),
     },
     "Dorsal60DegreeMedialPlantarolateralObliqueProjection": {
-        "442641000": (
-            "Dorsal 60 degree medial-plantarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442641000": ("Dorsal 60 degree medial-plantarolateral oblique projection (qualifier value)", []),
     },
     "Dorsal65DegreeProximalPalmarodistalOblique": {
         "442609006": ("Dorsal 65 degree proximal-palmarodistal oblique", [7484]),
     },
     "Dorsal65DegreeProximalPalmarodistalObliqueProjection": {
-        "442609006": (
-            "Dorsal 65 degree proximal-palmarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442609006": ("Dorsal 65 degree proximal-palmarodistal oblique projection (qualifier value)", []),
     },
     "Dorsal65DegreeProximalPlantarodistalOblique": {
         "442624002": ("Dorsal 65 degree proximal-plantarodistal oblique", [7484]),
     },
     "Dorsal65DegreeProximalPlantarodistalObliqueProjection": {
-        "442624002": (
-            "Dorsal 65 degree proximal-plantarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442624002": ("Dorsal 65 degree proximal-plantarodistal oblique projection (qualifier value)", []),
     },
     "DorsalAspectOfScapula": {
         "51698000": ("Dorsal aspect of scapula", [6115, 8134]),
@@ -9222,16 +7970,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "59752008": ("Dorsal funiculus structure (body structure)", []),
     },
     "DorsalScapularArtery": {
-        "91732003": (
-            "Dorsal scapular artery",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91732003": ("Dorsal scapular artery", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "DorsalisPedisArtery": {
-        "86547008": (
-            "Dorsalis Pedis Artery",
-            [3440, 3827, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "86547008": ("Dorsalis Pedis Artery", [3440, 3827, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "DorsetDownSheepBreed": {
         "131722007": ("Dorset Down sheep breed", [7480]),
@@ -9249,19 +7991,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442657000": ("Dorsolateral-palmaromedial oblique", [7484]),
     },
     "DorsolateralPalmaromedialObliqueProjection": {
-        "442657000": (
-            "Dorsolateral-palmaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442657000": ("Dorsolateral-palmaromedial oblique projection (qualifier value)", []),
     },
     "DorsolateralPlantaromedialOblique": {
         "442610001": ("Dorsolateral-plantaromedial oblique", [7484]),
     },
     "DorsolateralPlantaromedialObliqueProjection": {
-        "442610001": (
-            "Dorsolateral-plantaromedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442610001": ("Dorsolateral-plantaromedial oblique projection (qualifier value)", []),
     },
     "DorsomedialPalmarolateral": {
         "442729001": ("Dorsomedial-palmarolateral", [7484]),
@@ -9273,10 +8009,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442611002": ("Dorsomedial-plantarolateral oblique", [7484]),
     },
     "DorsomedialPlantarolateralObliqueProjection": {
-        "442611002": (
-            "Dorsomedial-plantarolateral oblique projection (qualifier value)",
-            [],
-        ),
+        "442611002": ("Dorsomedial-plantarolateral oblique projection (qualifier value)", []),
     },
     "Dorsopalmar": {
         "441505008": ("Dorsopalmar", [7484]),
@@ -9294,28 +8027,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442744000": ("Dorsoproximal-palmarodistal oblique", [7484]),
     },
     "DorsoproximalPalmarodistalObliqueProjection": {
-        "442744000": (
-            "Dorsoproximal-palmarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442744000": ("Dorsoproximal-palmarodistal oblique projection (qualifier value)", []),
     },
     "DorsoproximalPlantarodistalOblique": {
         "442592003": ("Dorsoproximal-plantarodistal oblique", [7484]),
     },
     "DorsoproximalPlantarodistalObliqueProjection": {
-        "442592003": (
-            "Dorsoproximal-plantarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442592003": ("Dorsoproximal-plantarodistal oblique projection (qualifier value)", []),
     },
     "DorsorostralVentrocaudalOblique": {
         "442659002": ("Dorsorostral-ventrocaudal oblique", [7484]),
     },
     "DorsorostralVentrocaudalObliqueProjection": {
-        "442659002": (
-            "Dorsorostral-ventrocaudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442659002": ("Dorsorostral-ventrocaudal oblique projection (qualifier value)", []),
     },
     "DortyolCattleBreed": {
         "133377006": ("Dortyol cattle breed", [7480]),
@@ -9414,10 +8138,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "410461001": ("Dual diffuse direct illumination", [4203]),
     },
     "DualDiffuseDirectIlluminationAction": {
-        "410461001": (
-            "Dual diffuse direct illumination - action (qualifier value)",
-            [],
-        ),
+        "410461001": ("Dual diffuse direct illumination - action (qualifier value)", []),
     },
     "DuctalHyperplasiaUsual": {
         "67617000": ("Ductal hyperplasia, Usual", [6030, 6031]),
@@ -9513,10 +8234,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128455004": ("Dye dilution cardiac output waveform", [3003]),
     },
     "DyeDilutionCardiacOutputWaveformFunction": {
-        "128455004": (
-            "Dye dilution cardiac output waveform, function (observable entity)",
-            [],
-        ),
+        "128455004": ("Dye dilution cardiac output waveform, function (observable entity)", []),
     },
     "DynamicHipScrewPlate": {
         "257327003": ("Dynamic hip screw plate (physical object)", []),
@@ -9621,10 +8339,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "40701008": ("Echocardiography", [3206, 3744, 3757, 12001]),
     },
     "EchocardiographyForDeterminingVentricularContraction": {
-        "35757004": (
-            "Echocardiography for determining ventricular contraction (procedure)",
-            [],
-        ),
+        "35757004": ("Echocardiography for determining ventricular contraction (procedure)", []),
     },
     "Ectatic": {
         "386140000": ("Ectatic", [3712]),
@@ -9642,10 +8357,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132353009": ("Edelschwein pig breed", [7480]),
     },
     "Edema": {
-        "79654002": (
-            "Edema",
-            [6014, 6015, 6016, 6030, 6031, 6054, 6056, 7151, 7159, 7168, 7169, 7194],
-        ),
+        "79654002": ("Edema", [6014, 6015, 6016, 6030, 6031, 6054, 6056, 7151, 7159, 7168, 7169, 7194]),
     },
     "EdemaOfFetalChestWall": {
         "443115002": ("Edema of fetal chest wall", [12249]),
@@ -9684,26 +8396,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "19952003": ("elastic vascular sclerosis", [3817]),
     },
     "ElbowJoint": {
-        "16953009": (
-            "Elbow joint",
-            [
-                4,
-                1000,
-                1001,
-                1006,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "16953009": ("Elbow joint", [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "ElbowJointStructure": {
         "16953009": ("Elbow joint structure (body structure)", []),
@@ -9998,33 +8691,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "279174006": ("Entire anulus fibrosus of mitral orifice (body structure)", []),
     },
     "EntireAnulusFibrosusOfTricuspidOrifice": {
-        "279170002": (
-            "Entire anulus fibrosus of tricuspid orifice (body structure)",
-            [],
-        ),
+        "279170002": ("Entire anulus fibrosus of tricuspid orifice (body structure)", []),
     },
     "EntireBloodVessel": {
         "361097006": ("Entire blood vessel (body structure)", []),
     },
     "EntireBody": {
-        "38266002": (
-            "Entire body",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7482,
-                7483,
-                8103,
-                8134,
-                9514,
-                10060,
-            ],
-        ),
+        "38266002": ("Entire body", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8103, 8134, 9514, 10060]),
     },
     "EntireBodyAsAWhole": {
         "38266002": ("Entire body as a whole (body structure)", []),
@@ -10033,34 +8706,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "181131000": ("Entire breast (body structure)", []),
     },
     "EntireDeciduousMandibularLeftCanineTooth": {
-        "245639007": (
-            "Entire deciduous mandibular left canine tooth (body structure)",
-            [],
-        ),
+        "245639007": ("Entire deciduous mandibular left canine tooth (body structure)", []),
     },
     "EntireDeciduousMandibularRightFirstMolarTooth": {
-        "245631005": (
-            "Entire deciduous mandibular right first molar tooth (body structure)",
-            [],
-        ),
+        "245631005": ("Entire deciduous mandibular right first molar tooth (body structure)", []),
     },
     "EntireDeciduousMaxillaryRightCentralIncisorTooth": {
-        "245620002": (
-            "Entire deciduous maxillary right central incisor tooth (body structure)",
-            [],
-        ),
+        "245620002": ("Entire deciduous maxillary right central incisor tooth (body structure)", []),
     },
     "EntireDeciduousMaxillaryRightFirstMolarTooth": {
-        "245616001": (
-            "Entire deciduous maxillary right first molar tooth (body structure)",
-            [],
-        ),
+        "245616001": ("Entire deciduous maxillary right first molar tooth (body structure)", []),
     },
     "EntireDeciduousMaxillaryRightLateralIncisorTooth": {
-        "245619008": (
-            "Entire deciduous maxillary right lateral incisor tooth (body structure)",
-            [],
-        ),
+        "245619008": ("Entire deciduous maxillary right lateral incisor tooth (body structure)", []),
     },
     "EntireGastrocnemiusVein": {
         "264481007": ("Entire gastrocnemius vein (body structure)", []),
@@ -10177,10 +8835,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "424655003": ("Eraso Modification projection (qualifier value)", []),
     },
     "ErectorSpinaeMuscle": {
-        "44947003": (
-            "Erector spinae muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "44947003": ("Erector spinae muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "ErhulianPigBreed": {
         "132317007": ("Erhulian pig breed", [7480]),
@@ -10225,10 +8880,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "206034008": ("Esophageal artery", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "EsophagealHiatus": {
-        "280062008": (
-            "Esophageal Hiatus",
-            [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "280062008": ("Esophageal Hiatus", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "EsophagealLymphNode": {
         "11899006": ("esophageal lymph node", [7600, 8134]),
@@ -10237,40 +8889,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "32849002": ("Esophageal structure (body structure)", []),
     },
     "Esophagus": {
-        "32849002": (
-            "Esophagus",
-            [
-                4009,
-                4030,
-                4031,
-                4042,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7155,
-                7192,
-                7482,
-                7483,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "32849002": ("Esophagus", [4009, 4030, 4031, 4042, 6102, 6109, 6113, 6149, 7151, 7155, 7192, 7482, 7483, 8134, 9514, 10044, 10060]),
     },
     "EsophagusStomachAndDuodenum": {
-        "110861005": (
-            "Esophagus, stomach and duodenum",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "110861005": ("Esophagus, stomach and duodenum", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514]),
     },
     "EsophagusStomachAndDuodenumCombinedSite": {
-        "110861005": (
-            "Esophagus, stomach and duodenum (combined site) (body structure)",
-            [],
-        ),
+        "110861005": ("Esophagus, stomach and duodenum (combined site) (body structure)", []),
     },
     "Estimated": {
         "414135002": ("Estimated", [3627, 3745, 6140, 10009]),
@@ -10486,10 +9111,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10517005": ("External capsule of brain (body structure)", []),
     },
     "ExternalCarotidArtery": {
-        "22286001": (
-            "External carotid artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12104],
-        ),
+        "22286001": ("External carotid artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12104]),
     },
     "ExternalCarotidArteryStructure": {
         "22286001": ("External carotid artery structure (body structure)", []),
@@ -10498,10 +9120,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371790000": ("External Counter-Pulsation", [3553]),
     },
     "ExternalCounterPulsationCirculatorySupportDevice": {
-        "371790000": (
-            "External counter-pulsation circulatory support device (physical object)",
-            [],
-        ),
+        "371790000": ("External counter-pulsation circulatory support device (physical object)", []),
     },
     "ExternalEar": {
         "28347008": ("External ear", [4028, 7151, 7192, 8134, 9514]),
@@ -10516,40 +9135,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "414165007": ("External elastic membrane of artery (body structure)", []),
     },
     "ExternalIliacArtery": {
-        "113269004": (
-            "External iliac artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "113269004": ("External iliac artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "ExternalIliacLymphNode": {
         "65349008": ("external iliac lymph node", [7600, 8134]),
     },
     "ExternalIliacVein": {
-        "63507001": (
-            "External iliac vein",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "63507001": ("External iliac vein", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "ExternalIntercostalMuscle": {
-        "53967007": (
-            "External intercostal muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "53967007": ("External intercostal muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "ExternalJugularVein": {
-        "71585003": (
-            "External jugular vein",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "71585003": ("External jugular vein", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "ExternalMammaryLymphNode": {
         "421988007": ("external mammary lymph node", [7600, 8134]),
     },
     "ExternalProsthesisForSonographicProcedureDevice": {
-        "102322008": (
-            "External prosthesis for sonographic procedure, device (physical object)",
-            [],
-        ),
+        "102322008": ("External prosthesis for sonographic procedure, device (physical object)", []),
     },
     "ExternalProsthesisForSonographicProcedureStandOff": {
         "102322008": ("External prosthesis for sonographic procedure [Stand-off]", [5]),
@@ -10597,10 +9201,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "470091001": ("Eye lubricant (physical object)", []),
     },
     "EyeRegion": {
-        "371398005": (
-            "Eye region",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "371398005": ("Eye region", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "EyeRegionStructure": {
         "371398005": ("Eye region structure (body structure)", []),
@@ -10693,16 +9294,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "89545001": ("Face structure (body structure)", []),
     },
     "FacialArtery": {
-        "23074001": (
-            "Facial artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "23074001": ("Facial artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "FacialBones": {
-        "91397008": (
-            "Facial bones",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "91397008": ("Facial bones", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "FacialLymphNode": {
         "48918001": ("facial lymph node", [7600, 8134]),
@@ -10894,10 +9489,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "87759004": ("Female internal genitalia structure (body structure)", []),
     },
     "FemoralArtery": {
-        "7657000": (
-            "Femoral artery",
-            [4, 3010, 3440, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "7657000": ("Femoral artery", [4, 3010, 3440, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "FemoralArteryPressureWaveform": {
         "128442000": ("Femoral artery pressure waveform", [3003]),
@@ -10909,34 +9501,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "304121006": ("Femoral Head Prosthesis", [7307, 7308]),
     },
     "FemoralVein": {
-        "83419000": (
-            "Femoral vein",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "83419000": ("Femoral vein", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "FemoralVeinStructure": {
         "83419000": ("Femoral vein structure (body structure)", []),
     },
     "Femur": {
-        "71341001": (
-            "Femur",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-                12020,
-                12021,
-            ],
-        ),
+        "71341001": ("Femur", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514, 12020, 12021]),
     },
     "FengjingPigBreed": {
         "132233007": ("Fengjing pig breed", [7480]),
@@ -11011,10 +9582,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "65877006": ("Fibroadenoma", [6030, 6031]),
     },
     "FibroadenomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "65877006": (
-            "Fibroadenoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "65877006": ("Fibroadenoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "FibrocysticBreastChanges": {
         "27431007": ("Fibrocystic breast changes (finding)", []),
@@ -11047,10 +9615,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "40772000": ("Fibrous Plaque", [3491, 3495, 3496, 3497, 7111]),
     },
     "Fibula": {
-        "87342007": (
-            "Fibula",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514, 12021],
-        ),
+        "87342007": ("Fibula", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514, 12021]),
     },
     "FibularLymphNode": {
         "31171007": ("fibular lymph node", [7600, 8134]),
@@ -11065,10 +9630,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "255798002": ("field's stain", [8112]),
     },
     "FifthLumbarArtery": {
-        "397411003": (
-            "Fifth Lumbar Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "397411003": ("Fifth Lumbar Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "FifthPercentile": {
         "371888009": ("Fifth percentile (qualifier value)", []),
@@ -11092,10 +9654,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "118242002": ("Finding by palpation (finding)", []),
     },
     "FindingLessWellDefinedSincePreviousMammogram": {
-        "129728002": (
-            "Finding less well defined since previous mammogram (finding)",
-            [],
-        ),
+        "129728002": ("Finding less well defined since previous mammogram (finding)", []),
     },
     "FindingMoreDefinedSincePreviousMammogram": {
         "129729005": ("Finding more defined since previous mammogram (finding)", []),
@@ -11104,58 +9663,31 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129720009": ("Finding of change since previous mammogram (finding)", []),
     },
     "FindingOfDifferenceInBorderDefinitionComparedToPreviousRadiologicExamination": {
-        "442688001": (
-            "Finding of difference in border definition compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442688001": ("Finding of difference in border definition compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInBorderShapeComparedToPreviousRadiologicExamination": {
-        "442755000": (
-            "Finding of difference in border shape compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442755000": ("Finding of difference in border shape compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInDistributionComparedToPreviousRadiologicExamination": {
-        "442704007": (
-            "Finding of difference in distribution compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442704007": ("Finding of difference in distribution compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInLocationComparedToPreviousRadiologicExamination": {
-        "442726008": (
-            "Finding of difference in location compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442726008": ("Finding of difference in location compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInRadiographicAttenuationComparedToPreviousRadiologicExamination": {
-        "442707000": (
-            "Finding of difference in radiographic attenuation compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442707000": ("Finding of difference in radiographic attenuation compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInSiteInvolvementComparedToPreviousRadiologicExamination": {
-        "442711006": (
-            "Finding of difference in site involvement compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442711006": ("Finding of difference in site involvement compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInSizeComparedToPreviousRadiologicExamination": {
-        "442714003": (
-            "Finding of difference in size compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442714003": ("Finding of difference in size compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInSubstanceComparedToPreviousRadiologicExamination": {
-        "442691001": (
-            "Finding of difference in substance compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442691001": ("Finding of difference in substance compared to previous radiologic examination (finding)", []),
     },
     "FindingOfDifferenceInTextureComparedToPreviousRadiologicExamination": {
-        "442700003": (
-            "Finding of difference in texture compared to previous radiologic examination (finding)",
-            [],
-        ),
+        "442700003": ("Finding of difference in texture compared to previous radiologic examination (finding)", []),
     },
     "FindingOfElectrocardiogramSTSegment": {
         "365416000": ("Finding of electrocardiogram ST segment (finding)", []),
@@ -11179,10 +9711,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129722001": ("Finding partially removed", [6002, 6003, 6134]),
     },
     "FindingPartiallyRemovedSincePreviousMammogram": {
-        "129722001": (
-            "Finding partially removed since previous mammogram (finding)",
-            [],
-        ),
+        "129722001": ("Finding partially removed since previous mammogram (finding)", []),
     },
     "FindingRelatingToDrugMisuseBehavior": {
         "228366006": ("Finding relating to drug misuse behavior (finding)", []),
@@ -11203,19 +9732,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129762002": ("Fine linear, branching (casting) calcification", [6010, 6011]),
     },
     "FineLinearBranchingCastingRadiographicCalcification": {
-        "129762002": (
-            "Fine, linear, branching (casting) radiographic calcification (finding)",
-            [],
-        ),
+        "129762002": ("Fine, linear, branching (casting) radiographic calcification (finding)", []),
     },
     "FineLinearCastingCalcification": {
         "129761009": ("Fine, linear (casting) calcification", [6010, 6011]),
     },
     "FineLinearCastingRadiographicCalcification": {
-        "129761009": (
-            "Fine, linear, (casting) radiographic calcification (finding)",
-            [],
-        ),
+        "129761009": ("Fine, linear, (casting) radiographic calcification (finding)", []),
     },
     "FineMerinoSheepBreed": {
         "132722005": ("Fine Merino sheep breed", [7480]),
@@ -11227,10 +9750,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "410462008": ("Fine slit beam direct illumination", [4203]),
     },
     "FineSlitBeamDirectIlluminationAction": {
-        "410462008": (
-            "Fine slit beam direct illumination - action (qualifier value)",
-            [],
-        ),
+        "410462008": ("Fine slit beam direct illumination - action (qualifier value)", []),
     },
     "Finger": {
         "7569003": ("Finger", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
@@ -11281,10 +9801,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "270492004": ("First degree Atrioventricular block", [3230]),
     },
     "FirstLumbarArtery": {
-        "397407009": (
-            "First Lumbar Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "397407009": ("First Lumbar Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "FirstMolarRegion": {
         "699507006": ("First molar region", [4017]),
@@ -11413,10 +9930,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371798007": ("Fluid filled catheter", [3429]),
     },
     "FluidFilledCatheterHemodynamicMeasurementMethodRegimeTherapy": {
-        "128581002": (
-            "Fluid filled catheter hemodynamic measurement method (regime/therapy)",
-            [],
-        ),
+        "128581002": ("Fluid filled catheter hemodynamic measurement method (regime/therapy)", []),
     },
     "FluidFilledCatheterMethod": {
         "128581002": ("Fluid filled catheter method", [3241]),
@@ -11473,10 +9987,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "419416005": ("Fluoroscopic angiography of coronary arteries (procedure)", []),
     },
     "FluoroscopicAngiographyOfLeftVentricleAndCoronaryArteries": {
-        "418903008": (
-            "Fluoroscopic angiography of left ventricle and coronary arteries (procedure)",
-            [],
-        ),
+        "418903008": ("Fluoroscopic angiography of left ventricle and coronary arteries (procedure)", []),
     },
     "Fluoroscopy": {
         "44491008": ("Fluoroscopy", [10002]),
@@ -11539,24 +10050,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132718000": ("Fonthill Merino sheep breed", [7480]),
     },
     "Foot": {
-        "56459004": (
-            "Foot",
-            [
-                4,
-                1000,
-                1001,
-                1006,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12020,
-            ],
-        ),
+        "56459004": ("Foot", [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514, 12020]),
     },
     "FootStructure": {
         "56459004": ("Foot structure (body structure)", []),
@@ -11626,10 +10120,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399214001": ("Four chamber", [6, 501, 502]),
     },
     "FourthLumbarArtery": {
-        "397410002": (
-            "Fourth Lumbar Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "397410002": ("Fourth Lumbar Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "FourthVentricle": {
         "35918002": ("Fourth Ventricle", [7140, 7151, 7153, 7192, 8134, 9514]),
@@ -11656,16 +10147,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371842003": ("Fractional flow reserve", [3620, 3621]),
     },
     "FractionalFlowReserveUsingIntracoronaryBolus": {
-        "371835003": (
-            "Fractional Flow Reserve using intracoronary bolus",
-            [3620, 3621],
-        ),
+        "371835003": ("Fractional Flow Reserve using intracoronary bolus", [3620, 3621]),
     },
     "FractionalFlowReserveUsingIntravenousInfusion": {
-        "371841005": (
-            "Fractional Flow Reserve using intravenous infusion",
-            [3620, 3621],
-        ),
+        "371841005": ("Fractional Flow Reserve using intravenous infusion", [3620, 3621]),
     },
     "FractureOfLowerLimb": {
         "46866001": ("Fracture of lower limb", [3205]),
@@ -11912,24 +10397,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133110007": ("Galician Pony horse breed", [7480]),
     },
     "Gallbladder": {
-        "28231008": (
-            "Gallbladder",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4040,
-                4042,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "28231008": ("Gallbladder", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514, 10044, 10060]),
     },
     "GallbladderStructure": {
         "28231008": ("Gallbladder structure (body structure)", []),
@@ -12013,45 +10481,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "23141003": ("gasping respiration", [3416]),
     },
     "GastricArtery": {
-        "23771002": (
-            "Gastric Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "23771002": ("Gastric Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "GastricVein": {
-        "110568007": (
-            "Gastric vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12113,
-                12125,
-            ],
-        ),
+        "110568007": ("Gastric vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12113, 12125]),
     },
     "GastroOmentalLymphNode": {
         "83380007": ("gastro-omental lymph node", [7600, 8134]),
     },
     "GastrocnemiusVein": {
-        "264481007": (
-            "Gastrocnemius vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "264481007": ("Gastrocnemius vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "GastroduodenalArtery": {
-        "37274004": (
-            "Gastroduodenal Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "37274004": ("Gastroduodenal Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "GastrointestinalProkinetic": {
         "116532005": ("Gastrointestinal prokinetic", [621, 622]),
@@ -12093,10 +10535,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "102325005": ("Gel prosthesis for imaging procedure", [5]),
     },
     "GelProsthesisForImagingProcedureDevice": {
-        "102325005": (
-            "Gel prosthesis for imaging procedure, device (physical object)",
-            [],
-        ),
+        "102325005": ("Gel prosthesis for imaging procedure, device (physical object)", []),
     },
     "GelbrayCattleBreed": {
         "133731004": ("Gelbray cattle breed (organism)", []),
@@ -12357,10 +10796,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "63634009": ("Glioblastoma", [638, 639]),
     },
     "GlioblastomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "63634009": (
-            "Glioblastoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "63634009": ("Glioblastoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "GlobusPallidus": {
         "14738005": ("Globus Pallidus", [7140, 7151, 7153, 7192, 8134, 9514]),
@@ -12558,16 +10994,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "389081007": ("Gray Matter", [7151, 7153, 7192, 8134, 9514]),
     },
     "GrayMatterStructureOfCentralNervousSystem": {
-        "389081007": (
-            "Gray matter structure of central nervous system (body structure)",
-            [],
-        ),
+        "389081007": ("Gray matter structure of central nervous system (body structure)", []),
     },
     "GreatCardiacVein": {
-        "5928000": (
-            "Great cardiac vein",
-            [4, 3010, 3011, 3827, 3839, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "5928000": ("Great cardiac vein", [4, 3010, 3011, 3827, 3839, 4042, 7151, 7192, 8134, 9514]),
     },
     "GreatCardiacVeinStructure": {
         "5928000": ("Great cardiac vein structure (body structure)", []),
@@ -12582,22 +11012,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "32670005": ("Great Pyrenee dog", [7480]),
     },
     "GreatSaphenousVein": {
-        "60734001": (
-            "Great saphenous vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "60734001": ("Great saphenous vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "GreatSaphenousVeinOfCalf": {
-        "414368000": (
-            "Great Saphenous Vein of Calf",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "414368000": ("Great Saphenous Vein of Calf", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "GreatSaphenousVeinOfThigh": {
-        "414369008": (
-            "Great Saphenous Vein of Thigh",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "414369008": ("Great Saphenous Vein of Thigh", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "GreatSaphenousVeinStructure": {
         "60734001": ("Great saphenous vein structure (body structure)", []),
@@ -12630,10 +11051,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445465004": ("Green optical filter", [4204, 8124]),
     },
     "GreenOpticalFilterOfOpticalMircroscope": {
-        "445465004": (
-            "Green optical filter of optical mircroscope (physical object)",
-            [],
-        ),
+        "445465004": ("Green optical filter of optical mircroscope (physical object)", []),
     },
     "GreenlandDogBreed": {
         "132512002": ("Greenland Dog breed", [7480]),
@@ -13029,10 +11447,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "69536005": ("Head", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "HeadAndNeck": {
-        "774007": (
-            "Head and Neck",
-            [4, 645, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "774007": ("Head and Neck", [4, 645, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "HeadAndNeckStructure": {
         "774007": ("Head and neck structure (body structure)", []),
@@ -13077,30 +11492,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "223366009": ("Healthcare professional", [7450]),
     },
     "Heart": {
-        "80891009": (
-            "Heart",
-            [
-                1000,
-                1001,
-                1004,
-                4009,
-                4030,
-                4031,
-                4042,
-                6100,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7152,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "80891009": ("Heart", [1000, 1001, 1004, 4009, 4030, 4031, 4042, 6100, 6102, 6109, 6113, 6149, 7151, 7152, 7192, 8134, 9514, 10044, 10060]),
     },
     "HeartDisease": {
         "56265001": ("heart disease", [3727]),
@@ -13181,10 +11573,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "2099007": ("Hemangioma", [6030, 6031]),
     },
     "HemangiomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "2099007": (
-            "Hemangioma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "2099007": ("Hemangioma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "HemangiomaOfSubcutaneousTissue": {
         "93473009": ("Hemangioma of subcutaneous tissue", [6030, 6031]),
@@ -13235,22 +11624,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128552003": ("Hemodynamic impedance waveform", [3003]),
     },
     "HemodynamicImpedanceWaveformFunction": {
-        "128552003": (
-            "Hemodynamic impedance waveform, function (observable entity)",
-            [],
-        ),
+        "128552003": ("Hemodynamic impedance waveform, function (observable entity)", []),
     },
     "HemodynamicMeasurementViaDualCatheterMethodRegimeTherapy": {
-        "128573003": (
-            "Hemodynamic measurement via dual catheter method (regime/therapy)",
-            [],
-        ),
+        "128573003": ("Hemodynamic measurement via dual catheter method (regime/therapy)", []),
     },
     "HemodynamicMeasurementViaPullbackMethodRegimeTherapy": {
-        "128575005": (
-            "Hemodynamic measurement via pullback method (regime/therapy)",
-            [],
-        ),
+        "128575005": ("Hemodynamic measurement via pullback method (regime/therapy)", []),
     },
     "HemodynamicMeasurementViaWedgeMethodRegimeTherapy": {
         "128579004": ("Hemodynamic measurement via wedge method (regime/therapy)", []),
@@ -13262,19 +11642,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128435000": ("Hemodynamic oxygen saturation waveform", [3003]),
     },
     "HemodynamicOxygenSaturationWaveformFunction": {
-        "128435000": (
-            "Hemodynamic oxygen saturation waveform, function (observable entity)",
-            [],
-        ),
+        "128435000": ("Hemodynamic oxygen saturation waveform, function (observable entity)", []),
     },
     "HemodynamicPressureWaveform": {
         "128433007": ("Hemodynamic pressure waveform", [3003]),
     },
     "HemodynamicPressureWaveformFunction": {
-        "128433007": (
-            "Hemodynamic pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128433007": ("Hemodynamic pressure waveform, function (observable entity)", []),
     },
     "HemodynamicWaveform": {
         "128432002": ("Hemodynamic waveform", [3003]),
@@ -13308,10 +11682,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "84812008": ("Heparin", [10]),
     },
     "HepaticArtery": {
-        "76015000": (
-            "Hepatic artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "76015000": ("Hepatic artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "HepaticFlexureOfColon": {
         "48338005": ("Hepatic flexure of colon", [6210, 8134]),
@@ -13320,25 +11691,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "61492009": ("hepatic lymph node", [7600, 8134]),
     },
     "HepaticVein": {
-        "8993003": (
-            "Hepatic vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12114,
-                12125,
-                12282,
-            ],
-        ),
+        "8993003": ("Hepatic vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12114, 12125, 12282]),
     },
     "HepatobiliarySurgery": {
         "310158005": ("Hepatobiliary Surgery", [7030]),
@@ -13416,10 +11769,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445621001": ("High power non-immersion lens", [8121]),
     },
     "HighPowerNonimmersionLensOfOpticalMicroscope": {
-        "445621001": (
-            "High power nonimmersion lens of optical microscope (physical object)",
-            [],
-        ),
+        "445621001": ("High power nonimmersion lens of optical microscope (physical object)", []),
     },
     "HighRightAtrium": {
         "128591008": ("High right atrium", [3011, 8134]),
@@ -13476,26 +11826,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "29836001": ("Hip", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "HipJoint": {
-        "24136001": (
-            "Hip joint",
-            [
-                4,
-                1000,
-                1001,
-                1005,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "24136001": ("Hip joint", [4, 1000, 1001, 1005, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "HipJointReconstruction": {
         "119614000": ("Hip joint reconstruction", [7301]),
@@ -13537,10 +11868,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "441950002": ("Histopathology department (environment)", []),
     },
     "HistoryOfBetaAdrenergicReceptorBlockingAgentTherapy": {
-        "440935004": (
-            "History of beta adrenergic receptor blocking agent therapy (situation)",
-            [],
-        ),
+        "440935004": ("History of beta adrenergic receptor blocking agent therapy (situation)", []),
     },
     "HistoryOfBetaBlockingAgentsTherapy": {
         "440935004": ("History of Beta-blocking agents therapy", [64]),
@@ -13606,10 +11934,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "321000119108": ("History of malignant melanoma of the skin", [4402]),
     },
     "HistoryOfMalignantNeoplasmOfSkinExcludingMelanoma": {
-        "443895001": (
-            "History of malignant neoplasm of skin excluding melanoma",
-            [4404],
-        ),
+        "443895001": ("History of malignant neoplasm of skin excluding melanoma", [4404]),
     },
     "HistoryOfMelanomaInSituOfSkin": {
         "1251000119106": ("History of melanoma in situ of skin (situation)", []),
@@ -13645,10 +11970,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "14537002": ("Hodgkin's disease (lymphoma)", [6030, 6033]),
     },
     "HodgkinLymphomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "14537002": (
-            "Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "14537002": ("Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "HoffmanModulator": {
         "445635004": ("Hoffman modulator", [8124]),
@@ -13741,10 +12063,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "8715000": ("Hospital admission, elective (procedure)", []),
     },
     "HospitalAdmissionTransferFromOtherHospitalOrHealthCareFacility": {
-        "4563007": (
-            "Hospital admission, transfer from other hospital or health care facility (procedure)",
-            [],
-        ),
+        "4563007": ("Hospital admission, transfer from other hospital or health care facility (procedure)", []),
     },
     "HospitalConsultant": {
         "309390008": ("Hospital consultant (occupation)", []),
@@ -13822,26 +12141,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "165816005": ("Human immunodeficiency virus positive (finding)", []),
     },
     "Humerus": {
-        "85050009": (
-            "Humerus",
-            [
-                4,
-                4009,
-                4030,
-                4031,
-                4042,
-                6102,
-                6109,
-                6114,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "85050009": ("Humerus", [4, 4009, 4030, 4031, 4042, 6102, 6109, 6114, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "HungahybPigBreed": {
         "132364007": ("Hungahyb pig breed", [7480]),
@@ -13877,19 +12177,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "19356005": ("Hunter horse breed", [7480]),
     },
     "HunterianPerforatingVein": {
-        "128560002": (
-            "Hunterian perforating vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "128560002": ("Hunterian perforating vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "HydrocortisoneSodiumSuccinate": {
         "109066000": ("Hydrocortisone sodium succinate", [65]),
     },
     "HydroxymethylglutarylCoenzymeAReductaseInhibitor": {
-        "96302009": (
-            "Hydroxymethylglutaryl-coenzyme A reductase inhibitor (product)",
-            [],
-        ),
+        "96302009": ("Hydroxymethylglutaryl-coenzyme A reductase inhibitor (product)", []),
     },
     "HyoidBone": {
         "21387005": ("Hyoid bone", [4028, 7151, 7192, 8134, 9514]),
@@ -14075,10 +12369,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "34516001": ("Ileal structure (body structure)", []),
     },
     "IlealVein": {
-        "397439002": (
-            "Ileal vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12113, 12125],
-        ),
+        "397439002": ("Ileal vein", [3827, 7151, 7192, 8134, 9514, 12103, 12113, 12125]),
     },
     "IlealVeinStructure": {
         "397439002": ("Ileal vein structure (body structure)", []),
@@ -14108,10 +12399,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "299716001": ("Iliac and/or femoral artery structures (body structure)", []),
     },
     "IliacArtery": {
-        "10293006": (
-            "Iliac artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "10293006": ("Iliac artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "IliacCrest": {
         "29850006": ("Iliac Crest", [1000, 1001, 1005, 8134]),
@@ -14216,10 +12504,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "307280005": ("Implantation of cardiac pacemaker", [3721]),
     },
     "ImplantationOfHeartValveProsthesisOrSyntheticDevice": {
-        "47432005": (
-            "Implantation of heart valve prosthesis or synthetic device",
-            [12247],
-        ),
+        "47432005": ("Implantation of heart valve prosthesis or synthetic device", [12247]),
     },
     "ImplantationOfHeartValveWithTissueGraft": {
         "37153009": ("Implantation of heart valve with tissue graft", [12247]),
@@ -14228,10 +12513,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133439001": ("Improved Rodopi cattle breed", [7480]),
     },
     "ImprovementOfLeftVentricularWallMotionComparedToPriorStudy": {
-        "428825004": (
-            "Improvement of left ventricular wall motion compared to prior study (finding)",
-            [],
-        ),
+        "428825004": ("Improvement of left ventricular wall motion compared to prior study (finding)", []),
     },
     "ImprovementOfWallMotion": {
         "428825004": ("Improvement of wall motion", [3237]),
@@ -14255,16 +12537,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10337008": ("Incompetence of any valvular structure (finding)", []),
     },
     "IncompleteArterialStentAppositionAtTimeOfPlacement": {
-        "408709008": (
-            "Incomplete arterial stent apposition at time of placement (finding)",
-            [],
-        ),
+        "408709008": ("Incomplete arterial stent apposition at time of placement (finding)", []),
     },
     "IncompleteArterialStentAppositionSubsequentToPlacement": {
-        "408710003": (
-            "Incomplete arterial stent apposition subsequent to placement (finding)",
-            [],
-        ),
+        "408710003": ("Incomplete arterial stent apposition subsequent to placement (finding)", []),
     },
     "IncompleteLeftBundleBranchBlock": {
         "251120003": ("Incomplete Left bundle branch block", [3230]),
@@ -14279,10 +12555,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129726003": ("Increase in number of calcifications", [6002, 6003]),
     },
     "IncreaseInNumberOfCalcificationsSincePreviousMammogram": {
-        "129726003": (
-            "Increase in number of calcifications since previous mammogram (finding)",
-            [],
-        ),
+        "129726003": ("Increase in number of calcifications since previous mammogram (finding)", []),
     },
     "IncreaseInSize": {
         "15454001": ("Increase in size", [6002, 6003, 6134]),
@@ -14294,10 +12567,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "428920008": ("Increased lung uptake", [3116]),
     },
     "IncreasedMyocardialIschemiaComparedToPriorStudy": {
-        "429477006": (
-            "Increased myocardial ischemia compared to prior study (finding)",
-            [],
-        ),
+        "429477006": ("Increased myocardial ischemia compared to prior study (finding)", []),
     },
     "IncreasedSize": {
         "15454001": ("Increased size (finding)", []),
@@ -14342,28 +12612,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "410465005": ("Indirect retroillumination from the iris", [4203]),
     },
     "IndirectRetroilluminationFromTheIrisAction": {
-        "410465005": (
-            "Indirect retroillumination from the iris - action (qualifier value)",
-            [],
-        ),
+        "410465005": ("Indirect retroillumination from the iris - action (qualifier value)", []),
     },
     "IndirectRetroilluminationFromTheRetina": {
         "410466006": ("Indirect retroillumination from the retina", [4203]),
     },
     "IndirectRetroilluminationFromTheRetinaAction": {
-        "410466006": (
-            "Indirect retroillumination from the retina - action (qualifier value)",
-            [],
-        ),
+        "410466006": ("Indirect retroillumination from the retina - action (qualifier value)", []),
     },
     "IndirectScleroticScatterIllumination": {
         "410464009": ("Indirect sclerotic scatter illumination", [4203]),
     },
     "IndirectScleroticScatterIlluminationAction": {
-        "410464009": (
-            "Indirect sclerotic scatter illumination - action (qualifier value)",
-            [],
-        ),
+        "410464009": ("Indirect sclerotic scatter illumination - action (qualifier value)", []),
     },
     "IndistinctLesion": {
         "129741003": ("Indistinct lesion", [6006, 6007]),
@@ -14456,10 +12717,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "195416006": ("Inferior cardiac vein", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "InferiorCerebellarPeduncle": {
-        "67701001": (
-            "Inferior cerebellar peduncle",
-            [7151, 7153, 7192, 7701, 7710, 8134, 9514],
-        ),
+        "67701001": ("Inferior cerebellar peduncle", [7151, 7153, 7192, 7701, 7710, 8134, 9514]),
     },
     "InferiorCerebellarPeduncleStructure": {
         "67701001": ("Inferior cerebellar peduncle structure (body structure)", []),
@@ -14477,31 +12735,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "85380009": ("inferior inguinal lymph node", [7600, 8134]),
     },
     "InferiorLeftPulmonaryVein": {
-        "51249003": (
-            "Inferior left pulmonary vein",
-            [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "51249003": ("Inferior left pulmonary vein", [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514]),
     },
     "InferiorLongitudinalFasciculus": {
-        "55233005": (
-            "Inferior longitudinal fasciculus",
-            [7151, 7153, 7192, 7703, 7710, 8134, 9514],
-        ),
+        "55233005": ("Inferior longitudinal fasciculus", [7151, 7153, 7192, 7703, 7710, 8134, 9514]),
     },
     "InferiorMesentericArtery": {
-        "33795007": (
-            "Inferior mesenteric artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "33795007": ("Inferior mesenteric artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "InferiorMesentericLymphNode": {
         "113336002": ("inferior mesenteric lymph node", [7600, 8134]),
     },
     "InferiorMesentericVein": {
-        "32859001": (
-            "Inferior Mesenteric Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "32859001": ("Inferior Mesenteric Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "InferiorPancreaticLymphNode": {
         "280915003": ("inferior pancreatic lymph node", [7600, 8134]),
@@ -14510,56 +12756,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "281227003": ("inferior pancreaticoduodenal lymph node", [7600, 8134]),
     },
     "InferiorPhrenicArtery": {
-        "29660000": (
-            "Inferior phrenic artery",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "29660000": ("Inferior phrenic artery", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "InferiorRightHepaticVein": {
-        "397425002": (
-            "Inferior Right Hepatic Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "397425002": ("Inferior Right Hepatic Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "InferiorRightHepaticVeinStructure": {
         "397425002": ("Inferior right hepatic vein structure (body structure)", []),
     },
     "InferiorRightPulmonaryVein": {
-        "113273001": (
-            "Inferior right pulmonary vein",
-            [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "113273001": ("Inferior right pulmonary vein", [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514]),
     },
     "InferiorRollingOfBreast": {
         "414493004": ("Inferior rolling of breast (procedure)", []),
     },
     "InferiorVenaCava": {
-        "64131007": (
-            "Inferior vena cava",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                6202,
-                6204,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                12103,
-                12114,
-                12125,
-                12282,
-                12305,
-            ],
-        ),
+        "64131007": ("Inferior vena cava", [4, 3010, 3607, 3630, 3827, 4042, 6102, 6109, 6117, 6202, 6204, 7151, 7154, 7192, 8134, 9514, 12103, 12114, 12125, 12282, 12305]),
     },
     "InferiorVenaCavaStructure": {
         "64131007": ("Inferior vena cava structure (body structure)", []),
@@ -14568,10 +12780,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "441555000": ("inferomedial to superolateral oblique", [4014]),
     },
     "InferomedialToSuperolateralObliqueView": {
-        "441555000": (
-            "Inferomedial to superolateral oblique view (qualifier value)",
-            [],
-        ),
+        "441555000": ("Inferomedial to superolateral oblique view (qualifier value)", []),
     },
     "InfiltratingDuctCarcinoma": {
         "82711006": ("Infiltrating duct carcinoma", [6030, 6033]),
@@ -14605,10 +12814,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "414497003": ("Infra-red color (qualifier value)", []),
     },
     "InfraRenalAorta": {
-        "28205006": (
-            "Infra-renal Aorta",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125, 12291],
-        ),
+        "28205006": ("Infra-renal Aorta", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125, 12291]),
     },
     "InfraclavicularLymphNode": {
         "9659009": ("infraclavicular lymph node", [7600, 8134]),
@@ -14620,16 +12826,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445169002": ("Infrared optical filter", [4204, 8124]),
     },
     "InfraredOpticalFilterOfOpticalMicroscope": {
-        "445169002": (
-            "Infrared optical filter of optical microscope (physical object)",
-            [],
-        ),
+        "445169002": ("Infrared optical filter of optical microscope (physical object)", []),
     },
     "InfraspinatusMuscle": {
-        "72573008": (
-            "Infraspinatus muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "72573008": ("Infraspinatus muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "InfraspinatusMuscleStructure": {
         "72573008": ("Infraspinatus muscle structure (body structure)", []),
@@ -14653,28 +12853,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "26893007": ("Inguinal region structure (body structure)", []),
     },
     "InhalationAnesthesiaMachineSystemClosedNoRebreathingOfPrimaryAgent": {
-        "44812007": (
-            "Inhalation anesthesia, machine system, closed, no rebreathing of primary agent (procedure)",
-            [],
-        ),
+        "44812007": ("Inhalation anesthesia, machine system, closed, no rebreathing of primary agent (procedure)", []),
     },
     "InhalationAnesthesiaMachineSystemClosedRebreathingOfPrimaryAgent": {
-        "112987001": (
-            "Inhalation anesthesia, machine system, closed, rebreathing of primary agent (procedure)",
-            [],
-        ),
+        "112987001": ("Inhalation anesthesia, machine system, closed, rebreathing of primary agent (procedure)", []),
     },
     "InhalationAnesthesiaSystemClosedNoRebreathingPrimaryAgent": {
-        "44812007": (
-            "Inhalation anesthesia system closed no rebreathing primary agent",
-            [615, 616],
-        ),
+        "44812007": ("Inhalation anesthesia system closed no rebreathing primary agent", [615, 616]),
     },
     "InhalationAnesthesiaSystemClosedRebreathingPrimaryAgent": {
-        "112987001": (
-            "Inhalation anesthesia system closed rebreathing primary agent",
-            [615, 616],
-        ),
+        "112987001": ("Inhalation anesthesia system closed rebreathing primary agent", [615, 616]),
     },
     "InhalationTechnique": {
         "446406008": ("Inhalation technique (qualifier value)", []),
@@ -14791,25 +12979,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "22945000": ("Inner ear structure (body structure)", []),
     },
     "InnermostIntercostalMuscles": {
-        "24062007": (
-            "Innermost intercostal muscles",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "24062007": ("Innermost intercostal muscles", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "InnominateArtery": {
-        "12691009": (
-            "Innominate artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12107, 12291],
-        ),
+        "12691009": ("Innominate artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12107, 12291]),
     },
     "InnominateLymphNode": {
         "196821008": ("innominate lymph node", [7600, 8134]),
     },
     "InnominateVein": {
-        "8887007": (
-            "Innominate vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "8887007": ("Innominate vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "InobutaInterSpeciesHybridPigBreed": {
         "133182008": ("Inobuta (inter-species hybrid) pig breed", [7480]),
@@ -14860,10 +13039,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "69805005": ("Insulin pump, device (physical object)", []),
     },
     "IntegratedRayTraceTriangulationAcquisitionLaserScanningDeviceWithConventionalFundusImaging": {
-        "416567007": (
-            "Integrated ray-trace triangulation acquisition laser scanning device with conventional fundus imaging (physical object)",
-            [],
-        ),
+        "416567007": ("Integrated ray-trace triangulation acquisition laser scanning device with conventional fundus imaging (physical object)", []),
     },
     "IntensiveCare": {
         "309904001": ("Intensive Care", [7030]),
@@ -14896,19 +13072,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "279271008": ("interiliac lymph node", [7600, 8134]),
     },
     "InterlobarArteryOfKidney": {
-        "274143007": (
-            "Interlobar Artery of Kidney",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12115],
-        ),
+        "274143007": ("Interlobar Artery of Kidney", [3827, 7151, 7192, 8134, 9514, 12103, 12115]),
     },
     "InterlobarLymphNodeOfTheLung": {
         "127919002": ("interlobar lymph node of the lung", [7600, 8134]),
     },
     "InterlobularArteryOfKidney": {
-        "274329007": (
-            "Interlobular Artery of Kidney",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12115],
-        ),
+        "274329007": ("Interlobular Artery of Kidney", [3827, 7151, 7192, 8134, 9514, 12103, 12115]),
     },
     "Intermediate": {
         "11896004": ("Intermediate", [2]),
@@ -14917,10 +13087,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "244252004": ("Intermediate artery (body structure)", []),
     },
     "IntermediateArteryRamus": {
-        "244252004": (
-            "Intermediate Artery (Ramus)",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "244252004": ("Intermediate Artery (Ramus)", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "IntermediateCommonIliacLymphNode": {
         "64556009": ("intermediate common iliac lymph node", [7600, 8134]),
@@ -14935,10 +13102,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "260521003": ("Internal", [2, 5, 6139]),
     },
     "InternalAuditoryCanal": {
-        "361078006": (
-            "Internal Auditory Canal",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "361078006": ("Internal Auditory Canal", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "InternalAuditoryMeatus": {
         "61671002": ("Internal Auditory Meatus", [1000, 1001, 1002, 8134]),
@@ -14950,46 +13114,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "85637007": ("Internal capsule structure of brain (body structure)", []),
     },
     "InternalCarotidArtery": {
-        "86117002": (
-            "Internal carotid artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12104,
-                12105,
-            ],
-        ),
+        "86117002": ("Internal carotid artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12104, 12105]),
     },
     "InternalCarotidArteryC5Segment": {
-        "415637004": (
-            "Internal Carotid Artery C5 segment",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "415637004": ("Internal Carotid Artery C5 segment", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "InternalCarotidArteryC6Segment": {
-        "698348000": (
-            "Internal Carotid Artery C6 segment",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "698348000": ("Internal Carotid Artery C6 segment", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "InternalCarotidArteryStructure": {
         "86117002": ("Internal carotid artery structure (body structure)", []),
     },
     "InternalFixationUsingInternalFixatorSystem": {
-        "257837004": (
-            "Internal fixation using internal fixator system (procedure)",
-            [],
-        ),
+        "257837004": ("Internal fixation using internal fixator system (procedure)", []),
     },
     "InternalFixationUsingPlate": {
         "257835007": ("Internal fixation using plate", [7310]),
@@ -15001,44 +13138,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "257833000": ("Internal fixation using staple", [7310]),
     },
     "InternalIliacArtery": {
-        "90024005": (
-            "Internal iliac artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "90024005": ("Internal iliac artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "InternalIliacVein": {
-        "40300007": (
-            "Internal iliac vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "40300007": ("Internal iliac vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "InternalIntercostalMuscle": {
-        "41313007": (
-            "Internal intercostal muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "41313007": ("Internal intercostal muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "InternalJugularVein": {
-        "12123001": (
-            "Internal jugular vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12108,
-            ],
-        ),
+        "12123001": ("Internal jugular vein", [4, 3010, 3607, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "InternalJugularVeinStructure": {
         "12123001": ("Internal jugular vein structure (body structure)", []),
@@ -15047,10 +13156,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "280677004": ("Internal limiting membrane of retina (body structure)", []),
     },
     "InternalMammaryArtery": {
-        "69327007": (
-            "Internal mammary artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "69327007": ("Internal mammary artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "InternalNose": {
         "53342003": ("Internal nose", [8134]),
@@ -15095,10 +13201,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "708174004": ("Interventional Radiology Service", [7030]),
     },
     "InterventricularSeptum": {
-        "589001": (
-            "Interventricular septum",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514, 12286, 12305],
-        ),
+        "589001": ("Interventricular septum", [6102, 6109, 6116, 7151, 7192, 8134, 9514, 12286, 12305]),
     },
     "InterventricularSeptumStructure": {
         "589001": ("Interventricular septum structure (body structure)", []),
@@ -15197,19 +13300,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "86616005": ("Intraductal carcinoma, non-infiltrating", [6159]),
     },
     "IntraductalCarcinomaNoninfiltratingNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "86616005": (
-            "Intraductal carcinoma, noninfiltrating, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "86616005": ("Intraductal carcinoma, noninfiltrating, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "IntraductalHyperplasia": {
         "67617000": ("Intraductal hyperplasia (morphologic abnormality)", []),
     },
     "IntraductalMicropapillaryCarcinoma": {
-        "128696009": (
-            "Intraductal micropapillary carcinoma (morphologic abnormality)",
-            [],
-        ),
+        "128696009": ("Intraductal micropapillary carcinoma (morphologic abnormality)", []),
     },
     "IntraductalPapilloma": {
         "5244003": ("Intraductal papilloma", [6030, 6031]),
@@ -15227,10 +13324,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "37737002": ("Intraluminal route", [11]),
     },
     "IntramammaryLymphNode": {
-        "443808008": (
-            "Intramammary lymph node",
-            [6014, 6015, 6016, 6030, 6031, 6054, 6056, 7600, 8134],
-        ),
+        "443808008": ("Intramammary lymph node", [6014, 6015, 6016, 6030, 6031, 6054, 6056, 7600, 8134]),
     },
     "IntramedullaryRoute": {
         "60213007": ("Intramedullary route", [11]),
@@ -15272,16 +13366,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "252420009": ("Intravascular echocardiography", [12001]),
     },
     "IntravascularOpticalCoherenceTomographyDevice": {
-        "445282004": (
-            "Intravascular Optical Coherence Tomography Device",
-            [3411, 3429],
-        ),
+        "445282004": ("Intravascular Optical Coherence Tomography Device", [3411, 3429]),
     },
     "IntravascularOpticalCoherenceTomographyImagingDevice": {
-        "445282004": (
-            "Intravascular optical coherence tomography imaging device (physical object)",
-            [],
-        ),
+        "445282004": ("Intravascular optical coherence tomography imaging device (physical object)", []),
     },
     "IntravascularUltrasound": {
         "241466007": ("Intravascular ultrasound", [3405, 3428]),
@@ -15362,10 +13450,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "44588005": ("Iodine", [13, 300]),
     },
     "Iodine123154Iodophenyl3RSMethylpentadecanoicAcid": {
-        "447134003": (
-            "Iodine^123 15-(4-Iodophenyl)-3(R,S)-Methylpentadecanoic Acid",
-            [25],
-        ),
+        "447134003": ("Iodine^123 15-(4-Iodophenyl)-3(R,S)-Methylpentadecanoic Acid", [25]),
     },
     "Iodine1233IodobenzylguanidineMIBG": {
         "395787009": ("Iodine^123 3-Iodobenzylguanidine MIBG", [25]),
@@ -15686,10 +13771,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131483001": ("Javanese Zebu cattle breed", [7480]),
     },
     "JawRegion": {
-        "661005": (
-            "Jaw region",
-            [4, 4009, 4016, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "661005": ("Jaw region", [4, 4009, 4016, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "JawRegionStructure": {
         "661005": ("Jaw region structure (body structure)", []),
@@ -15830,10 +13912,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128563000": ("Juxtaposed appendage", [3608, 3630]),
     },
     "JuxtaposedAtrialAppendage": {
-        "128563000": (
-            "Juxtaposed atrial appendage",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128563000": ("Juxtaposed atrial appendage", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "JämthundDogBreed": {
         "132430007": ("Jämthund dog breed", [7480]),
@@ -16088,27 +14167,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133695004": ("Khurasani zebu cattle breed", [7480]),
     },
     "Kidney": {
-        "64033007": (
-            "Kidney",
-            [
-                645,
-                1000,
-                1001,
-                1005,
-                4030,
-                4040,
-                6202,
-                6204,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-                12020,
-            ],
-        ),
+        "64033007": ("Kidney", [645, 1000, 1001, 1005, 4030, 4040, 6202, 6204, 7151, 7154, 7192, 8134, 9514, 10044, 10060, 12020]),
     },
     "KidneyStructure": {
         "64033007": ("Kidney structure (body structure)", []),
@@ -16195,10 +14254,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133056001": ("Knabstrup horse breed", [7480]),
     },
     "Knee": {
-        "72696002": (
-            "Knee",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "72696002": ("Knee", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "KneeChest": {
         "23242002": ("knee-chest", [20]),
@@ -16366,10 +14422,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "312965008": ("LASIK", [4234]),
     },
     "LVPeakDiastolicTissueVelocityDuringAtrialSystole": {
-        "399007006": (
-            "LV Peak Diastolic Tissue Velocity During Atrial Systole",
-            [12200, 12203],
-        ),
+        "399007006": ("LV Peak Diastolic Tissue Velocity During Atrial Systole", [12200, 12203]),
     },
     "LaManchaGoat": {
         "55530007": ("La Mancha goat (organism)", []),
@@ -16402,16 +14455,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132093002": ("Laconie pig breed", [7480]),
     },
     "LacrimalArtery": {
-        "59749000": (
-            "Lacrimal artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "59749000": ("Lacrimal artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "LacrimalArteryOfRightEye": {
-        "128979005": (
-            "Lacrimal artery of right eye",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128979005": ("Lacrimal artery of right eye", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "LacrimalArteryRight": {
         "128979005": ("Lacrimal artery, right (body structure)", []),
@@ -16531,10 +14578,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "14742008": ("Large intestinal structure (body structure)", []),
     },
     "LargeIntestine": {
-        "14742008": (
-            "Large intestine",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "14742008": ("Large intestine", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514]),
     },
     "LargePolishLongEaredPigBreed": {
         "133230004": ("Large Polish Long-Eared pig breed", [7480]),
@@ -16573,10 +14617,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "43914001": ("Laryngeal voice function (observable entity)", []),
     },
     "Larynx": {
-        "4596009": (
-            "Larynx",
-            [4, 645, 4009, 4028, 4030, 4031, 4040, 4042, 7151, 7192, 7601, 8134, 9514],
-        ),
+        "4596009": ("Larynx", [4, 645, 4009, 4028, 4030, 4031, 4040, 4042, 7151, 7192, 7601, 8134, 9514]),
     },
     "Laser": {
         "122456005": ("Laser", [8125]),
@@ -16599,43 +14640,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
     },
     "Lateral": {
         "399067008": ("lateral", [501, 4010]),
-        "49370004": (
-            "Lateral",
-            [2, 5, 26, 211, 212, 501, 3019, 4005, 6065, 12117, 12281],
-        ),
+        "49370004": ("Lateral", [2, 5, 26, 211, 212, 501, 3019, 4005, 6065, 12117, 12281]),
     },
     "Lateral45DegDorsal50DegProximalMediopalmarodistalOblique": {
-        "442582006": (
-            "Lateral 45 deg dorsal 50 deg proximal-mediopalmarodistal oblique",
-            [7484],
-        ),
+        "442582006": ("Lateral 45 deg dorsal 50 deg proximal-mediopalmarodistal oblique", [7484]),
     },
     "Lateral45DegDorsal50DegProximalMedioplantarodistalObliq": {
-        "442661006": (
-            "Lateral 45 deg dorsal 50 deg proximal-medioplantarodistal obliq",
-            [7484],
-        ),
+        "442661006": ("Lateral 45 deg dorsal 50 deg proximal-medioplantarodistal obliq", [7484]),
     },
     "Lateral45DegreeDorsal50DegreeProximalMediopalmarodistalObliqueProjection": {
-        "442582006": (
-            "Lateral 45 degree dorsal 50 degree proximal-mediopalmarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442582006": ("Lateral 45 degree dorsal 50 degree proximal-mediopalmarodistal oblique projection (qualifier value)", []),
     },
     "Lateral45DegreeDorsal50DegreeProximalMedioplantarodistalObliqueProjection": {
-        "442661006": (
-            "Lateral 45 degree dorsal 50 degree proximal-medioplantarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442661006": ("Lateral 45 degree dorsal 50 degree proximal-medioplantarodistal oblique projection (qualifier value)", []),
     },
     "LateralAxillaryLymphNode": {
         "33770006": ("lateral axillary lymph node", [7600, 8134]),
     },
     "LateralCalfPerforator": {
-        "714754004": (
-            "Lateral calf perforator",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "714754004": ("Lateral calf perforator", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "LateralCanthus": {
         "61242005": ("Lateral Canthus", [1000, 1001, 1002, 8134]),
@@ -16742,10 +14765,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399159002": ("Latero-medial oblique", [26, 501]),
     },
     "LateroMedialObliqueEmissiveProjection": {
-        "399159002": (
-            "Latero-medial oblique emissive projection (qualifier value)",
-            [],
-        ),
+        "399159002": ("Latero-medial oblique emissive projection (qualifier value)", []),
     },
     "LateroMedialObliqueProjection": {
         "399099002": ("Latero-medial oblique projection (qualifier value)", []),
@@ -16754,19 +14774,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442630002": ("Laterodorsoproximal-mediopalmarodistal oblique", [7484]),
     },
     "LaterodorsoproximalMediopalmarodistalObliqueProjection": {
-        "442630002": (
-            "Laterodorsoproximal-mediopalmarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442630002": ("Laterodorsoproximal-mediopalmarodistal oblique projection (qualifier value)", []),
     },
     "LaterodorsoproximalMedioplantarodistalOblique": {
         "442631003": ("Laterodorsoproximal-medioplantarodistal oblique", [7484]),
     },
     "LaterodorsoproximalMedioplantarodistalObliqueProjection": {
-        "442631003": (
-            "Laterodorsoproximal-medioplantarodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442631003": ("Laterodorsoproximal-medioplantarodistal oblique projection (qualifier value)", []),
     },
     "Lateromedial": {
         "399352003": ("Lateromedial", [7484]),
@@ -16775,10 +14789,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131754003": ("Lati sheep breed", [7480]),
     },
     "LatissimusDorsiMuscle": {
-        "15665001": (
-            "Latissimus dorsi muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "15665001": ("Latissimus dorsi muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "LatukaCattleBreed": {
         "133708004": ("Latuka cattle breed", [7480]),
@@ -16823,10 +14834,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "88488004": ("Lead", [10006, 10067]),
     },
     "LeakageOfConduitFromRightAtriumToPulmonaryArtery": {
-        "443461006": (
-            "Leakage of conduit from right atrium to pulmonary artery (disorder)",
-            [],
-        ),
+        "443461006": ("Leakage of conduit from right atrium to pulmonary artery (disorder)", []),
     },
     "LebaneseCattleBreed": {
         "133484004": ("Lebanese cattle breed", [7480]),
@@ -16844,125 +14852,77 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442748002": ("Left 20 degree dorsal-right ventral oblique", [7484]),
     },
     "Left20DegreeDorsalRightVentralObliqueProjection": {
-        "442748002": (
-            "Left 20 degree dorsal-right ventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442748002": ("Left 20 degree dorsal-right ventral oblique projection (qualifier value)", []),
     },
     "Left20DegreeRostralRightCaudalOblique": {
         "442632005": ("Left 20 degree rostral-right caudal oblique", [7484]),
     },
     "Left20DegreeRostralRightCaudalObliqueProjection": {
-        "442632005": (
-            "Left 20 degree rostral-right caudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442632005": ("Left 20 degree rostral-right caudal oblique projection (qualifier value)", []),
     },
     "Left20DegreeVentralRightDorsalOblique": {
         "442636008": ("Left 20 degree ventral-right dorsal oblique", [7484]),
     },
     "Left20DegreeVentralRightDorsalObliqueProjection": {
-        "442636008": (
-            "Left 20 degree ventral-right dorsal oblique projection (qualifier value)",
-            [],
-        ),
+        "442636008": ("Left 20 degree ventral-right dorsal oblique projection (qualifier value)", []),
     },
     "Left30DegreeCaudalRightRostralOblique": {
         "442596000": ("Left 30 degree caudal-right rostral oblique", [7484]),
     },
     "Left30DegreeCaudalRightRostralObliqueProjection": {
-        "442596000": (
-            "Left 30 degree caudal-right rostral oblique projection (qualifier value)",
-            [],
-        ),
+        "442596000": ("Left 30 degree caudal-right rostral oblique projection (qualifier value)", []),
     },
     "Left45DegreeDorsalRightVentralOblique": {
         "442598004": ("Left 45 degree dorsal-right ventral oblique", [7484]),
     },
     "Left45DegreeDorsalRightVentralObliqueProjection": {
-        "442598004": (
-            "Left 45 degree dorsal-right ventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442598004": ("Left 45 degree dorsal-right ventral oblique projection (qualifier value)", []),
     },
     "Left45DegreeVentralRightDorsalOblique": {
         "442599007": ("Left 45 degree ventral-right dorsal oblique", [7484]),
     },
     "Left45DegreeVentralRightDorsalObliqueProjection": {
-        "442599007": (
-            "Left 45 degree ventral-right dorsal oblique projection (qualifier value)",
-            [],
-        ),
+        "442599007": ("Left 45 degree ventral-right dorsal oblique projection (qualifier value)", []),
     },
     "LeftAnteriorApicalPeripheralZoneOfProstate": {
-        "716937001": (
-            "Left anterior apical peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716937001": ("Left anterior apical peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftAnteriorApicalTransitionZoneOfProstate": {
-        "716931000": (
-            "Left anterior apical transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716931000": ("Left anterior apical transition zone of prostate", [6300, 6301, 6304]),
     },
     "LeftAnteriorBasalPeripheralZoneOfProstate": {
-        "716905002": (
-            "Left anterior basal peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716905002": ("Left anterior basal peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftAnteriorBasalTransitionZoneOfProstate": {
-        "716897000": (
-            "Left anterior basal transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716897000": ("Left anterior basal transition zone of prostate", [6300, 6301, 6304]),
     },
     "LeftAnteriorDescendingCoronaryArtery": {
-        "59438005": (
-            "Left Anterior Descending Coronary Artery",
-            [3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "59438005": ("Left Anterior Descending Coronary Artery", [3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "LeftAnteriorDivisionOfLeftBranchAtrioventricularBundle": {
-        "84654008": (
-            "Left anterior division of left branch atrioventricular bundle",
-            [3011, 8134],
-        ),
+        "84654008": ("Left anterior division of left branch atrioventricular bundle", [3011, 8134]),
     },
     "LeftAnteriorFascicularBlock": {
         "37760005": ("Left anterior fascicular block", [3230]),
     },
     "LeftAnteriorMiddlePeripheralZoneOfProstate": {
-        "716920008": (
-            "Left anterior middle peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716920008": ("Left anterior middle peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftAnteriorMiddleTransitionZoneOfProstate": {
-        "716914007": (
-            "Left anterior middle transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716914007": ("Left anterior middle transition zone of prostate", [6300, 6301, 6304]),
     },
     "LeftAnteriorOblique": {
         "399074003": ("Left anterior oblique", [26, 501]),
         "399135007": ("left anterior oblique", [501, 3466, 4010]),
     },
     "LeftAnteriorObliqueEmissiveProjection": {
-        "399074003": (
-            "Left anterior oblique emissive projection (qualifier value)",
-            [],
-        ),
+        "399074003": ("Left anterior oblique emissive projection (qualifier value)", []),
     },
     "LeftAnteriorObliqueProjection": {
         "399135007": ("Left anterior oblique projection (qualifier value)", []),
     },
     "LeftApicalAnteriorFibromuscularStromaOfProstate": {
-        "716927006": (
-            "Left apical anterior fibromuscular stroma of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716927006": ("Left apical anterior fibromuscular stroma of prostate", [6300, 6301, 6304]),
     },
     "LeftApicalPeripheralZoneOfProstate": {
         "716935009": ("Left apical peripheral zone of prostate", [6300, 6302]),
@@ -16974,54 +14934,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "82471001": ("Left atrial structure (body structure)", []),
     },
     "LeftAtrium": {
-        "82471001": (
-            "Left atrium",
-            [
-                4,
-                3010,
-                3011,
-                3462,
-                3608,
-                3630,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12284,
-                12305,
-            ],
-        ),
+        "82471001": ("Left atrium", [4, 3010, 3011, 3462, 3608, 3630, 4042, 7151, 7192, 8134, 9514, 12284, 12305]),
     },
     "LeftAtriumPressureWaveform": {
         "128441007": ("Left atrium pressure waveform", [3003]),
     },
     "LeftAtriumPressureWaveformFunction": {
-        "128441007": (
-            "Left atrium pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128441007": ("Left atrium pressure waveform, function (observable entity)", []),
     },
     "LeftAtriumSystolicVolume": {
         "399235004": ("Left Atrium Systolic Volume", [12205]),
     },
     "LeftAuricularAppendage": {
-        "33626005": (
-            "Left auricular appendage",
-            [4, 3010, 3011, 4042, 7151, 7192, 8134, 9514, 12284],
-        ),
+        "33626005": ("Left auricular appendage", [4, 3010, 3011, 4042, 7151, 7192, 8134, 9514, 12284]),
     },
     "LeftBasalAnteriorFibromuscularStromaOfProstate": {
-        "716893001": (
-            "Left basal anterior fibromuscular stroma of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716893001": ("Left basal anterior fibromuscular stroma of prostate", [6300, 6301, 6304]),
     },
     "LeftBasalPartTransitionZoneOfProstate": {
-        "716895008": (
-            "Left basal part transition zone of prostate",
-            [6300, 6302, 6303],
-        ),
+        "716895008": ("Left basal part transition zone of prostate", [6300, 6302, 6303]),
     },
     "LeftBasalPeripheralZoneOfProstate": {
         "716903009": ("Left basal peripheral zone of prostate", [6300, 6302]),
@@ -17030,10 +14961,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "74031005": ("Left branch of atrioventricular bundle", [3011, 8134]),
     },
     "LeftBranchOfHepaticArtery": {
-        "21807003": (
-            "Left Branch of Hepatic Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "21807003": ("Left Branch of Hepatic Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "LeftBreast": {
         "80248007": ("Left breast", [6022, 6023]),
@@ -17051,10 +14979,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442638009": ("Left caudal-right rostral oblique", [7484]),
     },
     "LeftCaudalRightRostralObliqueProjection": {
-        "442638009": (
-            "Left caudal-right rostral oblique projection (qualifier value)",
-            [],
-        ),
+        "442638009": ("Left caudal-right rostral oblique projection (qualifier value)", []),
     },
     "LeftCommonCarotidArtery": {
         "113263003": ("Left Common Carotid Artery", [12291]),
@@ -17075,19 +15000,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442644008": ("Left dorsal-right ventral oblique", [7484]),
     },
     "LeftDorsalRightVentralObliqueProjection": {
-        "442644008": (
-            "Left dorsal-right ventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442644008": ("Left dorsal-right ventral oblique projection (qualifier value)", []),
     },
     "LeftDowngaze": {
         "255523004": ("Left downgaze", [4201]),
     },
     "LeftFemoralArtery": {
-        "113270003": (
-            "Left femoral artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "113270003": ("Left femoral artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "LeftGaze": {
         "255530005": ("Left gaze", [4201]),
@@ -17096,10 +15015,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "444178004": ("Left Glenn shunt procedure", [12247]),
     },
     "LeftHepaticVein": {
-        "273202007": (
-            "Left Hepatic Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "273202007": ("Left Hepatic Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "LeftHypochondriacRegion": {
         "133945003": ("Left hypochondriac region", [4, 7151, 7192, 8134, 9514]),
@@ -17148,54 +15064,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133943005": ("Left lumbar region", [4, 7151, 7192, 8134, 9514]),
     },
     "LeftMainBranchOfPortalVein": {
-        "70253006": (
-            "Left Main Branch of Portal Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "70253006": ("Left Main Branch of Portal Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "LeftMainBronchus": {
-        "75245000": (
-            "Left main bronchus",
-            [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "75245000": ("Left main bronchus", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "LeftMainBronchusStructure": {
         "75245000": ("Left main bronchus structure (body structure)", []),
     },
     "LeftMainCoronaryArtery": {
-        "3227004": (
-            "Left Main Coronary Artery",
-            [
-                3014,
-                3015,
-                3016,
-                3604,
-                3827,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12292,
-            ],
-        ),
+        "3227004": ("Left Main Coronary Artery", [3014, 3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292]),
     },
     "LeftMainCoronaryArteryDisease": {
         "371804009": ("Left main coronary artery disease", [3728]),
     },
     "LeftMainCoronaryArteryOstium": {
-        "76862008": (
-            "Left Main Coronary Artery Ostium",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "76862008": ("Left Main Coronary Artery Ostium", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "LeftMiddleAnteriorFibromuscularStromaOfProstate": {
-        "716910003": (
-            "Left middle anterior fibromuscular stroma of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716910003": ("Left middle anterior fibromuscular stroma of prostate", [6300, 6301, 6304]),
     },
     "LeftMiddleTransitionZoneOfProstate": {
         "716912006": ("Left middle transition zone of prostate", [6300, 6302, 6303]),
@@ -17213,112 +15100,56 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "53727004": ("Left pleura structure (body structure)", []),
     },
     "LeftPosteriorApicalTransitionZoneOfProstate": {
-        "716933002": (
-            "Left posterior apical transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716933002": ("Left posterior apical transition zone of prostate", [6300, 6301, 6304]),
     },
     "LeftPosteriorBasalTransitionZoneOfProstate": {
-        "716899002": (
-            "Left posterior basal transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716899002": ("Left posterior basal transition zone of prostate", [6300, 6301, 6304]),
     },
     "LeftPosteriorDescendingCircumflexCoronaryArtery": {
-        "91760001": (
-            "Left Posterior Descending Circumflex Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91760001": ("Left Posterior Descending Circumflex Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "LeftPosteriorDivisionOfLeftBranchAtrioventricularBundle": {
-        "91085002": (
-            "Left posterior division of left branch atrioventricular bundle",
-            [3011, 8134],
-        ),
+        "91085002": ("Left posterior division of left branch atrioventricular bundle", [3011, 8134]),
     },
     "LeftPosteriorFascicularBlock": {
         "62026008": ("Left posterior fascicular block", [3230]),
     },
     "LeftPosteriorMiddleTransitionZoneOfProstate": {
-        "716916009": (
-            "Left posterior middle transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716916009": ("Left posterior middle transition zone of prostate", [6300, 6301, 6304]),
     },
     "LeftPosteriorOblique": {
         "399006002": ("left posterior oblique", [501, 4010]),
         "399136008": ("Left posterior oblique", [26, 501]),
     },
     "LeftPosteriorObliqueEmissiveProjection": {
-        "399136008": (
-            "Left posterior oblique emissive projection (qualifier value)",
-            [],
-        ),
+        "399136008": ("Left posterior oblique emissive projection (qualifier value)", []),
     },
     "LeftPosteriorObliqueProjection": {
         "399006002": ("Left posterior oblique projection (qualifier value)", []),
     },
     "LeftPosterolateralApicalPeripheralZoneOfProstate": {
-        "716939003": (
-            "Left posterolateral apical peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716939003": ("Left posterolateral apical peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftPosterolateralBasalPeripheralZoneOfProstate": {
-        "716907005": (
-            "Left posterolateral basal peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716907005": ("Left posterolateral basal peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftPosterolateralCircumflexCoronaryArtery": {
-        "57823005": (
-            "Left Posterolateral Circumflex Coronary Artery",
-            [3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "57823005": ("Left Posterolateral Circumflex Coronary Artery", [3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "LeftPosterolateralMiddlePeripheralZoneOfProstate": {
-        "716922000": (
-            "Left posterolateral middle peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716922000": ("Left posterolateral middle peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftPosteromedialApicalPeripheralZoneOfProstate": {
-        "716941002": (
-            "Left posteromedial apical peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716941002": ("Left posteromedial apical peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "LeftPosteromedialBasalPeripheralZoneOfProstate": {
-        "836427009": (
-            "Left posteromedial basal peripheral zone of prostate",
-            [6300, 6304],
-        ),
+        "836427009": ("Left posteromedial basal peripheral zone of prostate", [6300, 6304]),
     },
     "LeftPosteromedialMiddlePeripheralZoneOfProstate": {
-        "716924004": (
-            "Left posteromedial middle peripheral zone of prostate",
-            [6300, 6301, 6302, 6303, 6304],
-        ),
+        "716924004": ("Left posteromedial middle peripheral zone of prostate", [6300, 6301, 6302, 6303, 6304]),
     },
     "LeftPulmonaryArtery": {
-        "50408007": (
-            "Left pulmonary artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3829,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12280,
-                12305,
-            ],
-        ),
+        "50408007": ("Left pulmonary artery", [4, 3010, 3604, 3606, 3630, 3829, 4042, 7151, 7192, 8134, 9514, 12280, 12305]),
     },
     "LeftPulmonaryVein": {
         "27706005": ("Left Pulmonary Vein", [3827, 3840, 7151, 7192, 9514]),
@@ -17330,10 +15161,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442645009": ("Left rostral-right caudal oblique", [7484]),
     },
     "LeftRostralRightCaudalObliqueProjection": {
-        "442645009": (
-            "Left rostral-right caudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442645009": ("Left rostral-right caudal oblique projection (qualifier value)", []),
     },
     "LeftSeminalVesicle": {
         "42320003": ("Left seminal vesicle", [6300, 6301, 6302, 6303, 6304]),
@@ -17369,35 +15197,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442739007": ("Left ventral-right dorsal oblique", [7484]),
     },
     "LeftVentralRightDorsalObliqueProjection": {
-        "442739007": (
-            "Left ventral-right dorsal oblique projection (qualifier value)",
-            [],
-        ),
+        "442739007": ("Left ventral-right dorsal oblique projection (qualifier value)", []),
     },
     "LeftVentricle": {
-        "87878005": (
-            "Left ventricle",
-            [
-                4,
-                3010,
-                3011,
-                3462,
-                3463,
-                3609,
-                3630,
-                4042,
-                7151,
-                7152,
-                7192,
-                8134,
-                9514,
-                12223,
-                12236,
-                12287,
-                12288,
-                12305,
-            ],
-        ),
+        "87878005": ("Left ventricle", [4, 3010, 3011, 3462, 3463, 3609, 3630, 4042, 7151, 7152, 7192, 8134, 9514, 12223, 12236, 12287, 12288, 12305]),
     },
     "LeftVentricleAnteriorSegment": {
         "284355001": ("Left ventricle anterior segment", [3232]),
@@ -17442,19 +15245,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "277631004": ("Left ventricle basal lateral segment (body structure)", []),
     },
     "LeftVentricleEpicardialDiastolicAreaPsaxPapView": {
-        "399293008": (
-            "Left Ventricle Epicardial Diastolic Area, psax pap view",
-            [12200, 12240],
-        ),
+        "399293008": ("Left Ventricle Epicardial Diastolic Area, psax pap view", [12200, 12240]),
     },
     "LeftVentricleInferiorSegment": {
         "284357009": ("Left ventricle inferior segment", [3232]),
     },
     "LeftVentricleInflow": {
-        "70238003": (
-            "Left ventricle inflow",
-            [4, 3010, 3011, 3609, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "70238003": ("Left ventricle inflow", [4, 3010, 3011, 3609, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "LeftVentricleLateralSegment": {
         "284358004": ("Left ventricle lateral segment", [3232]),
@@ -17481,64 +15278,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "49848007": ("Left Ventricle Myocardium", [12305]),
     },
     "LeftVentricleOutflowTract": {
-        "13418002": (
-            "Left ventricle outflow tract",
-            [
-                4,
-                3010,
-                3011,
-                3609,
-                3610,
-                3630,
-                3701,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12223,
-                12236,
-                12243,
-                12280,
-                12305,
-            ],
-        ),
+        "13418002": ("Left ventricle outflow tract", [4, 3010, 3011, 3609, 3610, 3630, 3701, 4042, 7151, 7192, 8134, 9514, 12223, 12236, 12243, 12280, 12305]),
     },
     "LeftVentriclePressureWaveform": {
         "128438003": ("Left ventricle pressure waveform", [3003]),
     },
     "LeftVentriclePressureWaveformFunction": {
-        "128438003": (
-            "Left ventricle pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128438003": ("Left ventricle pressure waveform, function (observable entity)", []),
     },
     "LeftVentricleSemiMajorAxisDiastolicDimension": {
-        "399063007": (
-            "Left Ventricle Semi-major Axis Diastolic Dimension",
-            [12200, 12201],
-        ),
+        "399063007": ("Left Ventricle Semi-major Axis Diastolic Dimension", [12200, 12201]),
     },
     "LeftVentricleSeptalSegment": {
         "284356000": ("Left ventricle septal segment", [3232]),
     },
     "LeftVentricleToPulmonaryArteryConduitAnastomosis": {
-        "443696003": (
-            "Left Ventricle to Pulmonary Artery Conduit Anastomosis",
-            [12288],
-        ),
+        "443696003": ("Left Ventricle to Pulmonary Artery Conduit Anastomosis", [12288]),
     },
     "LeftVentricleTruncatedSemiMajorAxisDiastolicDimension": {
-        "399309003": (
-            "Left Ventricle Truncated Semi-major Axis Diastolic Dimension",
-            [12200, 12201],
-        ),
+        "399309003": ("Left Ventricle Truncated Semi-major Axis Diastolic Dimension", [12200, 12201]),
     },
     "LeftVentricularAreaFractionalChange": {
-        "399287000": (
-            "Left ventricular area fractional change (observable entity)",
-            [],
-        ),
+        "399287000": ("Left ventricular area fractional change (observable entity)", []),
     },
     "LeftVentricularAssistDevice": {
         "360066001": ("Left Ventricular Assist Device", [3553, 3777, 7151, 7157, 7193]),
@@ -17556,10 +15317,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "276781007": ("Left Ventricular End-Diastolic Pressure", [3641]),
     },
     "LeftVentricularEpicardialDiastolicAreaPsaxPapView": {
-        "399293008": (
-            "Left ventricular epicardial diastolic area, psax pap view (observable entity)",
-            [],
-        ),
+        "399293008": ("Left ventricular epicardial diastolic area, psax pap view (observable entity)", []),
     },
     "LeftVentricularFractionalAreaChange": {
         "399287000": ("Left Ventricular Fractional Area Change", [12200, 12240]),
@@ -17568,31 +15326,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "250907009": ("Left ventricular function (observable entity)", []),
     },
     "LeftVentricularIndexOfMyocardialPerformance": {
-        "399266005": (
-            "Left Ventricular Index of Myocardial Performance",
-            [12200, 12203],
-        ),
+        "399266005": ("Left Ventricular Index of Myocardial Performance", [12200, 12203]),
     },
     "LeftVentricularIndexOfMyocardiumPerformance": {
-        "399266005": (
-            "Left ventricular index of myocardium performance (observable entity)",
-            [],
-        ),
+        "399266005": ("Left ventricular index of myocardium performance (observable entity)", []),
     },
     "LeftVentricularIsovolumicContractionTime": {
         "399051002": ("Left Ventricular Isovolumic Contraction Time", [12200, 12203]),
     },
     "LeftVentricularPeakDiastolicTissueVelocityDuringAtrialSystole": {
-        "399007006": (
-            "Left ventricular peak diastolic tissue velocity during atrial systole (observable entity)",
-            [],
-        ),
+        "399007006": ("Left ventricular peak diastolic tissue velocity during atrial systole (observable entity)", []),
     },
     "LeftVentricularPeakEarlyDiastolicTissueVelocity": {
-        "399133000": (
-            "Left Ventricular Peak Early Diastolic Tissue Velocity",
-            [12200, 12203],
-        ),
+        "399133000": ("Left Ventricular Peak Early Diastolic Tissue Velocity", [12200, 12203]),
     },
     "LeftVentricularPeakSystolicTissueVelocity": {
         "399167005": ("Left Ventricular Peak Systolic Tissue Velocity", [12200, 12203]),
@@ -17601,10 +15347,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "408720008": ("Left ventricular posterobasal segment (body structure)", []),
     },
     "LeftVentricularSemiMajorAxisDiastolicDimension": {
-        "399063007": (
-            "Left ventricular semi-major axis diastolic dimension (observable entity)",
-            [],
-        ),
+        "399063007": ("Left ventricular semi-major axis diastolic dimension (observable entity)", []),
     },
     "LeftVentricularSize": {
         "250924003": ("Left ventricular size (observable entity)", []),
@@ -17619,10 +15362,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "276780008": ("Left Ventricular Systolic Pressure", [3641]),
     },
     "LeftVentricularTruncatedSemiMajorAxisDiastolicDimension": {
-        "399309003": (
-            "Left ventricular truncated semi-major axis diastolic dimension (observable entity)",
-            [],
-        ),
+        "399309003": ("Left ventricular truncated semi-major axis diastolic dimension (observable entity)", []),
     },
     "LeftVentricularWallMotion": {
         "250909007": ("Left ventricular wall motion (observable entity)", []),
@@ -17655,10 +15395,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "44598004": ("Leiomyoma", [6030, 6031]),
     },
     "LeiomyomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "44598004": (
-            "Leiomyoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "44598004": ("Leiomyoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "Leiomyosarcoma": {
         "51549004": ("Leiomyosarcoma", [6030, 6033]),
@@ -17673,39 +15410,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "255802001": ("Leishman stain", [8112]),
     },
     "Length": {
-        "410668003": (
-            "Length",
-            [
-                218,
-                3423,
-                6165,
-                7469,
-                7470,
-                12218,
-                12250,
-                12251,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12277,
-                12304,
-            ],
-        ),
+        "410668003": ("Length", [218, 3423, 6165, 7469, 7470, 12218, 12250, 12251, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12277, 12304]),
     },
     "LengthOfSegment": {
         "414599003": ("Length of Segment", [12119, 12122]),
@@ -17744,10 +15449,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129738007": ("Lesion with circumscribed margin (finding)", []),
     },
     "LesionWithEqualIsodenseRadiographicDensity": {
-        "129745007": (
-            "Lesion with equal (isodense) radiographic density (finding)",
-            [],
-        ),
+        "129745007": ("Lesion with equal (isodense) radiographic density (finding)", []),
     },
     "LesionWithFatContainingRadiolucentDensity": {
         "129747004": ("Lesion with fat containing (radiolucent) density (finding)", []),
@@ -17759,10 +15461,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129741003": ("Lesion with indistinct margin (finding)", []),
     },
     "LesionWithLowRadiographicDensityNotContainingFat": {
-        "129746008": (
-            "Lesion with low radiographic density (not containing fat) (finding)",
-            [],
-        ),
+        "129746008": ("Lesion with low radiographic density (not containing fat) (finding)", []),
     },
     "LesionWithMicrolobulatedMargin": {
         "129739004": ("Lesion with microlobulated margin (finding)", []),
@@ -17783,10 +15482,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133486002": ("Lesser Caucasus cattle breed", [7480]),
     },
     "LesserSaphenousVein": {
-        "26805005": (
-            "Lesser Saphenous Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "26805005": ("Lesser Saphenous Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "LesserTrochanter": {
         "55499008": ("Lesser trochanter", [1000, 1001, 1005, 8134]),
@@ -17798,10 +15494,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "93143009": ("Leukemia, disease (disorder)", []),
     },
     "LevatoresCostarumMuscles": {
-        "73930003": (
-            "Levatores costarum muscles",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "73930003": ("Levatores costarum muscles", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "LevelOfC2C3IntervertebralDisc": {
         "243902007": ("Level of C2/C3 intervertebral disc", [1000, 1001, 1003]),
@@ -17885,10 +15578,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "36438004": ("Lhasa apso", [7480]),
     },
     "LiangGuangSmallSpottedGuangdongSmallEarPigBreed": {
-        "132288006": (
-            "Liang Guang Small Spotted, Guangdong Small Ear pig breed",
-            [7480],
-        ),
+        "132288006": ("Liang Guang Small Spotted, Guangdong Small Ear pig breed", [7480]),
     },
     "LiangGuangSmallSpottedLuchuanPigBreed": {
         "132280004": ("Liang Guang Small Spotted, Luchuan pig breed", [7480]),
@@ -17922,19 +15612,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "52082005": ("Ligament", [7151, 7166, 7191]),
     },
     "LigamentumArteriosum": {
-        "2160002": (
-            "Ligamentum arteriosum",
-            [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "2160002": ("Ligamentum arteriosum", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "LightEmittingDiode": {
         "445683001": ("Light emitting diode", [8125]),
     },
     "LightEmittingDiodeLampMicroscopeIlluminator": {
-        "445683001": (
-            "Light emitting diode lamp microscope illuminator (physical object)",
-            [],
-        ),
+        "445683001": ("Light emitting diode lamp microscope illuminator (physical object)", []),
     },
     "LightGreenSFStain": {
         "89139001": ("light green SF stain", [8112]),
@@ -18030,10 +15714,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "387056004": ("Linezolid antibiotic", [621, 622]),
     },
     "LingualArtery": {
-        "113264009": (
-            "Lingual artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "113264009": ("Lingual artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "LingualTonsil": {
         "2048000": ("lingual tonsil", [7601, 8134]),
@@ -18072,10 +15753,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "46720004": ("Lipoma", [6030, 6031, 6201]),
     },
     "LipomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "46720004": (
-            "Lipoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "46720004": ("Lipoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "Lipopolysaccharide": {
         "3325005": ("Lipopolysaccharide", [638, 643]),
@@ -18084,10 +15762,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "49430005": ("Liposarcoma", [6030, 6033]),
     },
     "LiposarcomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "49430005": (
-            "Liposarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "49430005": ("Liposarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "LiquidBasedCytologicMaterial": {
         "430346005": ("Liquid based cytologic material", [8103]),
@@ -18123,32 +15798,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132276009": ("Lithuanian White pig breed", [7480]),
     },
     "Liver": {
-        "10200004": (
-            "Liver",
-            [
-                4,
-                644,
-                1000,
-                1001,
-                1005,
-                4030,
-                6202,
-                6204,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "10200004": ("Liver", [4, 644, 1000, 1001, 1005, 4030, 6202, 6204, 7151, 7154, 7192, 8134, 9514, 10044, 10060]),
     },
     "LiverAndBiliaryStructure": {
-        "303270005": (
-            "Liver and biliary structure",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "303270005": ("Liver and biliary structure", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "LiverAndOrBiliaryStructure": {
         "303270005": ("Liver and/or biliary structure (body structure)", []),
@@ -18322,10 +15975,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373294004": ("Low Molecular Weight Heparin", [621, 622]),
     },
     "LowPowerScanningLensOfOpticalMicroscope": {
-        "445601002": (
-            "Low power scanning lens of optical microscope (physical object)",
-            [],
-        ),
+        "445601002": ("Low power scanning lens of optical microscope (physical object)", []),
     },
     "LowRightAtrium": {
         "128594000": ("Low right atrium", [3011, 8134]),
@@ -18355,10 +16005,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "62736007": ("Lower eyelid structure (body structure)", []),
     },
     "LowerInnerQuadrantOfBreast": {
-        "19100000": (
-            "Lower inner quadrant of breast",
-            [4, 6020, 6021, 7151, 7192, 8134, 9514],
-        ),
+        "19100000": ("Lower inner quadrant of breast", [4, 6020, 6021, 7151, 7192, 8134, 9514]),
     },
     "LowerJugularLymphNode": {
         "245323006": ("lower jugular lymph node", [7600, 8134]),
@@ -18391,16 +16038,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "90572001": ("Lower lobe of lung", [6124, 6126, 7151, 7155, 7192, 8134, 9514]),
     },
     "LowerOuterQuadrantOfBreast": {
-        "33564002": (
-            "Lower outer quadrant of breast",
-            [4, 6020, 6021, 7151, 7192, 8134, 9514],
-        ),
+        "33564002": ("Lower outer quadrant of breast", [4, 6020, 6021, 7151, 7192, 8134, 9514]),
     },
     "LowerParatrachealIncludingAzygousLymphNode": {
-        "127932007": (
-            "lower paratracheal (including azygous) lymph node",
-            [7600, 8134],
-        ),
+        "127932007": ("lower paratracheal (including azygous) lymph node", [7600, 8134]),
     },
     "LowerZoneOfLung": {
         "281394001": ("Lower zone of lung", [6124, 6126]),
@@ -18436,25 +16077,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "21553004": ("Luing cow breed", [7480]),
     },
     "LumbarArtery": {
-        "34635009": (
-            "Lumbar artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12111,
-                12125,
-            ],
-        ),
+        "34635009": ("Lumbar artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "LumbarLymphNode": {
         "8334002": ("lumbar lymph node", [7600, 8134]),
@@ -18466,20 +16089,14 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "52612000": ("Lumbar region back structure (body structure)", []),
     },
     "LumbarSpine": {
-        "122496007": (
-            "Lumbar spine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514],
-        ),
+        "122496007": ("Lumbar spine", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "LumbarSpineStructure": {
         "122496007": ("Lumbar spine structure (body structure)", []),
     },
     "LumboSacralSpine": {
         "243898001": ("Lumbo-Sacral Spine", [7304, 8134]),
-        "297173004": (
-            "Lumbo-sacral spine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514],
-        ),
+        "297173004": ("Lumbo-sacral spine", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514]),
     },
     "LumbosacralRegionOfSpineStructure": {
         "297173004": ("Lumbosacral region of spine structure (body structure)", []),
@@ -18522,36 +16139,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131932009": ("Lundy Pony horse breed", [7480]),
     },
     "Lung": {
-        "39607008": (
-            "Lung",
-            [
-                4,
-                645,
-                1000,
-                1001,
-                1004,
-                6100,
-                6129,
-                6202,
-                6204,
-                7151,
-                7155,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "39607008": ("Lung", [4, 645, 1000, 1001, 1004, 6100, 6129, 6202, 6204, 7151, 7155, 7192, 8134, 9514, 10044, 10060]),
     },
     "LungAndTracheobronchialLymphNodes": {
         "110550009": ("lung and tracheobronchial lymph nodes", [7600, 8134]),
     },
     "LungAndTracheobronchialLymphNodesCombinedSite": {
-        "110550009": (
-            "Lung and tracheobronchial lymph nodes (combined site) (body structure)",
-            [],
-        ),
+        "110550009": ("Lung and tracheobronchial lymph nodes (combined site) (body structure)", []),
     },
     "LungCancer": {
         "93880001": ("Lung cancer", [638, 639]),
@@ -18584,29 +16178,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "38000004": ("Lymph", [645, 8134]),
     },
     "LymphNode": {
-        "59441001": (
-            "Lymph Node",
-            [
-                645,
-                6030,
-                6031,
-                6054,
-                6064,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7166,
-                7191,
-                7192,
-                7600,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "59441001": ("Lymph Node", [645, 6030, 6031, 6054, 6064, 6102, 6109, 6113, 6149, 7151, 7166, 7191, 7192, 7600, 8134, 9514, 10044, 10060]),
     },
     "LymphNodeOfAorticArch": {
         "127937001": ("lymph node of aortic arch", [7600, 8134]),
@@ -18705,10 +16277,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399155008": ("M-mode ultrasound (qualifier value)", []),
     },
     "MOSFETRadiationTherapyDosimetrySystemDosimeter": {
-        "701933006": (
-            "MOSFET radiation therapy dosimetry system dosimeter",
-            [7026, 7027, 7151, 7193],
-        ),
+        "701933006": ("MOSFET radiation therapy dosimetry system dosimeter", [7026, 7027, 7151, 7193]),
     },
     "MRIOfBreast": {
         "241615005": ("MRI of breast", [6028, 6029, 6050, 6083]),
@@ -18783,10 +16352,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "310127009": ("Magnetic Resonance Imaging Service", [7030]),
     },
     "MagneticResonanceImagingStressStudyOfCardiacFunction": {
-        "431609005": (
-            "Magnetic resonance imaging stress study of cardiac function (procedure)",
-            [],
-        ),
+        "431609005": ("Magnetic resonance imaging stress study of cardiac function (procedure)", []),
     },
     "Magnification": {
         "399163009": ("Magnification", [4015]),
@@ -18822,37 +16388,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "255603008": ("Major", [251]),
     },
     "MajorAxis": {
-        "131187009": (
-            "Major Axis",
-            [
-                218,
-                6165,
-                7469,
-                7470,
-                12218,
-                12250,
-                12251,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12277,
-            ],
-        ),
+        "131187009": ("Major Axis", [218, 6165, 7469, 7470, 12218, 12250, 12251, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12277]),
     },
     "MakaweliCattleBreed": {
         "133503005": ("Makaweli cattle breed", [7480]),
@@ -18879,10 +16415,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "279478000": ("Male external urethral orifice", [4029, 8134]),
     },
     "MaleExternalUrethralSphincter": {
-        "717027004": (
-            "Male external urethral sphincter",
-            [6300, 6301, 6302, 6303, 6304],
-        ),
+        "717027004": ("Male external urethral sphincter", [6300, 6301, 6302, 6303, 6304]),
     },
     "MaleFirstCousin": {
         "11993008": ("Male first cousin", [7450, 7451]),
@@ -18903,16 +16436,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "34360000": ("Malignant fibrous histiocytoma", [6030, 6033]),
     },
     "MalignantLymphomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "21964009": (
-            "Malignant lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "21964009": ("Malignant lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "MalignantMelanomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "2092003": (
-            "Malignant melanoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "2092003": ("Malignant melanoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "MalignantMesothelioma": {
         "62064005": ("Malignant mesothelioma", [638, 639]),
@@ -18975,10 +16502,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129715009": ("Mammographic breast composition finding (finding)", []),
     },
     "MammographicBreastCompositionShowingScatteredFibroglandularDensities": {
-        "129717001": (
-            "Mammographic breast composition showing scattered fibroglandular densities (finding)",
-            [],
-        ),
+        "129717001": ("Mammographic breast composition showing scattered fibroglandular densities (finding)", []),
     },
     "MammographicBreastDensity": {
         "129793001": ("Mammographic breast density (finding)", []),
@@ -18996,10 +16520,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129812004": ("Mammographic difference in margin (finding)", []),
     },
     "MammographicDifferenceInNumberOfCalcifications": {
-        "129810007": (
-            "Mammographic difference in number of calcifications (finding)",
-            [],
-        ),
+        "129810007": ("Mammographic difference in number of calcifications (finding)", []),
     },
     "MammographicDifferenceInOpacity": {
         "129807000": ("Mammographic difference in opacity (finding)", []),
@@ -19029,37 +16550,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "71651007": ("Mammography", [6058, 6060]),
     },
     "MammographyAssessmentCategory0NeedAdditionalImagingEvaluation": {
-        "397138000": (
-            "Mammography assessment (Category 0) - Need additional imaging evaluation (finding)",
-            [],
-        ),
+        "397138000": ("Mammography assessment (Category 0) - Need additional imaging evaluation (finding)", []),
     },
     "MammographyAssessmentCategory1Negative": {
         "397140005": ("Mammography assessment (Category 1) - Negative (finding)", []),
     },
     "MammographyAssessmentCategory2BenignFinding": {
-        "397141009": (
-            "Mammography assessment (Category 2) - Benign finding (finding)",
-            [],
-        ),
+        "397141009": ("Mammography assessment (Category 2) - Benign finding (finding)", []),
     },
     "MammographyAssessmentCategory3ProbablyBenignFindingShortIntervalFollowUp": {
-        "397143007": (
-            "Mammography assessment (Category 3) - Probably benign finding, short interval follow-up (finding)",
-            [],
-        ),
+        "397143007": ("Mammography assessment (Category 3) - Probably benign finding, short interval follow-up (finding)", []),
     },
     "MammographyAssessmentCategory4SuspiciousAbnormalityBiopsyShouldBeConsidered": {
-        "397144001": (
-            "Mammography assessment (Category 4) - Suspicious abnormality, biopsy should be considered (finding)",
-            [],
-        ),
+        "397144001": ("Mammography assessment (Category 4) - Suspicious abnormality, biopsy should be considered (finding)", []),
     },
     "MammographyAssessmentCategory5HighlySuggestiveOfMalignancy": {
-        "397145000": (
-            "Mammography assessment (Category 5) - Highly suggestive of malignancy (finding)",
-            [],
-        ),
+        "397145000": ("Mammography assessment (Category 5) - Highly suggestive of malignancy (finding)", []),
     },
     "MammographyBreastDensity": {
         "129793001": ("Mammography breast density", [6014, 6015, 6016, 6054, 6056]),
@@ -19089,28 +16595,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132165003": ("Mandi pig breed", [7480]),
     },
     "Mandible": {
-        "91609006": (
-            "Mandible",
-            [
-                4,
-                1000,
-                1001,
-                1002,
-                4009,
-                4016,
-                4028,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "91609006": ("Mandible", [4, 1000, 1001, 1002, 4009, 4016, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "MandibularDentalArch": {
         "88176008": ("Mandibular dental arch", [7482, 7483, 8134]),
@@ -19248,10 +16733,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "112233002": ("Marginal", [2]),
     },
     "MarginalCoronaryArtery": {
-        "22765000": (
-            "Marginal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "22765000": ("Marginal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "MarianasCattleBreed": {
         "131496000": ("Marianas cattle breed", [7480]),
@@ -19303,10 +16785,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "4147007": ("Mass", [6102, 6104, 7151, 7159, 7194]),
     },
     "MassAMeasureOfQuantityOfMatterProperty": {
-        "118538004": (
-            "Mass, a measure of quantity of matter (property) (qualifier value)",
-            [],
-        ),
+        "118538004": ("Mass, a measure of quantity of matter (property) (qualifier value)", []),
     },
     "MassifCentralGoatBreed": {
         "131675001": ("Massif Central goat breed", [7480]),
@@ -19321,10 +16800,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "48524002": ("Mastiff dog", [7480]),
     },
     "MastoidBone": {
-        "59066005": (
-            "Mastoid bone",
-            [4, 1000, 1001, 1002, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "59066005": ("Mastoid bone", [4, 1000, 1001, 1002, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "MastoidCellsAndAntra": {
         "91716001": ("Mastoid cells and antra", [1000, 1001, 1002, 8134]),
@@ -19351,10 +16827,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131498004": ("Mauritius Créole cattle breed (organism)", []),
     },
     "Maxilla": {
-        "70925003": (
-            "Maxilla",
-            [4, 4009, 4016, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "70925003": ("Maxilla", [4, 4009, 4016, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "MaxillaryDentalArch": {
         "39481002": ("Maxillary dental arch", [7482, 7483, 8134]),
@@ -19426,10 +16899,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "314452008": ("Maximum diastolic blood pressure (observable entity)", []),
     },
     "MaximumHeartRateAchievedDuringCourseOfProcedure": {
-        "428630002": (
-            "Maximum heart rate achieved during course of procedure (observable entity)",
-            [],
-        ),
+        "428630002": ("Maximum heart rate achieved during course of procedure (observable entity)", []),
     },
     "MaximumSystolicBloodPressure": {
         "314439003": ("Maximum systolic blood pressure", [3337, 3611]),
@@ -19477,10 +16947,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "370129005": ("Measurement Method", [9000]),
     },
     "MeasurementOfBloodPressureUsingCuffMethod": {
-        "371911009": (
-            "Measurement of blood pressure using cuff method (procedure)",
-            [],
-        ),
+        "371911009": ("Measurement of blood pressure using cuff method (procedure)", []),
     },
     "MeasurementOfCardiacOutput": {
         "117610000": ("Measurement of cardiac output (procedure)", []),
@@ -19559,10 +17026,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373099004": ("Median", [3627, 3676, 7464, 10072]),
     },
     "MedianCubitalVein": {
-        "49852007": (
-            "Median Cubital vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "49852007": ("Median Cubital vein", [3827, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "MedianNumericEstimationTechnique": {
         "373099004": ("Median - numeric estimation technique (qualifier value)", []),
@@ -19586,10 +17050,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "72410000": ("Mediastinal structure (body structure)", []),
     },
     "Mediastinum": {
-        "72410000": (
-            "Mediastinum",
-            [4, 4009, 4030, 4031, 4040, 4042, 6100, 6129, 7151, 7155, 7192, 8134, 9514],
-        ),
+        "72410000": ("Mediastinum", [4, 4009, 4030, 4031, 4040, 4042, 6100, 6129, 7151, 7155, 7192, 8134, 9514]),
     },
     "MedicalAir": {
         "417696007": ("Medical air", [623, 629]),
@@ -19622,10 +17083,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371899006": ("Medication administered after lab visit (situation)", []),
     },
     "MedicationAdministeredAfterPercutaneousCoronaryIntervention": {
-        "371902009": (
-            "Medication administered after percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371902009": ("Medication administered after percutaneous coronary intervention (situation)", []),
     },
     "MedicationAdministeredBeforeLabVisit": {
         "371898003": ("Medication administered before lab visit (situation)", []),
@@ -19634,22 +17092,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371905006": ("Medication administered during lab visit (situation)", []),
     },
     "MedicationAdministeredDuringPercutaneousCoronaryIntervention": {
-        "371903004": (
-            "Medication administered during percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371903004": ("Medication administered during percutaneous coronary intervention (situation)", []),
     },
     "MedicationAdministeredLessThan72HoursBeforePercutaneousCoronaryIntervention": {
-        "371901002": (
-            "Medication administered less than 72 hours before percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371901002": ("Medication administered less than 72 hours before percutaneous coronary intervention (situation)", []),
     },
     "MedicationAdministeredPriorToPercutaneousCoronaryIntervention": {
-        "371904005": (
-            "Medication administered prior to percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371904005": ("Medication administered prior to percutaneous coronary intervention (situation)", []),
     },
     "MedicationGiven": {
         "182833002": ("Medication given (situation)", []),
@@ -19666,10 +17115,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399368009": ("medio-lateral oblique", [501, 4010, 4014]),
     },
     "MedioLateralObliqueEmissiveProjection": {
-        "399268006": (
-            "Medio-lateral oblique emissive projection (qualifier value)",
-            [],
-        ),
+        "399268006": ("Medio-lateral oblique emissive projection (qualifier value)", []),
     },
     "MedioLateralObliqueProjection": {
         "399368009": ("Medio-lateral oblique projection (qualifier value)", []),
@@ -19787,19 +17233,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373780001": ("Mescaline", [6089]),
     },
     "MesentericArtery": {
-        "86570000": (
-            "Mesenteric artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "86570000": ("Mesenteric artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "MesentericArteryLymphNode": {
         "299993000": ("mesenteric artery lymph node", [7600, 8134]),
     },
     "MesentericVein": {
-        "128583004": (
-            "Mesenteric vein",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128583004": ("Mesenteric vein", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "Mesocardia": {
         "16567006": ("Mesocardia", [12248, 12249]),
@@ -19835,10 +17275,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "395789007": ("Metaiodobenzylguanidine[131I] (substance)", []),
     },
     "MetalOxideSemiconductorFieldEffectTransistorRadiationTherapyDosimetrySystemRadiationTherapyDosimetrySystemDosimeter": {
-        "701933006": (
-            "Metal-oxide semiconductor field-effect transistor radiation therapy dosimetry system radiation therapy dosimetry system dosimeter (physical object)",
-            [],
-        ),
+        "701933006": ("Metal-oxide semiconductor field-effect transistor radiation therapy dosimetry system radiation therapy dosimetry system dosimeter (physical object)", []),
     },
     "MetalStent": {
         "257363003": ("metal stent", [3814]),
@@ -20010,19 +17447,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "433455005": ("Microwave heating of tissue specimen (procedure)", []),
     },
     "MidCircumflexCoronaryArtery": {
-        "91753007": (
-            "Mid Circumflex Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292],
-        ),
+        "91753007": ("Mid Circumflex Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292]),
     },
     "MidFrequency": {
         "255218000": ("Mid-frequency", [6091]),
     },
     "MidLeftAnteriorDescendingCoronaryArtery": {
-        "91748002": (
-            "Mid Left Anterior Descending Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91748002": ("Mid Left Anterior Descending Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "MidLongitudinal": {
         "103342007": ("Mid-longitudinal", [5, 211, 212, 3019]),
@@ -20031,10 +17462,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128593006": ("Mid right atrium", [3011, 8134]),
     },
     "MidRightCoronaryArtery": {
-        "450960006": (
-            "Mid Right Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "450960006": ("Mid Right Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "Midazolam": {
         "373476007": ("Midazolam", [65, 66, 623, 625]),
@@ -20058,28 +17486,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "73580002": ("Middle cardiac vein", [3011, 3827, 3839, 7151, 7192, 8134, 9514]),
     },
     "MiddleCerebellarPeduncle": {
-        "33723005": (
-            "Middle cerebellar peduncle",
-            [7151, 7153, 7192, 7701, 7710, 8134, 9514],
-        ),
+        "33723005": ("Middle cerebellar peduncle", [7151, 7153, 7192, 7701, 7710, 8134, 9514]),
     },
     "MiddleCerebralArtery": {
-        "17232002": (
-            "Middle Cerebral Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105, 12141],
-        ),
+        "17232002": ("Middle Cerebral Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12105, 12141]),
     },
     "MiddleCerebralArteryM1Segment": {
-        "414722000": (
-            "Middle Cerebral Artery M1 Segment",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "414722000": ("Middle Cerebral Artery M1 Segment", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "MiddleCerebralArteryM2Segment": {
-        "414723005": (
-            "Middle Cerebral Artery M2 Segment",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "414723005": ("Middle Cerebral Artery M2 Segment", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "MiddleDeepCervicalLymphNode": {
         "285427009": ("middle deep cervical lymph node", [7600, 8134]),
@@ -20091,19 +17507,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "25342003": ("Middle ear structure (body structure)", []),
     },
     "MiddleHepaticVein": {
-        "273099000": (
-            "Middle Hepatic Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "273099000": ("Middle Hepatic Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "MiddleJugularLymphNode": {
         "245322001": ("middle jugular lymph node", [7600, 8134]),
     },
     "MiddleLobeOfRightLung": {
-        "72481006": (
-            "Middle lobe of right lung",
-            [6124, 6126, 7151, 7155, 7192, 8134, 9514],
-        ),
+        "72481006": ("Middle lobe of right lung", [6124, 6126, 7151, 7155, 7192, 8134, 9514]),
     },
     "MiddleWhitePig": {
         "82909008": ("Middle white pig (organism)", []),
@@ -20130,16 +17540,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371868005": ("Mild hypokinesis of cardiac wall (finding)", []),
     },
     "MildIntimalCoronaryIrregularitiesNoSignificantStenoses": {
-        "371861004": (
-            "Mild intimal coronary irregularities, no significant stenoses",
-            [3728],
-        ),
+        "371861004": ("Mild intimal coronary irregularities, no significant stenoses", [3728]),
     },
     "MildIntimalCoronaryIrregularitiesWithoutSignificantStenoses": {
-        "371861004": (
-            "Mild intimal coronary irregularities without significant stenoses (finding)",
-            [],
-        ),
+        "371861004": ("Mild intimal coronary irregularities without significant stenoses (finding)", []),
     },
     "MildRiskOfContextualQualifier": {
         "75976002": ("Mild risk of (contextual qualifier) (qualifier value)", []),
@@ -20148,10 +17552,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371923003": ("Mild to Moderate", [3716]),
     },
     "MildToModerateRiskOfContextualQualifier": {
-        "429551001": (
-            "Mild to moderate risk of (contextual qualifier) (qualifier value)",
-            [],
-        ),
+        "429551001": ("Mild to moderate risk of (contextual qualifier) (qualifier value)", []),
     },
     "MildlyEnlargedCardiacChamber": {
         "373126002": ("Mildly enlarged cardiac chamber", [3122, 3705]),
@@ -20244,38 +17645,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "255606000": ("Minor", [251]),
     },
     "MinorAxis": {
-        "131188004": (
-            "Minor Axis",
-            [
-                218,
-                6165,
-                7469,
-                7470,
-                12218,
-                12250,
-                12251,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12277,
-                12304,
-            ],
-        ),
+        "131188004": ("Minor Axis", [218, 6165, 7469, 7470, 12218, 12250, 12251, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12277, 12304]),
     },
     "MinorcanCattleBreed": {
         "133517001": ("Minorcan cattle breed", [7480]),
@@ -20323,26 +17693,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "79619009": ("Mitral stenosis", [3700, 3728, 12248, 12249]),
     },
     "MitralValve": {
-        "91134007": (
-            "Mitral Valve",
-            [
-                3610,
-                3630,
-                3701,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7192,
-                8134,
-                9514,
-                12223,
-                12236,
-                12285,
-                12305,
-            ],
-        ),
+        "91134007": ("Mitral Valve", [3610, 3630, 3701, 6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514, 12223, 12236, 12285, 12305]),
     },
     "MitralValveATDTRatio": {
         "399062002": ("Mitral Valve AT/DT Ratio", [12207]),
@@ -20372,10 +17723,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "409712001": ("Mitral valve prolapse", [3700, 3728, 12248, 12249]),
     },
     "MitralValvePullbackPressureFunction": {
-        "128450009": (
-            "Mitral valve pullback pressure, function (observable entity)",
-            [],
-        ),
+        "128450009": ("Mitral valve pullback pressure, function (observable entity)", []),
     },
     "MitralValvePullbackPressureWaveform": {
         "128450009": ("Mitral valve pullback pressure waveform", [3003]),
@@ -20480,10 +17828,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "429557002": ("Moderate to high risk", [3118]),
     },
     "ModerateToHighRiskOfContextualQualifier": {
-        "429557002": (
-            "Moderate to high risk of (contextual qualifier) (qualifier value)",
-            [],
-        ),
+        "429557002": ("Moderate to high risk of (contextual qualifier) (qualifier value)", []),
     },
     "ModerateToSevere": {
         "371924009": ("Moderate to Severe", [3716]),
@@ -20552,10 +17897,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "423249007": ("Monoclonal antibody I^124^", [4021]),
     },
     "MonoclonalGammopathyOfUndeterminedSignificance": {
-        "35601003": (
-            "Monoclonal gammopathy of undetermined significance (morphologic abnormality)",
-            [],
-        ),
+        "35601003": ("Monoclonal gammopathy of undetermined significance (morphologic abnormality)", []),
     },
     "MontafonCattleBreed": {
         "133521008": ("Montafon cattle breed", [7480]),
@@ -20630,10 +17972,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373529000": ("Morphine", [6089]),
     },
     "MorphologicallyAbnormalStructure": {
-        "49755003": (
-            "Morphologically Abnormal Structure",
-            [1000, 3487, 4266, 7150, 9502],
-        ),
+        "49755003": ("Morphologically Abnormal Structure", [1000, 3487, 4266, 7150, 9502]),
     },
     "MorphologyWithinNormalLimits": {
         "125112009": ("Morphology within normal limits (finding)", []),
@@ -20747,10 +18086,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371922008": ("Multiple Irregularities", [3715]),
     },
     "MultipleMyelomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "55921005": (
-            "Multiple myeloma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "55921005": ("Multiple myeloma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "MultiplePregnancy": {
         "16356006": ("Multiple pregnancy", [6087, 6088]),
@@ -20825,19 +18161,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "22688005": ("Muscle of head", [4028, 7151, 7192, 8134, 9514]),
     },
     "MuscleOfLowerLimb": {
-        "102292000": (
-            "Muscle of lower limb",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "102292000": ("Muscle of lower limb", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "MuscleOfNeck": {
         "81727001": ("Muscle of neck", [4028, 7151, 7192, 8134, 9514]),
     },
     "MuscleOfUpperLimb": {
-        "30608006": (
-            "Muscle of upper limb",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "30608006": ("Muscle of upper limb", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "Muscular": {
         "263816006": ("Muscular", [6100]),
@@ -20891,10 +18221,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "414795007": ("Myocardial ischemia", [3121]),
     },
     "MyocardialIschemiaManifestOnStressTestStatusPostMyocardialInfarction": {
-        "371824008": (
-            "Myocardial ischemia manifest on stress test status post myocardial infarction (finding)",
-            [],
-        ),
+        "371824008": ("Myocardial ischemia manifest on stress test status post myocardial infarction (finding)", []),
     },
     "MyocardialPerfusion": {
         "251053005": ("Myocardial perfusion (observable entity)", []),
@@ -20903,10 +18230,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "301121007": ("Myocardial perfusion normal", [3120]),
     },
     "MyocardialPerfusionStressImagingUsingThallium201": {
-        "431511008": (
-            "Myocardial perfusion stress imaging using Thallium 201 (procedure)",
-            [],
-        ),
+        "431511008": ("Myocardial perfusion stress imaging using Thallium 201 (procedure)", []),
     },
     "Myocarditis": {
         "50920009": ("Myocarditis", [3700]),
@@ -20939,10 +18263,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132777001": ("Mytilene horse breed", [7480]),
     },
     "N0NoRegionalLymphNodeMetastasisHistologically": {
-        "373151001": (
-            "N0: No regional lymph node metastasis histologically...",
-            [6161],
-        ),
+        "373151001": ("N0: No regional lymph node metastasis histologically...", [6161]),
     },
     "N1MetastasisIn1To3AxillaryLymphNodes": {
         "373156006": ("N1: Metastasis in 1 to 3 axillary lymph nodes...", [6161]),
@@ -20951,37 +18272,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373162001": ("N2: Metastasis in 4 to 9 axillary lymph nodes...", [6161]),
     },
     "N2aMetastasisIn4To9AxillaryLymphNodes2Point0mm": {
-        "373163006": (
-            "N2a: Metastasis in 4 to 9 axillary lymph nodes (...2.0 mm)...",
-            [6161],
-        ),
+        "373163006": ("N2a: Metastasis in 4 to 9 axillary lymph nodes (...2.0 mm)...", [6161]),
     },
     "N2bMetastasisInClinicallyApparentInternalNodes": {
-        "373164000": (
-            "N2b: Metastasis in clinically apparent internal... nodes...",
-            [6161],
-        ),
+        "373164000": ("N2b: Metastasis in clinically apparent internal... nodes...", [6161]),
     },
     "N3MetastasisToIpsilateralInternalMammaryLymphNodes": {
-        "369991007": (
-            "N3: Metastasis to ipsilateral internal mammary lymph node(s)",
-            [6161],
-        ),
+        "369991007": ("N3: Metastasis to ipsilateral internal mammary lymph node(s)", [6161]),
     },
     "N3aMetastasisIn10OrMoreAxillaryLymphNodes": {
         "373165004": ("N3a: Metastasis in 10 or more axillary lymph nodes...", [6161]),
     },
     "N3bMetastasisInClinicallyApparentIpsilateralInternal": {
-        "373167007": (
-            "N3b: Metastasis in clinically apparent ipsilateral internal...",
-            [6161],
-        ),
+        "373167007": ("N3b: Metastasis in clinically apparent ipsilateral internal...", [6161]),
     },
     "N3cMetastasisInIpsilateralSupraclavicularLymphNodes": {
-        "373166003": (
-            "N3c: Metastasis in ipsilateral supraclavicular lymph nodes...",
-            [6161],
-        ),
+        "373166003": ("N3c: Metastasis in ipsilateral supraclavicular lymph nodes...", [6161]),
     },
     "NAcetylLAspartate": {
         "115391007": ("N-acetyl-L-aspartate (substance)", []),
@@ -21104,10 +18410,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132960009": ("Narym horse breed", [7480]),
     },
     "NasalBone": {
-        "74386004": (
-            "Nasal bone",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "74386004": ("Nasal bone", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "NasalBoneStructure": {
         "74386004": ("Nasal bone structure (body structure)", []),
@@ -21216,37 +18519,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "45048000": ("Neck", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "NeckAndChest": {
-        "417437006": (
-            "Neck and Chest",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "417437006": ("Neck and Chest", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "NeckAndOrChestAndOrAbdomenAndOrPelvis": {
-        "416319003": (
-            "Neck and/or chest and/or abdomen and/or pelvis (body structure)",
-            [],
-        ),
+        "416319003": ("Neck and/or chest and/or abdomen and/or pelvis (body structure)", []),
     },
     "NeckAndOrChestAndOrAbdomenStructure": {
-        "416152001": (
-            "Neck and/or chest and/or abdomen structure (body structure)",
-            [],
-        ),
+        "416152001": ("Neck and/or chest and/or abdomen structure (body structure)", []),
     },
     "NeckAndOrChestStructure": {
         "417437006": ("Neck and/or chest structure (body structure)", []),
     },
     "NeckChestAbdomenAndPelvis": {
-        "416319003": (
-            "Neck, Chest, Abdomen and Pelvis",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "416319003": ("Neck, Chest, Abdomen and Pelvis", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "NeckChestAndAbdomen": {
-        "416152001": (
-            "Neck, Chest and Abdomen",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "416152001": ("Neck, Chest and Abdomen", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "NeckOfRib": {
         "72184008": ("Neck of rib", [6115, 8134]),
@@ -21276,10 +18564,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128966001": ("Negative lower body pressure", [91, 3271]),
     },
     "NegativeLowerBodyPressurePhysiologicChallenge": {
-        "128966001": (
-            "Negative lower body pressure physiologic challenge (procedure)",
-            [],
-        ),
+        "128966001": ("Negative lower body pressure physiologic challenge (procedure)", []),
     },
     "NegraSerranaGoatBreed": {
         "131612006": ("Negra Serrana goat breed", [7480]),
@@ -21366,10 +18651,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "89084002": ("Neurofibroma", [6030, 6031]),
     },
     "NeurofibromaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "89084002": (
-            "Neurofibroma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "89084002": ("Neurofibroma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "Neurofibromatosis": {
         "81669005": ("Neurofibromatosis", [6030, 6031]),
@@ -21438,16 +18720,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133010009": ("New Kirgiz horse breed", [7480]),
     },
     "NewLeftVentricularWallMotionAbnormalityComparedToPriorStudy": {
-        "429058004": (
-            "New left ventricular wall motion abnormality compared to prior study (finding)",
-            [],
-        ),
+        "429058004": ("New left ventricular wall motion abnormality compared to prior study (finding)", []),
     },
     "NewMyocardialInfarctionComparedToPriorStudy": {
-        "429391004": (
-            "New myocardial infarction compared to prior study (finding)",
-            [],
-        ),
+        "429391004": ("New myocardial infarction compared to prior study (finding)", []),
     },
     "NewMyocardialIschemiaComparedToPriorStudy": {
         "428927006": ("New myocardial ischemia compared to prior study (finding)", []),
@@ -21456,28 +18732,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "429058004": ("New wall motion abnormality", [3237]),
     },
     "NewYorkHeartAssociationClassificationClassI": {
-        "420300004": (
-            "New York Heart Association Classification - Class I (finding)",
-            [],
-        ),
+        "420300004": ("New York Heart Association Classification - Class I (finding)", []),
     },
     "NewYorkHeartAssociationClassificationClassII": {
-        "421704003": (
-            "New York Heart Association Classification - Class II (finding)",
-            [],
-        ),
+        "421704003": ("New York Heart Association Classification - Class II (finding)", []),
     },
     "NewYorkHeartAssociationClassificationClassIII": {
-        "420913000": (
-            "New York Heart Association Classification - Class III (finding)",
-            [],
-        ),
+        "420913000": ("New York Heart Association Classification - Class III (finding)", []),
     },
     "NewYorkHeartAssociationClassificationClassIV": {
-        "422293003": (
-            "New York Heart Association Classification - Class IV (finding)",
-            [],
-        ),
+        "422293003": ("New York Heart Association Classification - Class IV (finding)", []),
     },
     "NewYorkRedPigBreed": {
         "132268007": ("New York Red pig breed", [7480]),
@@ -21696,10 +18960,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "1929004": ("Non-Hodgkin's lymphoma", [6030, 6033]),
     },
     "NonHodgkinLymphomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "1929004": (
-            "Non-Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "1929004": ("Non-Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "NonRadiopaqueMedium": {
         "43538006": ("Non radiopaque medium", [12, 3850]),
@@ -21750,10 +19011,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "428750005": ("Nonspecific ST-T abnormality", [3230]),
     },
     "NonspecificSTTAbnormalityOnElectrocardiogram": {
-        "428750005": (
-            "Nonspecific ST-T abnormality on electrocardiogram (finding)",
-            [],
-        ),
+        "428750005": ("Nonspecific ST-T abnormality on electrocardiogram (finding)", []),
     },
     "NooitgedachtHorseBreed": {
         "133046000": ("Nooitgedacht horse breed", [7480]),
@@ -21790,10 +19048,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
     },
     "Normal": {
         "164854000": ("Normal", [3230]),
-        "17621005": (
-            "Normal",
-            [222, 242, 3119, 3210, 3211, 7151, 7159, 7165, 7168, 7169, 7194, 7196],
-        ),
+        "17621005": ("Normal", [222, 242, 3119, 3210, 3211, 7151, 7159, 7165, 7168, 7169, 7194, 7196]),
     },
     "NormalAorticRoot": {
         "373132007": ("Normal Aortic Root", [3709]),
@@ -21820,10 +19075,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371856001": ("Normal left heart hemodynamics", [3728]),
     },
     "NormalLeftVentricularSystolicFunctionAndWallMotion": {
-        "371857005": (
-            "Normal left ventricular systolic function and wall motion",
-            [3728],
-        ),
+        "371857005": ("Normal left ventricular systolic function and wall motion", [3728]),
     },
     "NormalOverallCardiacContractility": {
         "373129009": ("Normal overall cardiac contractility (finding)", []),
@@ -22036,16 +19288,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "309938009": ("Nuclear medicine department (environment)", []),
     },
     "NuclearMedicineDiagnosticProcedureOnCardiovascularSystem": {
-        "108294005": (
-            "Nuclear medicine diagnostic procedure on cardiovascular system (procedure)",
-            [],
-        ),
+        "108294005": ("Nuclear medicine diagnostic procedure on cardiovascular system (procedure)", []),
     },
     "NuclearMedicineDiagnosticProcedureOnNervousSystem": {
-        "108300008": (
-            "Nuclear medicine diagnostic procedure on nervous system",
-            [3108],
-        ),
+        "108300008": ("Nuclear medicine diagnostic procedure on nervous system", [3108]),
     },
     "NuclearMedicineProcedure": {
         "371572003": ("Nuclear medicine procedure", [6028]),
@@ -22168,10 +19414,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "36086000": ("obturator lymph node", [7600, 8134]),
     },
     "OccipitalArtery": {
-        "31145008": (
-            "Occipital artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "31145008": ("Occipital artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "OccipitalBone": {
         "31640002": ("Occipital bone", [4028, 7151, 7192, 8134, 9514]),
@@ -22207,10 +19450,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "103714007": ("Occlusion of catheter", [9]),
     },
     "OcclusionOfPatentDuctusArteriosusUsingEmbolizationCoil": {
-        "441676000": (
-            "Occlusion of patent ductus arteriosus using embolization coil (procedure)",
-            [],
-        ),
+        "441676000": ("Occlusion of patent ductus arteriosus using embolization coil (procedure)", []),
     },
     "OccupationalRequirement": {
         "429060002": ("Occupational requirement", [3201]),
@@ -22351,25 +19591,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "43526002": ("Operative Site", [6201]),
     },
     "OphthalmicArtery": {
-        "53549008": (
-            "Ophthalmic artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                4209,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12105,
-            ],
-        ),
+        "53549008": ("Ophthalmic artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 4209, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "OphthalmicEndoscope": {
         "409902001": ("Ophthalmic Endoscope", [4202]),
@@ -22384,10 +19606,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "372656001": ("Opiate antagonist (substance)", []),
     },
     "OpticCanal": {
-        "55024004": (
-            "Optic canal",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "55024004": ("Optic canal", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "OpticCanalStructure": {
         "55024004": ("Optic canal structure (body structure)", []),
@@ -22462,26 +19681,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "363654007": ("Orbit", [12022]),
     },
     "OrbitalStructure": {
-        "363654007": (
-            "Orbital structure",
-            [
-                4,
-                1000,
-                1001,
-                1002,
-                4009,
-                4028,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "363654007": ("Orbital structure", [4, 1000, 1001, 1002, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514]),
     },
     "OrbitoParietalProjection": {
         "399351005": ("Orbito-parietal projection (qualifier value)", []),
@@ -22574,10 +19774,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "21708004": ("Osteosarcoma", [638, 639]),
     },
     "OsteosarcomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "21708004": (
-            "Osteosarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "21708004": ("Osteosarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "Ostium": {
         "264114003": ("Ostium", [3019, 3837, 7111]),
@@ -22616,10 +19813,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131513009": ("Ovambo cattle breed", [7480]),
     },
     "OvarianArtery": {
-        "12052000": (
-            "Ovarian Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125, 12140],
-        ),
+        "12052000": ("Ovarian Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125, 12140]),
     },
     "OvarianCancer": {
         "363443007": ("Ovarian cancer", [638, 639]),
@@ -22631,16 +19825,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "15497006": ("Ovarian structure (body structure)", []),
     },
     "OvarianVein": {
-        "976004": (
-            "Ovarian vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12113, 12125, 12140],
-        ),
+        "976004": ("Ovarian vein", [3827, 7151, 7192, 8134, 9514, 12103, 12113, 12125, 12140]),
     },
     "Ovary": {
-        "15497006": (
-            "Ovary",
-            [4, 645, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 10044, 10060],
-        ),
+        "15497006": ("Ovary", [4, 645, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 10044, 10060]),
     },
     "OverbedTrapezeDevice": {
         "422915004": ("Overbed trapeze device (physical object)", []),
@@ -22817,19 +20005,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442740009": ("Palmar 45 degree medial-dorsolateral", [7484]),
     },
     "Palmar45DegreeMedialDorsolateralProjection": {
-        "442740009": (
-            "Palmar 45 degree medial-dorsolateral projection (qualifier value)",
-            [],
-        ),
+        "442740009": ("Palmar 45 degree medial-dorsolateral projection (qualifier value)", []),
     },
     "Palmar75DegreeProximalDorsodistalOblique": {
         "442591005": ("Palmar 75 degree proximal-dorsodistal oblique", [7484]),
     },
     "Palmar75DegreeProximalDorsodistalObliqueProjection": {
-        "442591005": (
-            "Palmar 75 degree proximal-dorsodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442591005": ("Palmar 75 degree proximal-dorsodistal oblique projection (qualifier value)", []),
     },
     "PalmaromedialDorsolateral": {
         "442742001": ("Palmaromedial-dorsolateral", [7484]),
@@ -22841,10 +20023,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442674000": ("Palmaroproximal-dorsodistal oblique", [7484]),
     },
     "PalmaroproximalDorsodistalObliqueProjection": {
-        "442674000": (
-            "Palmaroproximal-dorsodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442674000": ("Palmaroproximal-dorsodistal oblique projection (qualifier value)", []),
     },
     "PalmeraCattleBreed": {
         "133539004": ("Palmera cattle breed", [7480]),
@@ -22877,45 +20056,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "13934009": ("Panama sheep breed", [7480]),
     },
     "Pancreas": {
-        "15776009": (
-            "Pancreas",
-            [
-                4,
-                645,
-                1000,
-                1001,
-                1005,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7154,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "15776009": ("Pancreas", [4, 645, 1000, 1001, 1005, 4009, 4030, 4031, 4042, 7151, 7154, 7192, 8134, 9514, 10044, 10060]),
     },
     "PancreaticDuct": {
-        "69930009": (
-            "Pancreatic duct",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514],
-        ),
+        "69930009": ("Pancreatic duct", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514]),
     },
     "PancreaticDuctAndBileDuctSystems": {
-        "110621006": (
-            "Pancreatic duct and bile duct systems",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514],
-        ),
+        "110621006": ("Pancreatic duct and bile duct systems", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7154, 7192, 8134, 9514]),
     },
     "PancreaticDuctAndBileDuctSystemsCombinedSite": {
-        "110621006": (
-            "Pancreatic duct and bile duct systems (combined site) (body structure)",
-            [],
-        ),
+        "110621006": ("Pancreatic duct and bile duct systems (combined site) (body structure)", []),
     },
     "PancreaticDuctStructure": {
         "69930009": ("Pancreatic duct structure (body structure)", []),
@@ -22969,19 +20119,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "23730008": ("Papilloma", [6030, 6031]),
     },
     "PapillomaNoInternationalClassificationOfDiseasesForOncologySubtypeExceptPapillomaOfBladderM81201": {
-        "23730008": (
-            "Papilloma, no International Classification of Diseases for Oncology subtype (except papilloma of bladder M-81201) (morphologic abnormality)",
-            [],
-        ),
+        "23730008": ("Papilloma, no International Classification of Diseases for Oncology subtype (except papilloma of bladder M-81201) (morphologic abnormality)", []),
     },
     "PapillonDog": {
         "41263004": ("Papillon dog", [7480]),
     },
     "ParaAorticLymphNodeOfTheAnteriorMediastinum": {
-        "127939003": (
-            "para-aortic lymph node of the anterior mediastinum",
-            [7600, 8134],
-        ),
+        "127939003": ("para-aortic lymph node of the anterior mediastinum", [7600, 8134]),
     },
     "ParaesophagealLymphNodeBelowCarina": {
         "127940001": ("paraesophageal lymph node below carina", [7600, 8134]),
@@ -23005,10 +20149,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "3243006": ("parametrial lymph node", [7600, 8134]),
     },
     "ParanasalSinus": {
-        "2095001": (
-            "Paranasal sinus",
-            [4, 4009, 4028, 4030, 4031, 4040, 4042, 7151, 7192, 7601, 9514],
-        ),
+        "2095001": ("Paranasal sinus", [4, 4009, 4028, 4030, 4031, 4040, 4042, 7151, 7192, 7601, 9514]),
     },
     "Paraproteinemia": {
         "35601003": ("Paraproteinemia", [64]),
@@ -23029,28 +20170,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399139001": ("Parasternal long axis view (qualifier value)", []),
     },
     "ParasternalLongAxisViewOfRightVentricularInflowTract": {
-        "443082005": (
-            "Parasternal long axis view of right ventricular inflow tract (qualifier value)",
-            [],
-        ),
+        "443082005": ("Parasternal long axis view of right ventricular inflow tract (qualifier value)", []),
     },
     "ParasternalLongAxisViewOfRightVentricularOutflowTract": {
-        "443083000": (
-            "Parasternal long axis view of right ventricular outflow tract (qualifier value)",
-            [],
-        ),
+        "443083000": ("Parasternal long axis view of right ventricular outflow tract (qualifier value)", []),
     },
     "ParasternalLongAxisViewOfTheRVInflowTract": {
-        "443082005": (
-            "Parasternal long axis view of the RV inflow tract",
-            [501, 12226],
-        ),
+        "443082005": ("Parasternal long axis view of the RV inflow tract", [501, 12226]),
     },
     "ParasternalLongAxisViewOfTheRVOutflowTract": {
-        "443083000": (
-            "Parasternal long axis view of the RV outflow tract",
-            [501, 12226],
-        ),
+        "443083000": ("Parasternal long axis view of the RV outflow tract", [501, 12226]),
     },
     "ParasternalLymphNode": {
         "82365008": ("parasternal lymph node", [7600, 8134]),
@@ -23062,46 +20191,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399239005": ("Parasternal short axis at the aortic valve level", [501, 12226]),
     },
     "ParasternalShortAxisAtTheLevelOfTheMitralChords": {
-        "399371001": (
-            "Parasternal short axis at the level of the mitral chords",
-            [501, 12226],
-        ),
+        "399371001": ("Parasternal short axis at the level of the mitral chords", [501, 12226]),
     },
     "ParasternalShortAxisAtTheMitralValveLevel": {
         "399036006": ("Parasternal short axis at the Mitral Valve level", [501, 12226]),
     },
     "ParasternalShortAxisAtThePapillaryMuscleLevel": {
-        "399271003": (
-            "Parasternal short axis at the Papillary Muscle level",
-            [501, 12226],
-        ),
+        "399271003": ("Parasternal short axis at the Papillary Muscle level", [501, 12226]),
     },
     "ParasternalShortAxisView": {
         "399306005": ("Parasternal short axis view (qualifier value)", []),
     },
     "ParasternalShortAxisViewAtTheAorticValveLevel": {
-        "399239005": (
-            "Parasternal short axis view at the aortic valve level (qualifier value)",
-            [],
-        ),
+        "399239005": ("Parasternal short axis view at the aortic valve level (qualifier value)", []),
     },
     "ParasternalShortAxisViewAtTheLevelOfTheMitralChords": {
-        "399371001": (
-            "Parasternal short axis view at the level of the mitral chords (qualifier value)",
-            [],
-        ),
+        "399371001": ("Parasternal short axis view at the level of the mitral chords (qualifier value)", []),
     },
     "ParasternalShortAxisViewAtTheMitralValveLevel": {
-        "399036006": (
-            "Parasternal short axis view at the mitral valve level (qualifier value)",
-            [],
-        ),
+        "399036006": ("Parasternal short axis view at the mitral valve level (qualifier value)", []),
     },
     "ParasternalShortAxisViewAtThePapillaryMuscleLevel": {
-        "399271003": (
-            "Parasternal short axis view at the papillary muscle level (qualifier value)",
-            [],
-        ),
+        "399271003": ("Parasternal short axis view at the papillary muscle level (qualifier value)", []),
     },
     "Parathyroid": {
         "111002": ("Parathyroid", [4, 4030, 7151, 7192, 8134, 9514]),
@@ -23152,10 +20263,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132194005": ("Parmense pig breed", [7480]),
     },
     "ParotidGland": {
-        "45289007": (
-            "Parotid gland",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "45289007": ("Parotid gland", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "ParotidGlandStructure": {
         "45289007": ("Parotid gland structure (body structure)", []),
@@ -23182,10 +20290,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "68237008": ("Partial anomalous pulmonary venous connection", [12248, 12249]),
     },
     "PartialAnomalousPulmonaryVenousConnectionOperation": {
-        "174900004": (
-            "Partial anomalous pulmonary venous connection operation",
-            [12247],
-        ),
+        "174900004": ("Partial anomalous pulmonary venous connection operation", [12247]),
     },
     "PartiallyReversibleMyocardialPerfusionDefect": {
         "251056002": ("Partially Reversible myocardial perfusion defect", [3113]),
@@ -23212,35 +20317,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "18525008": ("Pastern region of hindfoot (body structure)", []),
     },
     "Patella": {
-        "64234005": (
-            "Patella",
-            [
-                4,
-                1000,
-                1001,
-                1006,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "64234005": ("Patella", [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "PatentBlueVSodiumSaltStain": {
         "48540004": ("patent blue V sodium salt stain", [8112]),
     },
     "PatentDuctusArteriosus": {
-        "83330001": (
-            "Patent ductus arteriosus",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514, 12293],
-        ),
+        "83330001": ("Patent ductus arteriosus", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514, 12293]),
     },
     "PatentDuctusArteriosusCoilOrDeviceClosure": {
         "441676000": ("Patent ductus arteriosus coil or device closure", [12247]),
@@ -23255,10 +20338,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "18115005": ("pathologic calcification", [3802]),
     },
     "PathologicCalcificationCalcifiedStructure": {
-        "18115005": (
-            "Pathologic calcification, calcified structure (morphologic abnormality)",
-            [],
-        ),
+        "18115005": ("Pathologic calcification, calcified structure (morphologic abnormality)", []),
     },
     "Pathology": {
         "309950003": ("Pathology", [7030]),
@@ -23309,10 +20389,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371914001": ("Peak to peak", [3627]),
     },
     "PeakToPeakNumericEstimationTechnique": {
-        "371914001": (
-            "Peak to peak - numeric estimation technique (qualifier value)",
-            [],
-        ),
+        "371914001": ("Peak to peak - numeric estimation technique (qualifier value)", []),
     },
     "Pearson": {
         "399365007": ("Pearson", [4012]),
@@ -23336,19 +20413,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "26444007": ("Pectoral girdle", [6115, 8134]),
     },
     "PectoralisMajorMuscle": {
-        "60005003": (
-            "Pectoralis major muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "60005003": ("Pectoralis major muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "PectoralisMajorMuscleStructure": {
         "60005003": ("Pectoralis major muscle structure (body structure)", []),
     },
     "PectoralisMinorMuscle": {
-        "18686000": (
-            "Pectoralis minor muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "18686000": ("Pectoralis minor muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "PectoralisMinorMuscleStructure": {
         "18686000": ("Pectoralis minor muscle structure (body structure)", []),
@@ -23424,16 +20495,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
     },
     "Pelvis": {
         "118645006": ("Pelvis", [7304, 8134]),
-        "816092008": (
-            "Pelvis",
-            [4, 4009, 4030, 4031, 4042, 7151, 7160, 7192, 7482, 7483, 8134, 9514],
-        ),
+        "816092008": ("Pelvis", [4, 4009, 4030, 4031, 4042, 7151, 7160, 7192, 7482, 7483, 8134, 9514]),
     },
     "PelvisAndLowerExtremities": {
-        "416631005": (
-            "Pelvis and lower extremities",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "416631005": ("Pelvis and lower extremities", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "PelvisAndOrLowerExtremityStructure": {
         "416631005": ("Pelvis and/or lower extremity structure (body structure)", []),
@@ -23502,40 +20567,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "105373008": ("Percutaneous insertion of intravascular filter", [9, 3405]),
     },
     "PercutaneousProstheticClosureOfAtrialSeptalDefect": {
-        "30123000": (
-            "Percutaneous prosthetic closure of atrial septal defect",
-            [12247],
-        ),
+        "30123000": ("Percutaneous prosthetic closure of atrial septal defect", [12247]),
     },
     "PercutaneousRemovalOfEndovascularForeignBody": {
-        "240946003": (
-            "Percutaneous removal of endovascular foreign body (procedure)",
-            [],
-        ),
+        "240946003": ("Percutaneous removal of endovascular foreign body (procedure)", []),
     },
     "PercutaneousRemovalOfIntravascularForeignBody": {
         "240946003": ("Percutaneous removal of intravascular foreign body", [9, 3405]),
     },
     "PercutaneousTransluminalAngioplastyBalloon": {
-        "102319006": (
-            "Percutaneous transluminal angioplasty balloon",
-            [8, 3411, 3429, 4051, 7151, 7193],
-        ),
+        "102319006": ("Percutaneous transluminal angioplasty balloon", [8, 3411, 3429, 4051, 7151, 7193]),
     },
     "PercutaneousTransluminalAngioplastyBalloonDevice": {
-        "102319006": (
-            "Percutaneous transluminal angioplasty balloon, device (physical object)",
-            [],
-        ),
+        "102319006": ("Percutaneous transluminal angioplasty balloon, device (physical object)", []),
     },
     "PercutaneousTransluminalBalloonAngioplasty": {
         "68457009": ("Percutaneous transluminal balloon angioplasty", [9, 3405]),
     },
     "PercutaneousTransluminalBalloonAngioplastyOfCoarctationOfAortaWithInsertionOfStent": {
-        "443829004": (
-            "Percutaneous transluminal balloon angioplasty of coarctation of aorta with insertion of stent (procedure)",
-            [],
-        ),
+        "443829004": ("Percutaneous transluminal balloon angioplasty of coarctation of aorta with insertion of stent (procedure)", []),
     },
     "PerdigueiroPortugueseDogBreed": {
         "132443007": ("Perdigueiro Portuguese dog breed", [7480]),
@@ -23553,10 +20603,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "41706005": ("Perendale sheep breed", [7480]),
     },
     "PerforatingArteryOfKidney": {
-        "15763003": (
-            "Perforating Artery of Kidney",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12115],
-        ),
+        "15763003": ("Perforating Artery of Kidney", [3827, 7151, 7192, 8134, 9514, 12103, 12115]),
     },
     "Perfusion": {
         "371863001": ("Perfusion", [7151, 7161, 7195]),
@@ -23589,10 +20636,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "35304003": ("Pericardial tamponade", [3700, 3728]),
     },
     "PericardiophrenicArtery": {
-        "3924000": (
-            "Pericardiophrenic Artery",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "3924000": ("Pericardiophrenic Artery", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "Pericardium": {
         "76848001": ("Pericardium", [7151, 7152, 7192, 8134, 9514, 12294]),
@@ -23673,24 +20717,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132163005": ("Perna-Curta pig breed", [7480]),
     },
     "PeronealArtery": {
-        "8821006": (
-            "Peroneal artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12109,
-            ],
-        ),
+        "8821006": ("Peroneal artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "PeronealVein": {
         "71758008": ("Peroneal Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
@@ -23714,10 +20741,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "415076002": ("Personal history of breast cancer", [6051]),
     },
     "PersonalHistoryOfPrimaryMalignantNeoplasmOfBreast": {
-        "415076002": (
-            "Personal history of primary malignant neoplasm of breast (situation)",
-            [],
-        ),
+        "415076002": ("Personal history of primary malignant neoplasm of breast (situation)", []),
     },
     "PeruvianIncaOrchidDogBreed": {
         "132602002": ("Peruvian Inca Orchid dog breed", [7480]),
@@ -23765,10 +20789,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "14876008": ("Pharaoh hound", [7480]),
     },
     "PharmacologicAndExerciseStressTest": {
-        "428813002": (
-            "Pharmacologic and exercise stress test",
-            [3200, 3261, 3757, 12001],
-        ),
+        "428813002": ("Pharmacologic and exercise stress test", [3200, 3261, 3757, 12001]),
     },
     "PharmacologicStressProtocol": {
         "424064009": ("Pharmacologic Stress protocol", [3261, 12001]),
@@ -23807,10 +20828,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445625005": ("Phase contrast plate", [8124]),
     },
     "PhaseContrastPlateOfOpticalMicroscope": {
-        "445625005": (
-            "Phase contrast plate of optical microscope (physical object)",
-            [],
-        ),
+        "445625005": ("Phase contrast plate of optical microscope (physical object)", []),
     },
     "Phencyclidine": {
         "9721008": ("Phencyclidine", [6089]),
@@ -24047,25 +21065,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442675004": ("Plantar 60 degree lateral-dorsomedial oblique", [7484]),
     },
     "Plantar60DegreeLateralDorsomedialObliqueProjection": {
-        "442675004": (
-            "Plantar 60 degree lateral-dorsomedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442675004": ("Plantar 60 degree lateral-dorsomedial oblique projection (qualifier value)", []),
     },
     "Plantar75DegreeProximalDorsodistalOblique": {
         "442603007": ("Plantar 75 degree proximal-dorsodistal oblique", [7484]),
     },
     "Plantar75DegreeProximalDorsodistalObliqueProjection": {
-        "442603007": (
-            "Plantar 75 degree proximal-dorsodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442603007": ("Plantar 75 degree proximal-dorsodistal oblique projection (qualifier value)", []),
     },
     "PlantarArterialArch": {
-        "83018002": (
-            "Plantar Arterial Arch",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "83018002": ("Plantar Arterial Arch", [3827, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "PlantarArterialArchStructure": {
         "83018002": ("Plantar arterial arch structure (body structure)", []),
@@ -24074,19 +21083,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442658005": ("Plantarolateral-dorsomedial oblique", [7484]),
     },
     "PlantarolateralDorsomedialObliqueProjection": {
-        "442658005": (
-            "Plantarolateral-dorsomedial oblique projection (qualifier value)",
-            [],
-        ),
+        "442658005": ("Plantarolateral-dorsomedial oblique projection (qualifier value)", []),
     },
     "PlantaroproximalDorsodistalOblique": {
         "442625001": ("Plantaroproximal-dorsodistal oblique", [7484]),
     },
     "PlantaroproximalDorsodistalObliqueProjection": {
-        "442625001": (
-            "Plantaroproximal-dorsodistal oblique projection (qualifier value)",
-            [],
-        ),
+        "442625001": ("Plantaroproximal-dorsodistal oblique projection (qualifier value)", []),
     },
     "Plantodorsal": {
         "399071006": ("plantodorsal", [501, 4010]),
@@ -24152,58 +21155,31 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373171005": ("pM1: Distant metastasis (breast) (finding)", []),
     },
     "PmxDistantMetastasisCannotBeAssessedBreast": {
-        "373170006": (
-            "pMX: Distant metastasis cannot be assessed (breast) (finding)",
-            [],
-        ),
+        "373170006": ("pMX: Distant metastasis cannot be assessed (breast) (finding)", []),
     },
     "Pn0NoRegionalLymphNodeMetastasisHistologicallyIENoneGreaterThan0Point2mmNoAdditionalExaminationForIsolatedTumorCellsBreast": {
-        "373151001": (
-            "pN0: No regional lymph node metastasis histologically (i.e., none greater than 0.2 mm), no additional examination for isolated tumor cells (breast) (finding)",
-            [],
-        ),
+        "373151001": ("pN0: No regional lymph node metastasis histologically (i.e., none greater than 0.2 mm), no additional examination for isolated tumor cells (breast) (finding)", []),
     },
     "Pn1MetastasisIn1To3AxillaryLymphNodesAndOrInInternalMammaryNodesWithMicroscopicDiseaseDetectedBySentinelLymphNodeDissectionButNotClinicallyApparentBreast": {
-        "373156006": (
-            "pN1: Metastasis in 1 to 3 axillary lymph nodes, and/or in internal mammary nodes with microscopic disease detected by sentinel lymph node dissection but not clinically apparent (breast) (finding)",
-            [],
-        ),
+        "373156006": ("pN1: Metastasis in 1 to 3 axillary lymph nodes, and/or in internal mammary nodes with microscopic disease detected by sentinel lymph node dissection but not clinically apparent (breast) (finding)", []),
     },
     "Pn2MetastasisIn4To9AxillaryLymphNodesOrInClinicallyApparentInternalMammaryLymphNodesInTheAbsenceOfAxillaryLymphNodeMetastasisBreast": {
-        "373162001": (
-            "pN2: Metastasis in 4 to 9 axillary lymph nodes, or in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis (breast) (finding)",
-            [],
-        ),
+        "373162001": ("pN2: Metastasis in 4 to 9 axillary lymph nodes, or in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis (breast) (finding)", []),
     },
     "Pn2aMetastasisIn4To9AxillaryLymphNodesAtLeastOneTumorDepositGreaterThan2Point0mmBreast": {
-        "373163006": (
-            "pN2a: Metastasis in 4 to 9 axillary lymph nodes (at least one tumor deposit greater than 2.0 mm) (breast) (finding)",
-            [],
-        ),
+        "373163006": ("pN2a: Metastasis in 4 to 9 axillary lymph nodes (at least one tumor deposit greater than 2.0 mm) (breast) (finding)", []),
     },
     "Pn2bMetastasisInClinicallyApparentInternalMammaryLymphNodesInTheAbsenceOfAxillaryLymphNodeMetastasisBreast": {
-        "373164000": (
-            "pN2b: Metastasis in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis (breast) (finding)",
-            [],
-        ),
+        "373164000": ("pN2b: Metastasis in clinically apparent internal mammary lymph nodes in the absence of axillary lymph node metastasis (breast) (finding)", []),
     },
     "Pn3aMetastasisIn10OrMoreAxillaryLymphNodesAtLeastOneTumorDepositGreaterThan2Point0mmOrMetastasisToInfraclavicularLymphNodesBreast": {
-        "373165004": (
-            "pN3a: Metastasis in 10 or more axillary lymph nodes (at least one tumor deposit greater than 2.0 mm), or metastasis to infraclavicular lymph nodes (breast) (finding)",
-            [],
-        ),
+        "373165004": ("pN3a: Metastasis in 10 or more axillary lymph nodes (at least one tumor deposit greater than 2.0 mm), or metastasis to infraclavicular lymph nodes (breast) (finding)", []),
     },
     "Pn3bTumorOfBreastWithMetastasisAsPerAmericanJointCommitteeOnCancer6thEditionDefinitionBreast": {
-        "373167007": (
-            "pN3b: Tumor of breast with metastasis as per American Joint Committee on Cancer 6th Edition definition (breast) (finding)",
-            [],
-        ),
+        "373167007": ("pN3b: Tumor of breast with metastasis as per American Joint Committee on Cancer 6th Edition definition (breast) (finding)", []),
     },
     "Pn3cMetastasisInIpsilateralSupraclavicularLymphNodesBreast": {
-        "373166003": (
-            "pN3c: Metastasis in ipsilateral supraclavicular lymph nodes (breast) (finding)",
-            [],
-        ),
+        "373166003": ("pN3c: Metastasis in ipsilateral supraclavicular lymph nodes (breast) (finding)", []),
     },
     "Pneumomediastinum": {
         "16838000": ("Pneumomediastinum", [6102, 6105]),
@@ -24212,10 +21188,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "36118008": ("Pneumothorax", [6062, 6102, 6105]),
     },
     "PnxRegionalLymphNodesCannotBeAssessedEGPreviouslyRemovedOrNotRemovedForPathologicStudyBreast": {
-        "373150000": (
-            "pNX: Regional lymph nodes cannot be assessed (e.g., previously removed, or not removed for pathologic study) (breast) (finding)",
-            [],
-        ),
+        "373150000": ("pNX: Regional lymph nodes cannot be assessed (e.g., previously removed, or not removed for pathologic study) (breast) (finding)", []),
     },
     "PodengoCanarioDogBreed": {
         "132444001": ("Podengo Canario dog breed", [7480]),
@@ -24227,10 +21200,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371913007": ("Point source measurement", [3627]),
     },
     "PointSourceNumericEstimationTechnique": {
-        "371913007": (
-            "Point source - numeric estimation technique (qualifier value)",
-            [],
-        ),
+        "371913007": ("Point source - numeric estimation technique (qualifier value)", []),
     },
     "Pointer": {
         "73318001": ("Pointer", [7480]),
@@ -24254,10 +21224,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445391002": ("Polarizing optical filter", [4204, 8124]),
     },
     "PolarizingOpticalFilterOfOpticalMicroscope": {
-        "445391002": (
-            "Polarizing optical filter of optical microscope (physical object)",
-            [],
-        ),
+        "445391002": ("Polarizing optical filter of optical microscope (physical object)", []),
     },
     "PolesianHorseBreed": {
         "133074005": ("Polesian horse breed", [7480]),
@@ -24314,10 +21281,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133418008": ("Polled Shorthorn (US) cattle breed", [7480]),
     },
     "PolledShorthornUnitedStatesOfAmericaCattleBreed": {
-        "133418008": (
-            "Polled Shorthorn (United States of America) cattle breed (organism)",
-            [],
-        ),
+        "133418008": ("Polled Shorthorn (United States of America) cattle breed (organism)", []),
     },
     "PolledSimmentalCattleBreed": {
         "133419000": ("Polled Simmental cattle breed", [7480]),
@@ -24404,25 +21368,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "300841009": ("Poorly defined", [6120]),
     },
     "PoplitealArtery": {
-        "43899006": (
-            "Popliteal artery",
-            [
-                4,
-                3010,
-                3440,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12109,
-            ],
-        ),
+        "43899006": ("Popliteal artery", [4, 3010, 3440, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "PoplitealFossa": {
         "32361000": ("Popliteal fossa", [4, 7151, 7192, 8134, 9514]),
@@ -24449,24 +21395,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "32381004": ("Portal (qualifier value)", []),
     },
     "PortalVein": {
-        "32764006": (
-            "Portal vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12114,
-                12125,
-            ],
-        ),
+        "32764006": ("Portal vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "PortalVeinStructure": {
         "32764006": ("Portal vein structure (body structure)", []),
@@ -24505,16 +21434,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "702767007": ("Positron emission tomography of whole body (procedure)", []),
     },
     "PositronEmissionTomographyStudyForLocalizationOfTumor": {
-        "241443006": (
-            "Positron emission tomography study for localization of tumor (procedure)",
-            [],
-        ),
+        "241443006": ("Positron emission tomography study for localization of tumor (procedure)", []),
     },
     "PositronEmissionTomographyWithComputedTomographyFluorodeoxyglucoseImagingOfWholeBody": {
-        "443271005": (
-            "Positron emission tomography with computed tomography fluorodeoxyglucose imaging of whole body (procedure)",
-            [],
-        ),
+        "443271005": ("Positron emission tomography with computed tomography fluorodeoxyglucose imaging of whole body (procedure)", []),
     },
     "PossiblePregnancy": {
         "102874004": ("possible pregnancy", [6096]),
@@ -24547,10 +21470,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373108000": ("Post PTCA", [3201]),
     },
     "PostPercutaneousTransluminalCoronaryAngioplasty": {
-        "373108000": (
-            "Post percutaneous transluminal coronary angioplasty (finding)",
-            [],
-        ),
+        "373108000": ("Post percutaneous transluminal coronary angioplasty (finding)", []),
     },
     "PostStenoticDilation": {
         "371872009": ("Post Stenotic Dilation", [3709]),
@@ -24577,31 +21497,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "255551008": ("Posterior", [2, 5, 211, 212, 3019, 4005, 6024, 6025, 12281]),
     },
     "PosteriorArchVein": {
-        "397435008": (
-            "Posterior arch vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "397435008": ("Posterior arch vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "PosteriorAuricularLymphNode": {
         "30793004": ("posterior auricular lymph node", [7600, 8134]),
     },
     "PosteriorCerebralArtery": {
-        "70382005": (
-            "Posterior Cerebral Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "70382005": ("Posterior Cerebral Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "PosteriorCerebralArteryP1Segment": {
-        "415144009": (
-            "Posterior Cerebral Artery P1 Segment",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "415144009": ("Posterior Cerebral Artery P1 Segment", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "PosteriorCerebralArteryP2Segment": {
-        "415145005": (
-            "Posterior Cerebral Artery P2 Segment",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "415145005": ("Posterior Cerebral Artery P2 Segment", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "PosteriorCerebralCommissure": {
         "279336005": ("Posterior cerebral commissure", [7151, 7153, 7192, 8134, 9514]),
@@ -24613,25 +21521,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "4019005": ("Posterior commissure of labium majorum", [4029, 8134]),
     },
     "PosteriorCommunicatingArtery": {
-        "43119007": (
-            "posterior communicating artery",
-            [3604, 3606, 3630, 3827, 12103, 12105],
-        ),
+        "43119007": ("posterior communicating artery", [3604, 3606, 3630, 3827, 12103, 12105]),
     },
     "PosteriorCommunicationArtery": {
-        "43119007": (
-            "Posterior communication artery",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "43119007": ("Posterior communication artery", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "PosteriorDescendingCoronaryArtery": {
         "443113009": ("Posterior Descending Coronary Artery", [12292]),
     },
     "PosteriorDescendingRightCoronaryArtery": {
-        "53655008": (
-            "Posterior Descending Right Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "53655008": ("Posterior Descending Right Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "PosteriorEmissiveProjection": {
         "399001007": ("Posterior emissive projection (qualifier value)", []),
@@ -24640,16 +21539,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "52943005": ("Posterior Horn Lateral Ventricle", [8134, 12022]),
     },
     "PosteriorMedialTributary": {
-        "128569001": (
-            "Posterior medial tributary",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128569001": ("Posterior medial tributary", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "PosteriorMedialTributaryOfSuperficialVenousSystemOfLowerExtremity": {
-        "128569001": (
-            "Posterior medial tributary of superficial venous system of lower extremity (body structure)",
-            [],
-        ),
+        "128569001": ("Posterior medial tributary of superficial venous system of lower extremity (body structure)", []),
     },
     "PosteriorMediastinalLymphNode": {
         "25447008": ("posterior mediastinal lymph node", [7600, 8134]),
@@ -24661,19 +21554,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "3236000": ("Posterior segment of right upper lobe", [6124, 6127]),
     },
     "PosteriorTibialArtery": {
-        "13363002": (
-            "Posterior tibial artery",
-            [4, 3010, 3440, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109],
-        ),
+        "13363002": ("Posterior tibial artery", [4, 3010, 3440, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "PosteriorTibialLymphNode": {
         "303623000": ("posterior tibial lymph node", [7600, 8134]),
     },
     "PosteriorTibialVein": {
-        "4258007": (
-            "Posterior Tibial Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "4258007": ("Posterior Tibial Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "PosteriorTriangleCervicalLymphNode": {
         "245324000": ("posterior triangle cervical lymph node", [7600, 8134]),
@@ -24880,10 +21767,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "723265000": ("Primary squamous cell carcinoma of anus (disorder)", []),
     },
     "PrimarySquamousCellCarcinomaOfLaryngealCartilage": {
-        "707357005": (
-            "Primary squamous cell carcinoma of laryngeal cartilage (disorder)",
-            [],
-        ),
+        "707357005": ("Primary squamous cell carcinoma of laryngeal cartilage (disorder)", []),
     },
     "PrimitiveAorta": {
         "14944004": ("Primitive aorta", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
@@ -24892,10 +21776,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "14944004": ("Primitive aortic structure (body structure)", []),
     },
     "PrimitivePulmonaryArtery": {
-        "91707000": (
-            "Primitive pulmonary artery",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "91707000": ("Primitive pulmonary artery", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "Principal": {
         "63161005": ("Principal (qualifier value)", []),
@@ -24949,30 +21830,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "106292003": ("Professional nurse (occupation)", []),
     },
     "ProfundaFemorisArtery": {
-        "31677005": (
-            "Profunda Femoris Artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12109,
-            ],
-        ),
+        "31677005": ("Profunda Femoris Artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "ProfundaFemorisVein": {
-        "23438002": (
-            "Profunda Femoris Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "23438002": ("Profunda Femoris Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "ProgesteronePreparation": {
         "50318003": ("Progesterone preparation (product)", []),
@@ -24999,10 +21860,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "1240000": ("Prone body position (finding)", []),
     },
     "ProperHepaticArtery": {
-        "18112008": (
-            "Proper Hepatic Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "18112008": ("Proper Hepatic Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "ProphylacticIntent": {
         "360271000": ("Prophylactic intent", [3629]),
@@ -25029,27 +21887,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "48988008": ("Prostaglandin PGE1 (substance)", []),
     },
     "Prostate": {
-        "41216001": (
-            "Prostate",
-            [
-                4,
-                645,
-                4009,
-                4030,
-                4031,
-                4042,
-                6202,
-                6204,
-                6300,
-                7151,
-                7160,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "41216001": ("Prostate", [4, 645, 4009, 4030, 4031, 4042, 6202, 6204, 6300, 7151, 7160, 7192, 8134, 9514, 10044, 10060]),
     },
     "ProstaticStructure": {
         "41216001": ("Prostatic structure (body structure)", []),
@@ -25085,10 +21923,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "40415009": ("Proximal", [2, 5, 211, 212, 3019, 12116, 12281]),
     },
     "ProximalCircumflexCoronaryArtery": {
-        "52433000": (
-            "Proximal Circumflex Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292],
-        ),
+        "52433000": ("Proximal Circumflex Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292]),
     },
     "ProximalFemur": {
         "310651003": ("Proximal Femur", [7304, 8134]),
@@ -25097,19 +21932,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "119524001": ("Proximal Humerus", [7304, 8134]),
     },
     "ProximalLeftAnteriorDescendingCoronaryArtery": {
-        "68787002": (
-            "Proximal Left Anterior Descending Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "68787002": ("Proximal Left Anterior Descending Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "ProximalRadius": {
         "12881000": ("Proximal Radius", [7304, 8134]),
     },
     "ProximalRightCoronaryArtery": {
-        "91083009": (
-            "Proximal Right Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91083009": ("Proximal Right Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "ProximalUlna": {
         "34318004": ("Proximal Ulna", [7304, 8134]),
@@ -25148,70 +21977,37 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373174002": ("pT0: No evidence of primary tumor (breast) (finding)", []),
     },
     "Pt1Tumor2cmOrLessInGreatestDimensionBreast": {
-        "373172003": (
-            "pT1: Tumor 2 cm or less in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373172003": ("pT1: Tumor 2 cm or less in greatest dimension (breast) (finding)", []),
     },
     "Pt1aTumorMoreThan0Point1cmButNotMoreThan0Point5cmInGreatestDimensionBreast": {
-        "373180005": (
-            "pT1a: Tumor more than 0.1 cm but not more than 0.5 cm in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373180005": ("pT1a: Tumor more than 0.1 cm but not more than 0.5 cm in greatest dimension (breast) (finding)", []),
     },
     "Pt1bTumorMoreThan0Point5cmButNotMoreThan1cmInGreatestDimensionBreast": {
-        "373204007": (
-            "pT1b: Tumor more than 0.5 cm but not more than 1 cm in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373204007": ("pT1b: Tumor more than 0.5 cm but not more than 1 cm in greatest dimension (breast) (finding)", []),
     },
     "Pt1cTumorMoreThan1cmButNotMoreThan2cmInGreatestDimensionBreast": {
-        "373183007": (
-            "pT1c: Tumor more than 1 cm but not more than 2 cm in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373183007": ("pT1c: Tumor more than 1 cm but not more than 2 cm in greatest dimension (breast) (finding)", []),
     },
     "Pt1micMicroinvasion0Point1cmOrLessInGreatestDimensionBreast": {
-        "373179007": (
-            "pT1mic: Microinvasion 0.1 cm or less in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373179007": ("pT1mic: Microinvasion 0.1 cm or less in greatest dimension (breast) (finding)", []),
     },
     "Pt2TumorMoreThan2cmButNotMoreThan5cmInGreatestDimensionBreast": {
-        "373182002": (
-            "pT2: Tumor more than 2 cm but not more than 5 cm in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373182002": ("pT2: Tumor more than 2 cm but not more than 5 cm in greatest dimension (breast) (finding)", []),
     },
     "Pt3TumorMoreThan5cmInGreatestDimensionBreast": {
-        "373184001": (
-            "pT3: Tumor more than 5 cm in greatest dimension (breast) (finding)",
-            [],
-        ),
+        "373184001": ("pT3: Tumor more than 5 cm in greatest dimension (breast) (finding)", []),
     },
     "Pt4TumorOfAnySizeWithDirectExtensionToChestWallOrSkinBreast": {
-        "373185000": (
-            "pT4: Tumor of any size with direct extension to chest wall or skin (breast) (finding)",
-            [],
-        ),
+        "373185000": ("pT4: Tumor of any size with direct extension to chest wall or skin (breast) (finding)", []),
     },
     "Pt4aTumorOfAnySizeWithExtensionToChestWallNotIncludingPectoralisMuscleBreast": {
-        "373186004": (
-            "pT4a: Tumor of any size with extension to chest wall, not including pectoralis muscle (breast) (finding)",
-            [],
-        ),
+        "373186004": ("pT4a: Tumor of any size with extension to chest wall, not including pectoralis muscle (breast) (finding)", []),
     },
     "Pt4bTumorOfAnySizeWithEdemaIncludingPeauDOrangeOrUlcerationOfTheSkinOfTheBreastOrSatelliteSkinNodulesConfinedToTheSameBreastBreast": {
-        "373187008": (
-            "pT4b: Tumor of any size with edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast (breast) (finding)",
-            [],
-        ),
+        "373187008": ("pT4b: Tumor of any size with edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast (breast) (finding)", []),
     },
     "Pt4cTumorOfAnySizeWithDirectExtensionToChestWallNotIncludingPectoralisMuscleAndEdemaIncludingPeauDOrangeOrUlcerationOfTheSkinOfTheBreastOrSatelliteSkinNodulesConfinedToTheSameBreast": {
-        "373189006": (
-            "pT4c: Tumor of any size with direct extension to chest wall (not including pectoralis muscle) and edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast (finding)",
-            [],
-        ),
+        "373189006": ("pT4c: Tumor of any size with direct extension to chest wall (not including pectoralis muscle) and edema (including peau d'orange) or ulceration of the skin of the breast or satellite skin nodules confined to the same breast (finding)", []),
     },
     "Pt4dInflammatoryCarcinomaBreast": {
         "373190002": ("pT4d: Inflammatory carcinoma (breast) (finding)", []),
@@ -25229,10 +22025,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373177009": ("pTis: Lobular carcinoma in situ (breast) (finding)", []),
     },
     "PtisPagetDiseaseWithoutInvasiveCarcinomaBreast": {
-        "373178004": (
-            "pTis: Paget disease without invasive carcinoma (breast) (finding)",
-            [],
-        ),
+        "373178004": ("pTis: Paget disease without invasive carcinoma (breast) (finding)", []),
     },
     "PtxPrimaryTumorCannotBeAssessedBreast": {
         "373173008": ("pTX: Primary tumor cannot be assessed (breast) (finding)", []),
@@ -25262,35 +22055,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128443005": ("Pulmonary arterial waveform (observable entity)", []),
     },
     "PulmonaryArteriovenousFistula": {
-        "111289009": (
-            "Pulmonary arteriovenous fistula",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "111289009": ("Pulmonary arteriovenous fistula", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "PulmonaryArtery": {
-        "81040000": (
-            "Pulmonary artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3610,
-                3630,
-                4030,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12141,
-                12290,
-                12305,
-            ],
-        ),
+        "81040000": ("Pulmonary artery", [4, 3010, 3604, 3606, 3610, 3630, 4030, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12141, 12290, 12305]),
     },
     "PulmonaryArteryBlood": {
         "371953005": ("Pulmonary Artery Blood", [3520]),
@@ -25299,19 +22067,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "397755005": ("Pulmonary artery catheter (physical object)", []),
     },
     "PulmonaryArteryConduit": {
-        "128584005": (
-            "Pulmonary artery conduit",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128584005": ("Pulmonary artery conduit", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "PulmonaryArteryOxygenSaturationWaveform": {
         "128447006": ("Pulmonary artery oxygen saturation waveform", [3003]),
     },
     "PulmonaryArteryOxygenSaturationWaveformFunction": {
-        "128447006": (
-            "Pulmonary artery oxygen saturation waveform, function (observable entity)",
-            [],
-        ),
+        "128447006": ("Pulmonary artery oxygen saturation waveform, function (observable entity)", []),
     },
     "PulmonaryArteryPressure": {
         "250767002": ("Pulmonary Artery Pressure", [3641]),
@@ -25332,16 +22094,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128449009": ("Pulmonary artery wedge pressure waveform", [3003]),
     },
     "PulmonaryAtresiaWithIntactVentricularSeptum": {
-        "253590009": (
-            "Pulmonary atresia with intact ventricular septum",
-            [12248, 12249],
-        ),
+        "253590009": ("Pulmonary atresia with intact ventricular septum", [12248, 12249]),
     },
     "PulmonaryAtresiaWithVentricularSeptalDefect": {
-        "253591008": (
-            "Pulmonary atresia with ventricular septal defect",
-            [12248, 12249],
-        ),
+        "253591008": ("Pulmonary atresia with ventricular septal defect", [12248, 12249]),
     },
     "PulmonaryCapillaryWedge": {
         "128448001": ("Pulmonary capillary wedge", [3608, 3630]),
@@ -25356,19 +22112,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128448001": ("Pulmonary capillary wedge pressure waveform", [3003]),
     },
     "PulmonaryCapillaryWedgePressureWaveformFunction": {
-        "128448001": (
-            "Pulmonary capillary wedge pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128448001": ("Pulmonary capillary wedge pressure waveform, function (observable entity)", []),
     },
     "PulmonaryChamberInCorTriatriatum": {
         "128586007": ("Pulmonary chamber in cor triatriatum", [3608, 3630]),
     },
     "PulmonaryChamberOfCorTriatriatum": {
-        "128586007": (
-            "Pulmonary chamber of cor triatriatum",
-            [4, 3010, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128586007": ("Pulmonary chamber of cor triatriatum", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
     },
     "PulmonaryDisease": {
         "19829001": ("Pulmonary disease", [3205]),
@@ -25401,10 +22151,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "45341000": ("Pulmonary trunk", [6102, 6109, 6117, 8134, 12290]),
     },
     "PulmonaryValve": {
-        "39057004": (
-            "Pulmonary valve",
-            [3610, 3630, 3701, 6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "39057004": ("Pulmonary valve", [3610, 3630, 3701, 6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "PulmonaryValveArea": {
         "251013007": ("Pulmonary valve area (observable entity)", []),
@@ -25428,26 +22175,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "276901002": ("Pulmonary Vascular Resistance", [3619, 3641]),
     },
     "PulmonaryVein": {
-        "122972007": (
-            "Pulmonary vein",
-            [
-                4,
-                3010,
-                3011,
-                3607,
-                3630,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12141,
-                12283,
-            ],
-        ),
+        "122972007": ("Pulmonary vein", [4, 3010, 3011, 3607, 3630, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12141, 12283]),
         "430757002": ("Pulmonary Vein", [3827, 3840, 7151, 7192, 9514, 12305]),
     },
     "PulmonaryVeinAWaveDuration": {
@@ -25463,10 +22191,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "443591004": ("Pulmonary Vein Common Right Segment", [12280]),
     },
     "PulmonaryVeinConfluence": {
-        "128566008": (
-            "Pulmonary vein confluence",
-            [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128566008": ("Pulmonary vein confluence", [4, 3010, 3607, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "PulmonaryVeinConfluenceToAtriumConnection": {
         "443208000": ("Pulmonary Vein confluence to Atrium Connection", [12280]),
@@ -25490,10 +22215,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371829003": ("Pulmonary vein wedge pressure (observable entity)", []),
     },
     "PulmonaryVenousAtrium": {
-        "128567004": (
-            "Pulmonary venous atrium",
-            [4, 3010, 3608, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128567004": ("Pulmonary venous atrium", [4, 3010, 3608, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "PulmonaryVenousStructure": {
         "122972007": ("Pulmonary venous structure (body structure)", []),
@@ -25520,10 +22242,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "252068008": ("Pulsatility Index", [3620]),
     },
     "PulsatilityIndexArterialVelocityWaveform": {
-        "252068008": (
-            "Pulsatility index, arterial velocity waveform (observable entity)",
-            [],
-        ),
+        "252068008": ("Pulsatility index, arterial velocity waveform (observable entity)", []),
     },
     "PumiDogBreed": {
         "132575007": ("Pumi dog breed", [7480]),
@@ -25661,25 +22380,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129512009": ("Raclopride C^11^", [4021]),
     },
     "RadialArtery": {
-        "45631007": (
-            "Radial artery",
-            [
-                4,
-                3010,
-                3440,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12107,
-            ],
-        ),
+        "45631007": ("Radial artery", [4, 3010, 3440, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "RadialKeratotomy": {
         "51683002": ("Radial keratotomy (procedure)", []),
@@ -25700,10 +22401,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "53438000": ("Radiation therapy procedure or service (procedure)", []),
     },
     "RadicalAortopulmonaryReconstructWRVToPAValvelessConduit": {
-        "429616001": (
-            "Radical aortopulmonary reconstruct w RV to PA valveless conduit",
-            [12247],
-        ),
+        "429616001": ("Radical aortopulmonary reconstruct w RV to PA valveless conduit", [12247]),
     },
     "RadioactiveImplant": {
         "19443004": ("Radioactive implant", [7111, 7112, 7151, 7157, 7193]),
@@ -25724,40 +22422,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129748009": ("Radiographic calcification finding", [6055]),
     },
     "RadiographicCalcificationWithClusteredDistribution": {
-        "129769006": (
-            "Radiographic calcification with clustered distribution (finding)",
-            [],
-        ),
+        "129769006": ("Radiographic calcification with clustered distribution (finding)", []),
     },
     "RadiographicCalcificationWithDiffuseDistribution": {
-        "129764001": (
-            "Radiographic calcification with diffuse distribution (finding)",
-            [],
-        ),
+        "129764001": ("Radiographic calcification with diffuse distribution (finding)", []),
     },
     "RadiographicCalcificationWithGroupedDistribution": {
-        "129766004": (
-            "Radiographic calcification with grouped distribution (finding)",
-            [],
-        ),
+        "129766004": ("Radiographic calcification with grouped distribution (finding)", []),
     },
     "RadiographicCalcificationWithLinearDistribution": {
-        "129765000": (
-            "Radiographic calcification with linear distribution (finding)",
-            [],
-        ),
+        "129765000": ("Radiographic calcification with linear distribution (finding)", []),
     },
     "RadiographicCalcificationWithRegionalDistribution": {
-        "129767008": (
-            "Radiographic calcification with regional distribution (finding)",
-            [],
-        ),
+        "129767008": ("Radiographic calcification with regional distribution (finding)", []),
     },
     "RadiographicCalcificationWithSegmentalDistribution": {
-        "129768003": (
-            "Radiographic calcification with segmental distribution (finding)",
-            [],
-        ),
+        "129768003": ("Radiographic calcification with segmental distribution (finding)", []),
     },
     "RadiographicContrastMedia": {
         "7140000": ("Radiographic contrast media (product)", []),
@@ -25769,10 +22449,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129757003": ("Radiographic finding of calcified skin of breast (finding)", []),
     },
     "RadiographicFindingOfCalcifiedSutureMaterial": {
-        "129758008": (
-            "Radiographic finding of calcified suture material (finding)",
-            [],
-        ),
+        "129758008": ("Radiographic finding of calcified suture material (finding)", []),
     },
     "RadiographicFindingOfVascularCalcification": {
         "129759000": ("Radiographic finding of vascular calcification (finding)", []),
@@ -25838,16 +22515,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "252432008": ("Radionuclide myocardial perfusion study", [3757]),
     },
     "RadionuclideStudyForLocalizationOfInflammatoryDisease": {
-        "252680004": (
-            "Radionuclide study for localization of inflammatory disease",
-            [3108],
-        ),
+        "252680004": ("Radionuclide study for localization of inflammatory disease", [3108]),
     },
     "RadionuclideStudyForLocalizationOfTumorOrInflammatoryDisease": {
-        "252680004": (
-            "Radionuclide study for localization of tumor or inflammatory disease (procedure)",
-            [],
-        ),
+        "252680004": ("Radionuclide study for localization of tumor or inflammatory disease (procedure)", []),
     },
     "RadionuclideVentriculography": {
         "85606007": ("Radionuclide ventriculography", [3744]),
@@ -25868,37 +22539,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "724024003": ("Radium^223^ dichloride", [25]),
     },
     "Radius": {
-        "131190003": (
-            "Radius",
-            [
-                218,
-                6165,
-                7469,
-                7470,
-                12218,
-                12250,
-                12251,
-                12257,
-                12258,
-                12259,
-                12260,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12277,
-            ],
-        ),
+        "131190003": ("Radius", [218, 6165, 7469, 7470, 12218, 12250, 12251, 12257, 12258, 12259, 12260, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12277]),
         "62413002": ("Radius", [7304, 8134, 12021]),
     },
     "RadiusANDUlnaCombinedSite": {
@@ -26001,46 +22642,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "118586006": ("Ratio", [12303]),
     },
     "RatioOfAorticValveAccelerationTimeToAorticValveEjectionTime": {
-        "399058008": (
-            "Ratio of aortic valve acceleration time to aortic valve ejection time (observable entity)",
-            [],
-        ),
+        "399058008": ("Ratio of aortic valve acceleration time to aortic valve ejection time (observable entity)", []),
     },
     "RatioOfAorticValveAccelerationTimeToEjectionTime": {
-        "399058008": (
-            "Ratio of Aortic Valve Acceleration Time to Ejection Time",
-            [12211],
-        ),
+        "399058008": ("Ratio of Aortic Valve Acceleration Time to Ejection Time", [12211]),
     },
     "RatioOfMVPeakVelocityToLVPeakTissueVelocityEWave": {
-        "399140004": (
-            "Ratio of MV Peak Velocity to LV Peak Tissue Velocity E-Wave",
-            [12200, 12203, 12257, 12259, 12271],
-        ),
+        "399140004": ("Ratio of MV Peak Velocity to LV Peak Tissue Velocity E-Wave", [12200, 12203, 12257, 12259, 12271]),
     },
     "RatioOfMitralValveAccelerationTimeToMitralValveDecelerationTime": {
-        "399062002": (
-            "Ratio of mitral valve acceleration time to mitral valve deceleration time (observable entity)",
-            [],
-        ),
+        "399062002": ("Ratio of mitral valve acceleration time to mitral valve deceleration time (observable entity)", []),
     },
     "RatioOfMitralValvePeakVelocityToLeftVentricularPeakTissueVelocityEWave": {
-        "399140004": (
-            "Ratio of mitral valve peak velocity to left ventricular peak tissue velocity e-wave (observable entity)",
-            [],
-        ),
+        "399140004": ("Ratio of mitral valve peak velocity to left ventricular peak tissue velocity e-wave (observable entity)", []),
     },
     "RatioOfPulmonicValveAccelerationTimeToEjectionTime": {
-        "399238002": (
-            "Ratio of Pulmonic Valve Acceleration Time to Ejection Time",
-            [12209],
-        ),
+        "399238002": ("Ratio of Pulmonic Valve Acceleration Time to Ejection Time", [12209]),
     },
     "RatioOfPulmonicValveAccelerationTimeToPulmonicValveEjectionTime": {
-        "399238002": (
-            "Ratio of pulmonic valve acceleration time to pulmonic valve ejection time (observable entity)",
-            [],
-        ),
+        "399238002": ("Ratio of pulmonic valve acceleration time to pulmonic valve ejection time (observable entity)", []),
     },
     "RatioProperty": {
         "118586006": ("Ratio (property) (qualifier value)", []),
@@ -26088,25 +22708,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "67966000": ("Rectal tube", [6202, 6203]),
     },
     "Rectum": {
-        "34402009": (
-            "Rectum",
-            [
-                645,
-                4009,
-                4030,
-                4031,
-                4040,
-                4042,
-                6202,
-                6204,
-                6210,
-                7151,
-                7160,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "34402009": ("Rectum", [645, 4009, 4030, 4031, 4040, 4042, 6202, 6204, 6210, 7151, 7160, 7192, 8134, 9514]),
     },
     "RectumStructure": {
         "34402009": ("Rectum structure (body structure)", []),
@@ -26136,34 +22738,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371809004": ("Recurrent angina Post-Stent", [3700]),
     },
     "RecurrentAnginaStatusPostCoronaryArteryBypassGraft": {
-        "371810009": (
-            "Recurrent angina status post coronary artery bypass graft (disorder)",
-            [],
-        ),
+        "371810009": ("Recurrent angina status post coronary artery bypass graft (disorder)", []),
     },
     "RecurrentAnginaStatusPostCoronaryStentPlacement": {
-        "371809004": (
-            "Recurrent angina status post coronary stent placement (disorder)",
-            [],
-        ),
+        "371809004": ("Recurrent angina status post coronary stent placement (disorder)", []),
     },
     "RecurrentAnginaStatusPostDirectionalCoronaryAtherectomy": {
-        "371812001": (
-            "Recurrent angina status post directional coronary atherectomy (disorder)",
-            [],
-        ),
+        "371812001": ("Recurrent angina status post directional coronary atherectomy (disorder)", []),
     },
     "RecurrentAnginaStatusPostPercutaneousTransluminalCoronaryAngioplasty": {
-        "371808007": (
-            "Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder)",
-            [],
-        ),
+        "371808007": ("Recurrent angina status post percutaneous transluminal coronary angioplasty (disorder)", []),
     },
     "RecurrentAnginaStatusPostRotationalAtherectomy": {
-        "371811008": (
-            "Recurrent angina status post rotational atherectomy (disorder)",
-            [],
-        ),
+        "371811008": ("Recurrent angina status post rotational atherectomy (disorder)", []),
     },
     "Red": {
         "371240000": ("Red", [4206, 4255, 8122]),
@@ -26277,40 +22864,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "397417004": ("Regurgitant Flow", [12221]),
     },
     "RegurgitantFraction": {
-        "399301000": (
-            "Regurgitant Fraction",
-            [
-                12200,
-                12204,
-                12207,
-                12208,
-                12209,
-                12211,
-                12218,
-                12222,
-                12257,
-                12258,
-                12259,
-                12260,
-                12261,
-                12262,
-                12263,
-                12264,
-                12265,
-                12266,
-                12267,
-                12268,
-                12269,
-                12270,
-                12271,
-                12272,
-                12273,
-                12274,
-                12275,
-                12276,
-                12304,
-            ],
-        ),
+        "399301000": ("Regurgitant Fraction", [12200, 12204, 12207, 12208, 12209, 12211, 12218, 12222, 12257, 12258, 12259, 12260, 12261, 12262, 12263, 12264, 12265, 12266, 12267, 12268, 12269, 12270, 12271, 12272, 12273, 12274, 12275, 12276, 12304]),
     },
     "Regurgitation": {
         "10337008": ("Regurgitation", [3711]),
@@ -26346,27 +22900,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129730000": ("Removal of implant since previous mammogram", [6002, 6003]),
     },
     "RenalArtery": {
-        "2841007": (
-            "Renal artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                3837,
-                4030,
-                4042,
-                7111,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12115,
-            ],
-        ),
+        "2841007": ("Renal artery", [4, 3010, 3604, 3606, 3630, 3827, 3837, 4030, 4042, 7111, 7151, 7192, 8134, 9514, 12103, 12115]),
     },
     "RenalCellCarcinoma": {
         "702391001": ("Renal cell carcinoma", [638, 639]),
@@ -26393,10 +22927,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "386103008": ("Renal stone", [300]),
     },
     "RenalVein": {
-        "56400007": (
-            "Renal vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12115],
-        ),
+        "56400007": ("Renal vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12115]),
     },
     "RendenaCattleBreed": {
         "133451004": ("Rendena cattle breed", [7480]),
@@ -26411,10 +22942,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "35860002": ("Repair by nailing", [7310]),
     },
     "RepairOfAtrialSeptalDefectWithProsthesisByClosedHeartTechnique": {
-        "30123000": (
-            "Repair of atrial septal defect with prosthesis by closed heart technique (procedure)",
-            [],
-        ),
+        "30123000": ("Repair of atrial septal defect with prosthesis by closed heart technique (procedure)", []),
     },
     "RepairOfCoarctationOfAorta": {
         "274022008": ("Repair of coarctation of aorta", [12247]),
@@ -26423,19 +22951,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "174836000": ("Repair of defect of the atrioventricular septum", [12247]),
     },
     "RepairOfPartialAnomalousPulmonaryVenousConnection": {
-        "174900004": (
-            "Repair of partial anomalous pulmonary venous connection (procedure)",
-            [],
-        ),
+        "174900004": ("Repair of partial anomalous pulmonary venous connection (procedure)", []),
     },
     "RepairOfTotalAnomalousPulmonaryVenousConnection": {
         "174830006": ("Repair of total anomalous pulmonary venous connection", [12247]),
     },
     "RepairOfVentricularSeptalDefectWithProsthesis": {
-        "89814007": (
-            "Repair of ventricular septal defect with prosthesis (procedure)",
-            [],
-        ),
+        "89814007": ("Repair of ventricular septal defect with prosthesis (procedure)", []),
     },
     "RepartidaGoatBreed": {
         "131647003": ("Repartida goat breed", [7480]),
@@ -26447,19 +22969,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371916004": ("Representative", [3676]),
     },
     "RepresentativeNumericEstimationTechnique": {
-        "371916004": (
-            "Representative - numeric estimation technique (qualifier value)",
-            [],
-        ),
+        "371916004": ("Representative - numeric estimation technique (qualifier value)", []),
     },
     "RequestByPhysician": {
         "103321005": ("Request by Physician", [3205]),
     },
     "RequestByPhysicianContextualQualifier": {
-        "103321005": (
-            "Request by physician (contextual qualifier) (qualifier value)",
-            [],
-        ),
+        "103321005": ("Request by physician (contextual qualifier) (qualifier value)", []),
     },
     "ResavaPigBreed": {
         "133205002": ("Resava pig breed", [7480]),
@@ -26483,10 +22999,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128436004": ("Respiration impedance waveform", [3003]),
     },
     "RespirationImpedanceWaveformFunction": {
-        "128436004": (
-            "Respiration impedance waveform, function (observable entity)",
-            [],
-        ),
+        "128436004": ("Respiration impedance waveform, function (observable entity)", []),
     },
     "RespirationIntermittent": {
         "271824009": ("respiration intermittent", [3416]),
@@ -26513,10 +23026,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371893007": ("Restenotic lesion of coronary artery (finding)", []),
     },
     "RestingState": {
-        "128975004": (
-            "Resting State",
-            [3101, 3102, 3207, 3250, 3262, 3405, 3602, 3651, 10045, 12002],
-        ),
+        "128975004": ("Resting State", [3101, 3102, 3207, 3250, 3262, 3405, 3602, 3651, 10045, 12002]),
     },
     "Restrictive": {
         "253551005": ("Restrictive", [3707]),
@@ -26645,10 +23155,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131854007": ("Rhoenschaf sheep breed", [7480]),
     },
     "Rib": {
-        "113197003": (
-            "Rib",
-            [4, 4009, 4030, 4031, 4042, 6102, 6109, 6114, 7151, 7155, 7192, 8134, 9514],
-        ),
+        "113197003": ("Rib", [4, 4009, 4030, 4031, 4042, 6102, 6109, 6114, 7151, 7155, 7192, 8134, 9514]),
     },
     "RideauArcottSheepBreed": {
         "132703001": ("Rideau Arcott sheep breed", [7480]),
@@ -26660,113 +23167,71 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442627009": ("Right 20 degree dorsal-left ventral oblique", [7484]),
     },
     "Right20DegreeDorsalLeftVentralObliqueProjection": {
-        "442627009": (
-            "Right 20 degree dorsal-left ventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442627009": ("Right 20 degree dorsal-left ventral oblique projection (qualifier value)", []),
     },
     "Right20DegreeRostralLeftCaudalOblique": {
         "442743006": ("Right 20 degree rostral-left caudal oblique", [7484]),
     },
     "Right20DegreeRostralLeftCaudalObliqueProjection": {
-        "442743006": (
-            "Right 20 degree rostral-left caudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442743006": ("Right 20 degree rostral-left caudal oblique projection (qualifier value)", []),
     },
     "Right20DegreeVentralLeftDorsalOblique": {
         "442612009": ("Right 20 degree ventral-left dorsal oblique", [7484]),
     },
     "Right20DegreeVentralLeftDorsalObliqueProjection": {
-        "442612009": (
-            "Right 20 degree ventral-left dorsal oblique projection (qualifier value)",
-            [],
-        ),
+        "442612009": ("Right 20 degree ventral-left dorsal oblique projection (qualifier value)", []),
     },
     "Right30DegreeCaudalLeftRostralOblique": {
         "442605000": ("Right 30 degree caudal-left rostral oblique", [7484]),
     },
     "Right30DegreeCaudalLeftRostralObliqueProjection": {
-        "442605000": (
-            "Right 30 degree caudal-left rostral oblique projection (qualifier value)",
-            [],
-        ),
+        "442605000": ("Right 30 degree caudal-left rostral oblique projection (qualifier value)", []),
     },
     "Right45DegreeDorsalLeftVentralOblique": {
         "442660007": ("Right 45 degree dorsal-left ventral oblique", [7484]),
     },
     "Right45DegreeDorsalLeftVentralObliqueProjection": {
-        "442660007": (
-            "Right 45 degree dorsal-left ventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442660007": ("Right 45 degree dorsal-left ventral oblique projection (qualifier value)", []),
     },
     "Right45DegreeVentralLeftDorsalOblique": {
         "442628004": ("Right 45 degree ventral-left dorsal oblique", [7484]),
     },
     "Right45DegreeVentralLeftDorsalObliqueProjection": {
-        "442628004": (
-            "Right 45 degree ventral-left dorsal oblique projection (qualifier value)",
-            [],
-        ),
+        "442628004": ("Right 45 degree ventral-left dorsal oblique projection (qualifier value)", []),
     },
     "RightAndLeft": {
         "51440002": ("Right and left (qualifier value)", []),
     },
     "RightAnteriorApicalPeripheralZoneOfProstate": {
-        "716936005": (
-            "Right anterior apical peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716936005": ("Right anterior apical peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightAnteriorApicalTransitionZoneOfProstate": {
-        "716930004": (
-            "Right anterior apical transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716930004": ("Right anterior apical transition zone of prostate", [6300, 6301, 6304]),
     },
     "RightAnteriorBasalPeripheralZoneOfProstate": {
-        "716904003": (
-            "Right anterior basal peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716904003": ("Right anterior basal peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightAnteriorBasalTransitionZoneOfProstate": {
-        "716896009": (
-            "Right anterior basal transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716896009": ("Right anterior basal transition zone of prostate", [6300, 6301, 6304]),
     },
     "RightAnteriorMiddlePeripheralZoneOfProstate": {
-        "716919002": (
-            "Right anterior middle peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716919002": ("Right anterior middle peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightAnteriorMiddleTransitionZoneOfProstate": {
-        "716913001": (
-            "Right anterior middle transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716913001": ("Right anterior middle transition zone of prostate", [6300, 6301, 6304]),
     },
     "RightAnteriorOblique": {
         "399108003": ("Right anterior oblique", [26, 501]),
         "399356000": ("right anterior oblique", [501, 3466, 4010]),
     },
     "RightAnteriorObliqueEmissiveProjection": {
-        "399108003": (
-            "Right anterior oblique emissive projection (qualifier value)",
-            [],
-        ),
+        "399108003": ("Right anterior oblique emissive projection (qualifier value)", []),
     },
     "RightAnteriorObliqueProjection": {
         "399356000": ("Right anterior oblique projection (qualifier value)", []),
     },
     "RightApicalAnteriorFibromuscularStromaOfProstate": {
-        "716926002": (
-            "Right apical anterior fibromuscular stroma of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716926002": ("Right apical anterior fibromuscular stroma of prostate", [6300, 6301, 6304]),
     },
     "RightApicalPeripheralZoneOfProstate": {
         "716934008": ("Right apical peripheral zone of prostate", [6300, 6302]),
@@ -26787,45 +23252,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "90561006": ("Right atrioventricular ostium structure (body structure)", []),
     },
     "RightAtrium": {
-        "73829009": (
-            "Right atrium",
-            [
-                4,
-                3010,
-                3011,
-                3462,
-                3608,
-                3630,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12284,
-                12305,
-            ],
-        ),
+        "73829009": ("Right atrium", [4, 3010, 3011, 3462, 3608, 3630, 4042, 7151, 7192, 8134, 9514, 12284, 12305]),
     },
     "RightAtriumPressureWaveform": {
         "128440008": ("Right atrium pressure waveform", [3003]),
     },
     "RightAtriumPressureWaveformFunction": {
-        "128440008": (
-            "Right atrium pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128440008": ("Right atrium pressure waveform, function (observable entity)", []),
     },
     "RightAuricularAppendage": {
-        "68300000": (
-            "Right auricular appendage",
-            [4, 3010, 3011, 4042, 7151, 7192, 8134, 9514, 12284],
-        ),
+        "68300000": ("Right auricular appendage", [4, 3010, 3011, 4042, 7151, 7192, 8134, 9514, 12284]),
     },
     "RightBasalAnteriorFibromuscularStromaOfProstate": {
-        "716892006": (
-            "Right basal anterior fibromuscular stroma of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716892006": ("Right basal anterior fibromuscular stroma of prostate", [6300, 6301, 6304]),
     },
     "RightBasalPeripheralZoneOfProstate": {
         "716902004": ("Right basal peripheral zone of prostate", [6300, 6302]),
@@ -26837,10 +23276,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "57383004": ("Right branch of Atrioventricular bundle", [3011, 8134]),
     },
     "RightBranchOfHepaticArtery": {
-        "69421009": (
-            "Right Branch of Hepatic Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "69421009": ("Right Branch of Hepatic Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "RightBreast": {
         "73056007": ("Right breast", [6022, 6023]),
@@ -26855,10 +23291,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442629007": ("Right caudal-left rostral oblique", [7484]),
     },
     "RightCaudalLeftRostralObliqueProjection": {
-        "442629007": (
-            "Right caudal-left rostral oblique projection (qualifier value)",
-            [],
-        ),
+        "442629007": ("Right caudal-left rostral oblique projection (qualifier value)", []),
     },
     "RightCommonCarotidArtery": {
         "65355003": ("Right Common Carotid Artery", [12291]),
@@ -26867,16 +23300,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "65355003": ("Right common carotid artery structure (body structure)", []),
     },
     "RightCoronaryArtery": {
-        "13647002": (
-            "Right Coronary Artery",
-            [3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292],
-        ),
+        "13647002": ("Right Coronary Artery", [3015, 3016, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12292]),
     },
     "RightCoronaryArteryOstium": {
-        "56789007": (
-            "Right Coronary Artery Ostium",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "56789007": ("Right Coronary Artery Ostium", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "RightCoronaryArteryStructure": {
         "13647002": ("Right coronary artery structure (body structure)", []),
@@ -26891,19 +23318,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442607008": ("Right dorsal-left ventral oblique", [7484]),
     },
     "RightDorsalLeftVentralObliqueProjection": {
-        "442607008": (
-            "Right dorsal-left ventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442607008": ("Right dorsal-left ventral oblique projection (qualifier value)", []),
     },
     "RightDowngaze": {
         "255524005": ("Right downgaze", [4201]),
     },
     "RightFemoralArtery": {
-        "69833005": (
-            "Right femoral artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "69833005": ("Right femoral artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "RightGaze": {
         "255531009": ("Right gaze", [4201]),
@@ -26912,10 +23333,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "444001009": ("Right Glenn shunt procedure", [12247]),
     },
     "RightHepaticVein": {
-        "272998002": (
-            "Right Hepatic Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "272998002": ("Right Hepatic Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "RightHypochondriacRegion": {
         "133946002": ("Right hypochondriac region", [4, 7151, 7192, 8134, 9514]),
@@ -26967,25 +23385,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133944004": ("Right lumbar region", [4, 7151, 7192, 8134, 9514]),
     },
     "RightMainBranchOfPortalVein": {
-        "73931004": (
-            "Right Main Branch of Portal Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "73931004": ("Right Main Branch of Portal Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "RightMainBronchus": {
-        "70074004": (
-            "Right main bronchus",
-            [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "70074004": ("Right main bronchus", [6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
     },
     "RightMainBronchusStructure": {
         "70074004": ("Right main bronchus structure (body structure)", []),
     },
     "RightMiddleAnteriorFibromuscularStromaOfProstate": {
-        "716909008": (
-            "Right middle anterior fibromuscular stroma of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716909008": ("Right middle anterior fibromuscular stroma of prostate", [6300, 6301, 6304]),
     },
     "RightMiddleTransitionZoneOfProstate": {
         "716911004": ("Right middle transition zone of prostate", [6300, 6302, 6303]),
@@ -27003,97 +23412,47 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "44788007": ("Right pleura structure (body structure)", []),
     },
     "RightPosteriorAVCoronaryArtery": {
-        "12800002": (
-            "Right posterior AV Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "12800002": ("Right posterior AV Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "RightPosteriorApicalTransitionZoneOfProstate": {
-        "716932007": (
-            "Right posterior apical transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716932007": ("Right posterior apical transition zone of prostate", [6300, 6301, 6304]),
     },
     "RightPosteriorBasalTransitionZoneOfProstate": {
-        "716898005": (
-            "Right posterior basal transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716898005": ("Right posterior basal transition zone of prostate", [6300, 6301, 6304]),
     },
     "RightPosteriorMiddleTransitionZoneOfProstate": {
-        "716915008": (
-            "Right posterior middle transition zone of prostate",
-            [6300, 6301, 6304],
-        ),
+        "716915008": ("Right posterior middle transition zone of prostate", [6300, 6301, 6304]),
     },
     "RightPosteriorOblique": {
         "399038007": ("right posterior oblique", [501, 4010]),
         "399075002": ("Right posterior oblique", [26, 501]),
     },
     "RightPosteriorObliqueEmissiveProjection": {
-        "399075002": (
-            "Right posterior oblique emissive projection (qualifier value)",
-            [],
-        ),
+        "399075002": ("Right posterior oblique emissive projection (qualifier value)", []),
     },
     "RightPosteriorObliqueProjection": {
         "399038007": ("Right posterior oblique projection (qualifier value)", []),
     },
     "RightPosterolateralApicalPeripheralZoneOfProstate": {
-        "716938006": (
-            "Right posterolateral apical peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716938006": ("Right posterolateral apical peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightPosterolateralBasalPeripheralZoneOfProstate": {
-        "716906001": (
-            "Right posterolateral basal peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716906001": ("Right posterolateral basal peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightPosterolateralMiddlePeripheralZoneOfProstate": {
-        "716921007": (
-            "Right posterolateral middle peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716921007": ("Right posterolateral middle peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightPosteromedialApicalPeripheralZoneOfProstate": {
-        "716940001": (
-            "Right posteromedial apical peripheral zone of prostate",
-            [6300, 6301, 6303, 6304],
-        ),
+        "716940001": ("Right posteromedial apical peripheral zone of prostate", [6300, 6301, 6303, 6304]),
     },
     "RightPosteromedialBasalPeripheralZoneOfProstate": {
-        "836428004": (
-            "Right posteromedial basal peripheral zone of prostate",
-            [6300, 6304],
-        ),
+        "836428004": ("Right posteromedial basal peripheral zone of prostate", [6300, 6304]),
     },
     "RightPosteromedialMiddlePeripheralZoneOfProstate": {
-        "716923005": (
-            "Right posteromedial middle peripheral zone of prostate",
-            [6300, 6301, 6302, 6303, 6304],
-        ),
+        "716923005": ("Right posteromedial middle peripheral zone of prostate", [6300, 6301, 6302, 6303, 6304]),
     },
     "RightPulmonaryArtery": {
-        "78480002": (
-            "Right pulmonary artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3829,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12280,
-                12305,
-            ],
-        ),
+        "78480002": ("Right pulmonary artery", [4, 3010, 3604, 3606, 3630, 3829, 4042, 7151, 7192, 8134, 9514, 12280, 12305]),
     },
     "RightPulmonaryVein": {
         "91539005": ("Right Pulmonary Vein", [3827, 3840, 7151, 7192, 9514]),
@@ -27102,10 +23461,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442747007": ("Right rostral-left caudal oblique", [7484]),
     },
     "RightRostralLeftCaudalObliqueProjection": {
-        "442747007": (
-            "Right rostral-left caudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442747007": ("Right rostral-left caudal oblique projection (qualifier value)", []),
     },
     "RightSeminalVesicle": {
         "74308000": ("Right seminal vesicle", [6300, 6301, 6302, 6303, 6304]),
@@ -27141,33 +23497,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442595001": ("Right ventral-left dorsal oblique", [7484]),
     },
     "RightVentralLeftDorsalObliqueProjection": {
-        "442595001": (
-            "Right ventral-left dorsal oblique projection (qualifier value)",
-            [],
-        ),
+        "442595001": ("Right ventral-left dorsal oblique projection (qualifier value)", []),
     },
     "RightVentricle": {
-        "53085002": (
-            "Right ventricle",
-            [
-                4,
-                3010,
-                3011,
-                3462,
-                3463,
-                3609,
-                3630,
-                4042,
-                7151,
-                7152,
-                7192,
-                8134,
-                9514,
-                12287,
-                12288,
-                12305,
-            ],
-        ),
+        "53085002": ("Right ventricle", [4, 3010, 3011, 3462, 3463, 3609, 3630, 4042, 7151, 7152, 7192, 8134, 9514, 12287, 12288, 12305]),
     },
     "RightVentricleApex": {
         "128565007": ("Right ventricle apex", [3609, 3630]),
@@ -27176,50 +23509,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "277635008": ("Right Ventricle Basal Segment", [12305]),
     },
     "RightVentricleInflow": {
-        "8017000": (
-            "Right ventricle inflow",
-            [4, 3010, 3011, 3609, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "8017000": ("Right ventricle inflow", [4, 3010, 3011, 3609, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "RightVentricleMidventricularSegment": {
         "277634007": ("Right Ventricle Midventricular Segment", [12305]),
     },
     "RightVentricleOutflowTract": {
-        "44627009": (
-            "Right ventricle outflow tract",
-            [
-                4,
-                3010,
-                3011,
-                3609,
-                3610,
-                3630,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12223,
-                12236,
-                12280,
-                12305,
-            ],
-        ),
+        "44627009": ("Right ventricle outflow tract", [4, 3010, 3011, 3609, 3610, 3630, 4042, 7151, 7192, 8134, 9514, 12223, 12236, 12280, 12305]),
     },
     "RightVentriclePressureWaveform": {
         "128439006": ("Right ventricle pressure waveform", [3003]),
     },
     "RightVentriclePressureWaveformFunction": {
-        "128439006": (
-            "Right ventricle pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128439006": ("Right ventricle pressure waveform, function (observable entity)", []),
     },
     "RightVentricleToPulmonaryArteryConduitAnastomosis": {
-        "443328003": (
-            "Right Ventricle to Pulmonary Artery Conduit Anastomosis",
-            [12288],
-        ),
+        "443328003": ("Right Ventricle to Pulmonary Artery Conduit Anastomosis", [12288]),
     },
     "RightVentricularCardiacIndex": {
         "427990004": ("Right ventricular cardiac index (observable entity)", []),
@@ -27282,10 +23587,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "80943009": ("Risk factor (observable entity)", []),
     },
     "RiskFactorsPresentAtHeartDiseaseScreening": {
-        "171224000": (
-            "Risk factors present at heart disease screening (observable entity)",
-            [],
-        ),
+        "171224000": ("Risk factors present at heart disease screening (observable entity)", []),
     },
     "Robert": {
         "425035007": ("Robert", [4012]),
@@ -27421,19 +23723,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442730006": ("Rostral 20 degree dorsal-caudoventral oblique", [7484]),
     },
     "Rostral20DegreeDorsalCaudoventralObliqueProjection": {
-        "442730006": (
-            "Rostral 20 degree dorsal-caudoventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442730006": ("Rostral 20 degree dorsal-caudoventral oblique projection (qualifier value)", []),
     },
     "Rostral30DegreeVentralCaudodorsal": {
         "442588005": ("Rostral 30 degree ventral-caudodorsal", [7484]),
     },
     "Rostral30DegreeVentralCaudodorsalProjection": {
-        "442588005": (
-            "Rostral 30 degree ventral-caudodorsal projection (qualifier value)",
-            [],
-        ),
+        "442588005": ("Rostral 30 degree ventral-caudodorsal projection (qualifier value)", []),
     },
     "Rostrocaudal": {
         "442690000": ("Rostrocaudal", [7484]),
@@ -27445,10 +23741,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442637004": ("Rostrodorsal-caudoventral oblique", [7484]),
     },
     "RostrodorsalCaudoventralObliqueProjection": {
-        "442637004": (
-            "Rostrodorsal-caudoventral oblique projection (qualifier value)",
-            [],
-        ),
+        "442637004": ("Rostrodorsal-caudoventral oblique projection (qualifier value)", []),
     },
     "RostroventralCaudodorsal": {
         "442586009": ("Rostroventral-caudodorsal", [7484]),
@@ -27460,10 +23753,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "257912008": ("Rotation - action", [94]),
     },
     "RotationalAtherectomyDevice": {
-        "102313007": (
-            "Rotational atherectomy device",
-            [8, 3411, 3429, 4051, 7151, 7193],
-        ),
+        "102313007": ("Rotational atherectomy device", [8, 3411, 3429, 4051, 7151, 7193]),
     },
     "RotationalAtherectomySpeed": {
         "371854003": ("Rotational Atherectomy Speed", [3425]),
@@ -27651,43 +23941,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "79926007": ("sacral lymph node", [7600, 8134]),
     },
     "SacroCoccygealSpine": {
-        "297174005": (
-            "Sacro-coccygeal Spine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "297174005": ("Sacro-coccygeal Spine", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "SacrococcygealRegionOfSpineStructure": {
         "297174005": ("Sacrococcygeal region of spine structure (body structure)", []),
     },
     "SacroiliacJoint": {
-        "39723000": (
-            "Sacroiliac joint",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "39723000": ("Sacroiliac joint", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "SacroiliacJointStructure": {
         "39723000": ("Sacroiliac joint structure (body structure)", []),
     },
     "Sacrum": {
-        "54735007": (
-            "Sacrum",
-            [
-                4,
-                1000,
-                1001,
-                1005,
-                4009,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7482,
-                7483,
-                8134,
-                9514,
-            ],
-        ),
+        "54735007": ("Sacrum", [4, 1000, 1001, 1005, 4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514]),
     },
     "SaddlebackPigBreed": {
         "132225006": ("Saddleback pig breed", [7480]),
@@ -27712,10 +23978,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399325008": ("sagittal-oblique axial", [501, 4010]),
     },
     "SagittalObliqueAxialEmissiveProjection": {
-        "399273000": (
-            "Sagittal-oblique axial emissive projection (qualifier value)",
-            [],
-        ),
+        "399273000": ("Sagittal-oblique axial emissive projection (qualifier value)", []),
     },
     "SagittalObliqueAxialProjection": {
         "399325008": ("Sagittal-oblique axial projection (qualifier value)", []),
@@ -27766,10 +24029,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "102324009": ("Saline bag prosthesis for imaging procedure", [5]),
     },
     "SalineBagProsthesisForImagingProcedureDevice": {
-        "102324009": (
-            "Saline bag prosthesis for imaging procedure, device (physical object)",
-            [],
-        ),
+        "102324009": ("Saline bag prosthesis for imaging procedure, device (physical object)", []),
     },
     "SalineThrombectomy": {
         "371797002": ("Saline Thrombectomy", [3411, 3429]),
@@ -27853,22 +24113,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132784009": ("Santa Inês sheep breed", [7480]),
     },
     "SaphenofemoralJunction": {
-        "128587003": (
-            "Saphenofemoral junction",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "128587003": ("Saphenofemoral junction", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "SaphenopoplitealJunction": {
-        "244415001": (
-            "Saphenopopliteal junction",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "244415001": ("Saphenopopliteal junction", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "SaphenousVein": {
-        "362072009": (
-            "Saphenous vein",
-            [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "362072009": ("Saphenous vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "SaphenousVeinStructure": {
         "362072009": ("Saphenous vein structure (body structure)", []),
@@ -27883,10 +24134,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "2424003": ("Sarcoma", [638, 639]),
     },
     "SarcomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "2424003": (
-            "Sarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "2424003": ("Sarcoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "SarcomaOfSoftTissue": {
         "424952003": ("Sarcoma of soft tissue", [638, 639]),
@@ -27934,10 +24182,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "81132008": ("scalene lymph node", [7600, 8134]),
     },
     "ScalenousAnteriorMuscle": {
-        "50755001": (
-            "Scalenous anterior muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "50755001": ("Scalenous anterior muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "Scalp": {
         "41695006": ("Scalp", [4, 7151, 7192, 8134, 9514]),
@@ -27958,35 +24203,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "30518006": ("Scaphoid", [1000, 1001, 1006]),
     },
     "Scapula": {
-        "79601000": (
-            "Scapula",
-            [
-                4,
-                1000,
-                1001,
-                1004,
-                4009,
-                4030,
-                4031,
-                4042,
-                6102,
-                6109,
-                6114,
-                7151,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "79601000": ("Scapula", [4, 1000, 1001, 1004, 4009, 4030, 4031, 4042, 6102, 6109, 6114, 7151, 7192, 8134, 9514]),
     },
     "Scar": {
         "12402003": ("Scar (morphologic abnormality)", []),
     },
     "ScarTissue": {
-        "12402003": (
-            "Scar tissue",
-            [6030, 6031, 6040, 6102, 6138, 6202, 6203, 6403, 6405, 7151, 7191],
-        ),
+        "12402003": ("Scar tissue", [6030, 6031, 6040, 6102, 6138, 6202, 6203, 6403, 6405, 7151, 7191]),
     },
     "ScatteredFibroglandularDensities": {
         "129717001": ("Scattered fibroglandular densities", [6000, 6001]),
@@ -28094,10 +24317,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "195042002": ("Second degree Atrioventricular block", [3230]),
     },
     "SecondLumbarArtery": {
-        "397408004": (
-            "Second Lumbar Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "397408004": ("Second Lumbar Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "SecondMolarRegion": {
         "699505003": ("Second molar region", [4017]),
@@ -28175,10 +24395,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "132676003": ("Selkirk Rex cat breed", [7480]),
     },
     "SellaTurcica": {
-        "42575006": (
-            "Sella turcica",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "42575006": ("Sella turcica", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "SelleFrancaisHorseBreed": {
         "133153007": ("Selle Francais horse breed", [7480]),
@@ -28193,10 +24410,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "34026001": ("semi-prone", [20]),
     },
     "SeminalVesicle": {
-        "64739004": (
-            "Seminal Vesicle",
-            [6202, 6204, 6300, 7151, 7160, 7192, 8134, 9514],
-        ),
+        "64739004": ("Seminal Vesicle", [6202, 6204, 6300, 7151, 7160, 7192, 8134, 9514]),
     },
     "SeminalVesicleStructure": {
         "64739004": ("Seminal vesicle structure (body structure)", []),
@@ -28247,16 +24461,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "131628001": ("Serrana goat breed", [7480]),
     },
     "SerratusAnteriorMuscle": {
-        "18346003": (
-            "Serratus anterior muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "18346003": ("Serratus anterior muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "SesamoidBonesOfFoot": {
-        "58742003": (
-            "Sesamoid bones of foot",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "58742003": ("Sesamoid bones of foot", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "SeshagaCattleBreed": {
         "131523000": ("Seshaga cattle breed", [7480]),
@@ -28439,10 +24647,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "80835003": ("Shorthorn cow breed", [7480]),
     },
     "Shoulder": {
-        "16982005": (
-            "Shoulder",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514],
-        ),
+        "16982005": ("Shoulder", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "ShoulderGirdleStructure": {
         "26444007": ("Shoulder girdle structure (body structure)", []),
@@ -28574,10 +24779,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371871002": ("Single Beats", [3676]),
     },
     "SingleBeatsNumericEstimationTechnique": {
-        "371871002": (
-            "Single beats - numeric estimation technique (qualifier value)",
-            [],
-        ),
+        "371871002": ("Single beats - numeric estimation technique (qualifier value)", []),
     },
     "SingleCoronaryVesselDisease": {
         "194842008": ("Single coronary vessel disease (disorder)", []),
@@ -28637,10 +24839,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "33586001": ("Sitting position (finding)", []),
     },
     "SixthLumbarArtery": {
-        "397412005": (
-            "Sixth Lumbar Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "397412005": ("Sixth Lumbar Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "SkeletalAndOrSmoothMuscleStructure": {
         "71616004": ("Skeletal and/or smooth muscle structure (body structure)", []),
@@ -29024,10 +25223,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "61719002": ("Skin of vertex of scalp", [4029, 8134]),
     },
     "SkinRetractionOfBreast": {
-        "129796009": (
-            "Skin retraction of breast",
-            [6014, 6015, 6016, 6054, 6055, 6056],
-        ),
+        "129796009": ("Skin retraction of breast", [6014, 6015, 6016, 6054, 6055, 6056]),
     },
     "SkinStructure": {
         "39937001": ("Skin structure (body structure)", []),
@@ -29045,22 +25241,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "11584001": ("Skin structure of anterior portion of neck (body structure)", []),
     },
     "SkinStructureOfAnteriorSurfaceOfForearm": {
-        "70559009": (
-            "Skin structure of anterior surface of forearm (body structure)",
-            [],
-        ),
+        "70559009": ("Skin structure of anterior surface of forearm (body structure)", []),
     },
     "SkinStructureOfAnteriorSurfaceOfThigh": {
-        "61248009": (
-            "Skin structure of anterior surface of thigh (body structure)",
-            [],
-        ),
+        "61248009": ("Skin structure of anterior surface of thigh (body structure)", []),
     },
     "SkinStructureOfAnteriorSurfaceOfUpperArm": {
-        "45981001": (
-            "Skin structure of anterior surface of upper arm (body structure)",
-            [],
-        ),
+        "45981001": ("Skin structure of anterior surface of upper arm (body structure)", []),
     },
     "SkinStructureOfAnteriorTrunk": {
         "181491009": ("Skin structure of anterior trunk (body structure)", []),
@@ -29084,10 +25271,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "66643007": ("Skin structure of back (body structure)", []),
     },
     "SkinStructureOfBackOfUpperThoracicRegion": {
-        "699893008": (
-            "Skin structure of back of upper thoracic region (body structure)",
-            [],
-        ),
+        "699893008": ("Skin structure of back of upper thoracic region (body structure)", []),
     },
     "SkinStructureOfButtock": {
         "22180002": ("Skin structure of buttock (body structure)", []),
@@ -29165,10 +25349,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "367578008": ("Skin structure of hypogastric region (body structure)", []),
     },
     "SkinStructureOfHypothenarRegionOfPalm": {
-        "89784008": (
-            "Skin structure of hypothenar region of palm (body structure)",
-            [],
-        ),
+        "89784008": ("Skin structure of hypothenar region of palm (body structure)", []),
     },
     "SkinStructureOfInfraclavicularRegion": {
         "66288003": ("Skin structure of infraclavicular region (body structure)", []),
@@ -29186,10 +25367,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128253009": ("Skin structure of labium minus (body structure)", []),
     },
     "SkinStructureOfLateralBorderOfSoleOfFoot": {
-        "35739000": (
-            "Skin structure of lateral border of sole of foot (body structure)",
-            [],
-        ),
+        "35739000": ("Skin structure of lateral border of sole of foot (body structure)", []),
     },
     "SkinStructureOfLateralCanthus": {
         "37671003": ("Skin structure of lateral canthus (body structure)", []),
@@ -29222,10 +25400,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "66934001": ("Skin structure of lower lip (body structure)", []),
     },
     "SkinStructureOfMedialBorderOfSoleOfFoot": {
-        "52953006": (
-            "Skin structure of medial border of sole of foot (body structure)",
-            [],
-        ),
+        "52953006": ("Skin structure of medial border of sole of foot (body structure)", []),
     },
     "SkinStructureOfMedialCanthus": {
         "27887005": ("Skin structure of medial canthus (body structure)", []),
@@ -29270,22 +25445,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "24483006": ("Skin structure of postauricular region (body structure)", []),
     },
     "SkinStructureOfPosteriorSurfaceOfForearm": {
-        "41550009": (
-            "Skin structure of posterior surface of forearm (body structure)",
-            [],
-        ),
+        "41550009": ("Skin structure of posterior surface of forearm (body structure)", []),
     },
     "SkinStructureOfPosteriorSurfaceOfThigh": {
-        "4578000": (
-            "Skin structure of posterior surface of thigh (body structure)",
-            [],
-        ),
+        "4578000": ("Skin structure of posterior surface of thigh (body structure)", []),
     },
     "SkinStructureOfPosteriorSurfaceOfUpperArm": {
-        "72939005": (
-            "Skin structure of posterior surface of upper arm (body structure)",
-            [],
-        ),
+        "72939005": ("Skin structure of posterior surface of upper arm (body structure)", []),
     },
     "SkinStructureOfPreauricularRegion": {
         "86719006": ("Skin structure of preauricular region (body structure)", []),
@@ -29300,10 +25466,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "81992007": ("Skin structure of scrotum (body structure)", []),
     },
     "SkinStructureOfSupraclavicularRegionOfNeck": {
-        "76072005": (
-            "Skin structure of supraclavicular region of neck (body structure)",
-            [],
-        ),
+        "76072005": ("Skin structure of supraclavicular region of neck (body structure)", []),
     },
     "SkinStructureOfTemporalRegion": {
         "16621002": ("Skin structure of temporal region (body structure)", []),
@@ -29339,37 +25502,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "54440003": ("Skin structure of upper trunk (body structure)", []),
     },
     "SkinThickeningOfBreast": {
-        "129797000": (
-            "Skin thickening of breast",
-            [6014, 6015, 6016, 6054, 6055, 6056],
-        ),
+        "129797000": ("Skin thickening of breast", [6014, 6015, 6016, 6054, 6055, 6056]),
     },
     "SkuddeSheepBreed": {
         "131799006": ("Skudde sheep breed", [7480]),
     },
     "Skull": {
-        "89546000": (
-            "Skull",
-            [
-                4,
-                1000,
-                1001,
-                1002,
-                4009,
-                4028,
-                4030,
-                4031,
-                4042,
-                7151,
-                7192,
-                7304,
-                7482,
-                7483,
-                8134,
-                9514,
-                12020,
-            ],
-        ),
+        "89546000": ("Skull", [4, 1000, 1001, 1002, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514, 12020]),
     },
     "SkyeTerrier": {
         "24299002": ("Skye terrier", [7480]),
@@ -29438,10 +25577,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "30315005": ("Small intestinal structure (body structure)", []),
     },
     "SmallIntestine": {
-        "30315005": (
-            "Small intestine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7154, 7192, 8134, 9514, 10044, 10060],
-        ),
+        "30315005": ("Small intestine", [4, 4009, 4030, 4031, 4042, 7151, 7154, 7192, 8134, 9514, 10044, 10060]),
     },
     "SmallMünsterländerDogBreed": {
         "132584007": ("Small Münsterländer dog breed", [7480]),
@@ -29804,43 +25940,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "27872000": ("Specimen freezing", [8113]),
     },
     "SpecimenFromBreastByIncisionalBiopsyOfBreastMass": {
-        "122739003": (
-            "specimen from breast by incisional biopsy of breast mass",
-            [8103, 8104],
-        ),
+        "122739003": ("specimen from breast by incisional biopsy of breast mass", [8103, 8104]),
     },
     "SpecimenFromBreastObtainedByCoreNeedleBiopsy": {
-        "122737001": (
-            "specimen from breast obtained by core needle biopsy",
-            [8103, 8104],
-        ),
+        "122737001": ("specimen from breast obtained by core needle biopsy", [8103, 8104]),
     },
     "SpecimenFromBreastObtainedByExcision": {
         "397199005": ("specimen from breast obtained by excision", [8103, 8104]),
     },
     "SpecimenFromBreastObtainedByImageGuidedCoreBiopsy": {
-        "373102004": (
-            "specimen from breast obtained by image guided core biopsy",
-            [8103, 8104],
-        ),
+        "373102004": ("specimen from breast obtained by image guided core biopsy", [8103, 8104]),
     },
     "SpecimenFromBreastObtainedByIncisionalBiopsyOfBreastMass": {
-        "122739003": (
-            "Specimen from breast obtained by incisional biopsy of breast mass (specimen)",
-            [],
-        ),
+        "122739003": ("Specimen from breast obtained by incisional biopsy of breast mass (specimen)", []),
     },
     "SpecimenFromBreastObtainedByTotalMastectomy": {
-        "122595009": (
-            "specimen from breast obtained by total mastectomy",
-            [8103, 8104],
-        ),
+        "122595009": ("specimen from breast obtained by total mastectomy", [8103, 8104]),
     },
     "SpecimenFromBreastStereotacticallyGuidedCoreNeedleBiopsy": {
-        "122738006": (
-            "specimen from breast, stereotactically guided core needle biopsy",
-            [8103, 8104],
-        ),
+        "122738006": ("specimen from breast, stereotactically guided core needle biopsy", [8103, 8104]),
     },
     "SpecimenMammography": {
         "80865008": ("Specimen mammography (procedure)", []),
@@ -29852,10 +25970,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "119295008": ("Specimen obtained by aspiration (specimen)", []),
     },
     "SpecimenObtainedFromBreastByStereotacticallyGuidedCoreNeedleBiopsy": {
-        "122738006": (
-            "Specimen obtained from breast by stereotactically guided core needle biopsy (specimen)",
-            [],
-        ),
+        "122738006": ("Specimen obtained from breast by stereotactically guided core needle biopsy (specimen)", []),
     },
     "SpecimenProcessing": {
         "9265001": ("Specimen processing", [8111]),
@@ -29912,10 +26027,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "61853006": ("Spinal canal structure (body structure)", []),
     },
     "SpinalCerebrospinalFluidPathway": {
-        "280401006": (
-            "Spinal cerebrospinal fluid pathway",
-            [7151, 7153, 7192, 8134, 9514],
-        ),
+        "280401006": ("Spinal cerebrospinal fluid pathway", [7151, 7153, 7192, 8134, 9514]),
     },
     "SpinalCord": {
         "2748008": ("Spinal cord", [4, 7151, 7153, 7192, 8134, 9514]),
@@ -29945,10 +26057,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "110451006": ("Spindle cell nodule (tumor)", [6030, 6033]),
     },
     "Spine": {
-        "421060004": (
-            "Spine",
-            [4, 4009, 4030, 4031, 4040, 4042, 6102, 6109, 6114, 7151, 7192, 8134, 9514],
-        ),
+        "421060004": ("Spine", [4, 4009, 4030, 4031, 4040, 4042, 6102, 6109, 6114, 7151, 7192, 8134, 9514]),
     },
     "SpinoneItalianoDogBreed": {
         "132638009": ("Spinone Italiano dog breed", [7480]),
@@ -29975,16 +26084,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133093007": ("Spiti horse breed", [7480]),
     },
     "Spleen": {
-        "78961009": (
-            "Spleen",
-            [4, 4030, 6202, 6204, 7151, 7154, 7192, 8134, 9514, 10044, 10060],
-        ),
+        "78961009": ("Spleen", [4, 4030, 6202, 6204, 7151, 7154, 7192, 8134, 9514, 10044, 10060]),
     },
     "SplenicArtery": {
-        "22083002": (
-            "Splenic artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "22083002": ("Splenic artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "SplenicFlexureOfColon": {
         "72592005": ("Splenic flexure of colon", [6210, 8134]),
@@ -29996,24 +26099,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "78961009": ("Splenic structure (body structure)", []),
     },
     "SplenicVein": {
-        "35819009": (
-            "Splenic vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12114,
-                12125,
-            ],
-        ),
+        "35819009": ("Splenic vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "SpleniumOfCorpusCallosum": {
         "23347006": ("splenium of corpus callosum", [7705, 7710, 8134]),
@@ -30043,10 +26129,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "28899001": ("Squamous cell carcinoma", [638, 639, 6030, 6033]),
     },
     "SquamousCellCarcinomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "28899001": (
-            "Squamous cell carcinoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "28899001": ("Squamous cell carcinoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "SquamousCellCarcinomaOfAnus": {
         "723265000": ("Squamous cell carcinoma of anus", [638, 639]),
@@ -30163,10 +26246,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "398201009": ("Start time (qualifier value)", []),
     },
     "StaticCatheterHemodynamicMeasurementMethodRegimeTherapy": {
-        "128578007": (
-            "Static catheter hemodynamic measurement method (regime/therapy)",
-            [],
-        ),
+        "128578007": ("Static catheter hemodynamic measurement method (regime/therapy)", []),
     },
     "StaticCatheterMethod": {
         "128578007": ("Static catheter method", [3241]),
@@ -30212,10 +26292,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "408716009": ("Stenotic Lesion Length", [3483]),
     },
     "Stent": {
-        "65818007": (
-            "Stent",
-            [8, 3411, 3429, 3496, 3810, 4051, 7111, 7151, 7157, 7193],
-        ),
+        "65818007": ("Stent", [8, 3411, 3429, 3496, 3810, 4051, 7111, 7151, 7157, 7193]),
     },
     "StentCrossSectionalArea": {
         "408705002": ("Stent Cross-Sectional Area", [3482]),
@@ -30263,42 +26340,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "244107007": ("Sternal skin", [4029, 8134]),
     },
     "SternoclavicularJoint": {
-        "7844006": (
-            "Sternoclavicular joint",
-            [4, 1000, 1001, 1004, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "7844006": ("Sternoclavicular joint", [4, 1000, 1001, 1004, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "SternoclavicularJointStructure": {
         "7844006": ("Sternoclavicular joint structure (body structure)", []),
     },
     "SternocleidomastoidMuscle": {
-        "22823000": (
-            "Sternocleidomastoid muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "22823000": ("Sternocleidomastoid muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "Sternum": {
-        "56873002": (
-            "Sternum",
-            [
-                4,
-                1000,
-                1001,
-                1004,
-                4009,
-                4030,
-                4031,
-                4042,
-                6102,
-                6109,
-                6114,
-                7151,
-                7155,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "56873002": ("Sternum", [4, 1000, 1001, 1004, 4009, 4030, 4031, 4042, 6102, 6109, 6114, 7151, 7155, 7192, 8134, 9514]),
     },
     "Steroid": {
         "116566001": ("Steroid", [621, 622]),
@@ -30310,10 +26361,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "116010006": ("Stifle joint (body structure)", []),
     },
     "Stomach": {
-        "69695003": (
-            "Stomach",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514, 10044, 10060],
-        ),
+        "69695003": ("Stomach", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514, 10044, 10060]),
     },
     "StomachStructure": {
         "69695003": ("Stomach structure (body structure)", []),
@@ -30346,53 +26394,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "309966001": ("Stroke", [7030]),
     },
     "StrokeIndex": {
-        "277381004": (
-            "Stroke Index",
-            [
-                12200,
-                12207,
-                12239,
-                12257,
-                12259,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-            ],
-        ),
+        "277381004": ("Stroke Index", [12200, 12207, 12239, 12257, 12259, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274]),
     },
     "StrokeUnit": {
         "309966001": ("Stroke unit (environment)", []),
     },
     "StrokeVolume": {
-        "90096001": (
-            "Stroke Volume",
-            [
-                3835,
-                12200,
-                12207,
-                12239,
-                12257,
-                12259,
-                12262,
-                12263,
-                12264,
-                12266,
-                12267,
-                12268,
-                12270,
-                12271,
-                12272,
-                12274,
-                12304,
-            ],
-        ),
+        "90096001": ("Stroke Volume", [3835, 12200, 12207, 12239, 12257, 12259, 12262, 12263, 12264, 12266, 12267, 12268, 12270, 12271, 12272, 12274, 12304]),
     },
     "StrongWoolMerinoSheepBreed": {
         "132720002": ("Strong Wool Merino sheep breed", [7480]),
@@ -30434,55 +26442,31 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128553008": ("Structure of antecubital vein (body structure)", []),
     },
     "StructureOfAnteriorApicalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716937001": (
-            "Structure of anterior apical part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716937001": ("Structure of anterior apical part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfAnteriorApicalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716936005": (
-            "Structure of anterior apical part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716936005": ("Structure of anterior apical part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfAnteriorApicalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716931000": (
-            "Structure of anterior apical part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716931000": ("Structure of anterior apical part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfAnteriorApicalPartOfTransitionZoneOfRightHalfProstate": {
-        "716930004": (
-            "Structure of anterior apical part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716930004": ("Structure of anterior apical part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfAnteriorAuricularLymphNode": {
         "25247006": ("Structure of anterior auricular lymph node (body structure)", []),
     },
     "StructureOfAnteriorBasalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716905002": (
-            "Structure of anterior basal part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716905002": ("Structure of anterior basal part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfAnteriorBasalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716904003": (
-            "Structure of anterior basal part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716904003": ("Structure of anterior basal part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfAnteriorBasalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716897000": (
-            "Structure of anterior basal part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716897000": ("Structure of anterior basal part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfAnteriorBasalPartOfTransitionZoneOfRightHalfProstate": {
-        "716896009": (
-            "Structure of anterior basal part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716896009": ("Structure of anterior basal part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfAnteriorCardiacVein": {
         "194996006": ("Structure of anterior cardiac vein (body structure)", []),
@@ -30500,64 +26484,34 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "8012006": ("Structure of anterior communicating artery (body structure)", []),
     },
     "StructureOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "59438005": (
-            "Structure of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "59438005": ("Structure of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfAnteriorFibromuscularStromaOfProstate": {
-        "717025007": (
-            "Structure of anterior fibromuscular stroma of prostate (body structure)",
-            [],
-        ),
+        "717025007": ("Structure of anterior fibromuscular stroma of prostate (body structure)", []),
     },
     "StructureOfAnteriorHornOfLateralVentricle": {
-        "30399003": (
-            "Structure of anterior horn of lateral ventricle (body structure)",
-            [],
-        ),
+        "30399003": ("Structure of anterior horn of lateral ventricle (body structure)", []),
     },
     "StructureOfAnteriorMediastinalLymphNode": {
-        "5296000": (
-            "Structure of anterior mediastinal lymph node (body structure)",
-            [],
-        ),
+        "5296000": ("Structure of anterior mediastinal lymph node (body structure)", []),
     },
     "StructureOfAnteriorMiddleRegionalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716920008": (
-            "Structure of anterior middle regional part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716920008": ("Structure of anterior middle regional part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfAnteriorMiddleRegionalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716919002": (
-            "Structure of anterior middle regional part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716919002": ("Structure of anterior middle regional part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfAnteriorMiddleRegionalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716914007": (
-            "Structure of anterior middle regional part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716914007": ("Structure of anterior middle regional part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfAnteriorMiddleRegionalPartOfTransitionZoneOfRightHalfProstate": {
-        "716913001": (
-            "Structure of anterior middle regional part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716913001": ("Structure of anterior middle regional part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfAnteriorSegmentOfRightUpperLobeOfLung": {
-        "39743006": (
-            "Structure of anterior segment of right upper lobe of lung (body structure)",
-            [],
-        ),
+        "39743006": ("Structure of anterior segment of right upper lobe of lung (body structure)", []),
     },
     "StructureOfAnteriorSegmentOfUpperDivisionOfLeftUpperLobeOfLung": {
-        "22270008": (
-            "Structure of anterior segment of upper division of left upper lobe of lung (body structure)",
-            [],
-        ),
+        "22270008": ("Structure of anterior segment of upper division of left upper lobe of lung (body structure)", []),
     },
     "StructureOfAnteriorSpinalArtery": {
         "17388009": ("Structure of anterior spinal artery (body structure)", []),
@@ -30575,22 +26529,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "77583004": ("Structure of anulus fibrosus of aorta (body structure)", []),
     },
     "StructureOfAnulusFibrosusOfMitralOrifice": {
-        "65197004": (
-            "Structure of anulus fibrosus of mitral orifice (body structure)",
-            [],
-        ),
+        "65197004": ("Structure of anulus fibrosus of mitral orifice (body structure)", []),
     },
     "StructureOfAnulusFibrosusOfPulmonaryArtery": {
-        "90318009": (
-            "Structure of anulus fibrosus of pulmonary artery (body structure)",
-            [],
-        ),
+        "90318009": ("Structure of anulus fibrosus of pulmonary artery (body structure)", []),
     },
     "StructureOfAnulusFibrosusOfTricuspidOrifice": {
-        "113259005": (
-            "Structure of anulus fibrosus of tricuspid orifice (body structure)",
-            [],
-        ),
+        "113259005": ("Structure of anulus fibrosus of tricuspid orifice (body structure)", []),
     },
     "StructureOfAorticBifurcation": {
         "73166001": ("Structure of aortic bifurcation (body structure)", []),
@@ -30620,46 +26565,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "16051009": ("Structure of apical axillary lymph node (body structure)", []),
     },
     "StructureOfApicalPartOfAnteriorFibromuscularStromaOfLeftHalfProstate": {
-        "716927006": (
-            "Structure of apical part of anterior fibromuscular stroma of left half prostate (body structure)",
-            [],
-        ),
+        "716927006": ("Structure of apical part of anterior fibromuscular stroma of left half prostate (body structure)", []),
     },
     "StructureOfApicalPartOfAnteriorFibromuscularStromaOfProstate": {
-        "716925003": (
-            "Structure of apical part of anterior fibromuscular stroma of prostate (body structure)",
-            [],
-        ),
+        "716925003": ("Structure of apical part of anterior fibromuscular stroma of prostate (body structure)", []),
     },
     "StructureOfApicalPartOfAnteriorFibromuscularStromaOfRightHalfProstate": {
-        "716926002": (
-            "Structure of apical part of anterior fibromuscular stroma of right half prostate (body structure)",
-            [],
-        ),
+        "716926002": ("Structure of apical part of anterior fibromuscular stroma of right half prostate (body structure)", []),
     },
     "StructureOfApicalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716935009": (
-            "Structure of apical part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716935009": ("Structure of apical part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfApicalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716934008": (
-            "Structure of apical part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716934008": ("Structure of apical part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfApicalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716929009": (
-            "Structure of apical part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716929009": ("Structure of apical part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfApicalPartOfTransitionZoneOfRightHalfProstate": {
-        "716928001": (
-            "Structure of apical part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716928001": ("Structure of apical part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfAppendicularLymphNode": {
         "46157003": ("Structure of appendicular lymph node (body structure)", []),
@@ -30689,19 +26613,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "195164009": ("Structure of atrial vein (body structure)", []),
     },
     "StructureOfAtrioventricularBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "75902001": (
-            "Structure of atrioventricular branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "75902001": ("Structure of atrioventricular branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfAtrioventricularNode": {
         "25943004": ("Structure of atrioventricular node (body structure)", []),
     },
     "StructureOfAtrioventricularNodeBranchOfRightCoronaryArtery": {
-        "12800002": (
-            "Structure of atrioventricular node branch of right coronary artery (body structure)",
-            [],
-        ),
+        "12800002": ("Structure of atrioventricular node branch of right coronary artery (body structure)", []),
     },
     "StructureOfAtrioventricularVein": {
         "195496005": ("Structure of atrioventricular vein (body structure)", []),
@@ -30722,46 +26640,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "72107004": ("Structure of azygous vein (body structure)", []),
     },
     "StructureOfBasalPartOfAnteriorFibromuscularStromaOfLeftHalfProstate": {
-        "716893001": (
-            "Structure of basal part of anterior fibromuscular stroma of left half prostate (body structure)",
-            [],
-        ),
+        "716893001": ("Structure of basal part of anterior fibromuscular stroma of left half prostate (body structure)", []),
     },
     "StructureOfBasalPartOfAnteriorFibromuscularStromaOfProstate": {
-        "716891004": (
-            "Structure of basal part of anterior fibromuscular stroma of prostate (body structure)",
-            [],
-        ),
+        "716891004": ("Structure of basal part of anterior fibromuscular stroma of prostate (body structure)", []),
     },
     "StructureOfBasalPartOfAnteriorFibromuscularStromaOfRightHalfProstate": {
-        "716892006": (
-            "Structure of basal part of anterior fibromuscular stroma of right half prostate (body structure)",
-            [],
-        ),
+        "716892006": ("Structure of basal part of anterior fibromuscular stroma of right half prostate (body structure)", []),
     },
     "StructureOfBasalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716903009": (
-            "Structure of basal part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716903009": ("Structure of basal part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfBasalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716902004": (
-            "Structure of basal part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716902004": ("Structure of basal part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfBasalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716895008": (
-            "Structure of basal part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716895008": ("Structure of basal part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfBasalPartOfTransitionZoneOfRightHalfProstate": {
-        "716894007": (
-            "Structure of basal part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716894007": ("Structure of basal part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfBasilarArtery": {
         "59011009": ("Structure of basilar artery (body structure)", []),
@@ -30803,10 +26700,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "2334006": ("Structure of calyx (body structure)", []),
     },
     "StructureOfCapillaryBloodVesselOrgan": {
-        "20982000": (
-            "Structure of capillary blood vessel (organ) (body structure)",
-            [],
-        ),
+        "20982000": ("Structure of capillary blood vessel (organ) (body structure)", []),
     },
     "StructureOfCardiacValveLeaflet": {
         "6530003": ("Structure of cardiac valve leaflet (body structure)", []),
@@ -30854,16 +26748,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "62869001": ("Structure of central vein of the retina (body structure)", []),
     },
     "StructureOfCentralZoneOfLeftHalfProstate": {
-        "716901006": (
-            "Structure of central zone of left half prostate (body structure)",
-            [],
-        ),
+        "716901006": ("Structure of central zone of left half prostate (body structure)", []),
     },
     "StructureOfCentralZoneOfRightHalfProstate": {
-        "716900007": (
-            "Structure of central zone of right half prostate (body structure)",
-            [],
-        ),
+        "716900007": ("Structure of central zone of right half prostate (body structure)", []),
     },
     "StructureOfCephalicVein": {
         "20699002": ("Structure of cephalic vein (body structure)", []),
@@ -30893,10 +26781,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "11279006": ("Structure of circle of Willis (body structure)", []),
     },
     "StructureOfCircumflexBranchOfLeftCoronaryArtery": {
-        "57396003": (
-            "Structure of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "57396003": ("Structure of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfCisternaMagna": {
         "54165005": ("Structure of cisterna magna (body structure)", []),
@@ -30905,10 +26790,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "75319007": ("Structure of clavicular notch of sternum (body structure)", []),
     },
     "StructureOfClinoidPortionOfInternalCarotidArtery": {
-        "415637004": (
-            "Structure of clinoid portion of internal carotid artery (body structure)",
-            [],
-        ),
+        "415637004": ("Structure of clinoid portion of internal carotid artery (body structure)", []),
     },
     "StructureOfColicLymphNode": {
         "8356004": ("Structure of colic lymph node (body structure)", []),
@@ -30941,10 +26823,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "15775008": ("Structure of corneal epithelium (body structure)", []),
     },
     "StructureOfCoronarySinusOfLeftAtrialSeptum": {
-        "31162003": (
-            "Structure of coronary sinus of left atrial septum (body structure)",
-            [],
-        ),
+        "31162003": ("Structure of coronary sinus of left atrial septum (body structure)", []),
     },
     "StructureOfCoronarySinusOstium": {
         "71271007": ("Structure of coronary sinus ostium (body structure)", []),
@@ -30965,139 +26844,73 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "280556009": ("Structure of cystic lymph node (body structure)", []),
     },
     "StructureOfDeciduousMandibularLeftCanineTooth": {
-        "43281008": (
-            "Structure of deciduous mandibular left canine tooth (body structure)",
-            [],
-        ),
+        "43281008": ("Structure of deciduous mandibular left canine tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularLeftCentralIncisorTooth": {
-        "89552004": (
-            "Structure of deciduous mandibular left central incisor tooth (body structure)",
-            [],
-        ),
+        "89552004": ("Structure of deciduous mandibular left central incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularLeftFirstMolarTooth": {
-        "38896004": (
-            "Structure of deciduous mandibular left first molar tooth (body structure)",
-            [],
-        ),
+        "38896004": ("Structure of deciduous mandibular left first molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularLeftLateralIncisorTooth": {
-        "14770005": (
-            "Structure of deciduous mandibular left lateral incisor tooth (body structure)",
-            [],
-        ),
+        "14770005": ("Structure of deciduous mandibular left lateral incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularLeftSecondMolarTooth": {
-        "49330006": (
-            "Structure of deciduous mandibular left second molar tooth (body structure)",
-            [],
-        ),
+        "49330006": ("Structure of deciduous mandibular left second molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularRightCanineTooth": {
-        "6062009": (
-            "Structure of deciduous mandibular right canine tooth (body structure)",
-            [],
-        ),
+        "6062009": ("Structure of deciduous mandibular right canine tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularRightCentralIncisorTooth": {
-        "67834006": (
-            "Structure of deciduous mandibular right central incisor tooth (body structure)",
-            [],
-        ),
+        "67834006": ("Structure of deciduous mandibular right central incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularRightFirstMolarTooth": {
-        "58646007": (
-            "Structure of deciduous mandibular right first molar tooth (body structure)",
-            [],
-        ),
+        "58646007": ("Structure of deciduous mandibular right first molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularRightLateralIncisorTooth": {
-        "22445006": (
-            "Structure of deciduous mandibular right lateral incisor tooth (body structure)",
-            [],
-        ),
+        "22445006": ("Structure of deciduous mandibular right lateral incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMandibularRightSecondMolarTooth": {
-        "61868007": (
-            "Structure of deciduous mandibular right second molar tooth (body structure)",
-            [],
-        ),
+        "61868007": ("Structure of deciduous mandibular right second molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryLeftCanineTooth": {
-        "73937000": (
-            "Structure of deciduous maxillary left canine tooth (body structure)",
-            [],
-        ),
+        "73937000": ("Structure of deciduous maxillary left canine tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryLeftCentralIncisorTooth": {
-        "51678005": (
-            "Structure of deciduous maxillary left central incisor tooth (body structure)",
-            [],
-        ),
+        "51678005": ("Structure of deciduous maxillary left central incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryLeftFirstMolarTooth": {
-        "45234009": (
-            "Structure of deciduous maxillary left first molar tooth (body structure)",
-            [],
-        ),
+        "45234009": ("Structure of deciduous maxillary left first molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryLeftLateralIncisorTooth": {
-        "43622005": (
-            "Structure of deciduous maxillary left lateral incisor tooth (body structure)",
-            [],
-        ),
+        "43622005": ("Structure of deciduous maxillary left lateral incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryLeftSecondMolarTooth": {
-        "51943008": (
-            "Structure of deciduous maxillary left second molar tooth (body structure)",
-            [],
-        ),
+        "51943008": ("Structure of deciduous maxillary left second molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryRightCanineTooth": {
-        "30618001": (
-            "Structure of deciduous maxillary right canine tooth (body structure)",
-            [],
-        ),
+        "30618001": ("Structure of deciduous maxillary right canine tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryRightCentralIncisorTooth": {
-        "88824007": (
-            "Structure of deciduous maxillary right central incisor tooth (body structure)",
-            [],
-        ),
+        "88824007": ("Structure of deciduous maxillary right central incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryRightFirstMolarTooth": {
-        "17505006": (
-            "Structure of deciduous maxillary right first molar tooth (body structure)",
-            [],
-        ),
+        "17505006": ("Structure of deciduous maxillary right first molar tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryRightLateralIncisorTooth": {
-        "65624003": (
-            "Structure of deciduous maxillary right lateral incisor tooth (body structure)",
-            [],
-        ),
+        "65624003": ("Structure of deciduous maxillary right lateral incisor tooth (body structure)", []),
     },
     "StructureOfDeciduousMaxillaryRightSecondMolarTooth": {
-        "27855007": (
-            "Structure of deciduous maxillary right second molar tooth (body structure)",
-            [],
-        ),
+        "27855007": ("Structure of deciduous maxillary right second molar tooth (body structure)", []),
     },
     "StructureOfDeepAnteriorCervicalLymphNode": {
-        "168360002": (
-            "Structure of deep anterior cervical lymph node (body structure)",
-            [],
-        ),
+        "168360002": ("Structure of deep anterior cervical lymph node (body structure)", []),
     },
     "StructureOfDeepInguinalLymphNode": {
         "65266007": ("Structure of deep inguinal lymph node (body structure)", []),
     },
     "StructureOfDeepLateralCervicalLymphNode": {
-        "167864002": (
-            "Structure of deep lateral cervical lymph node (body structure)",
-            [],
-        ),
+        "167864002": ("Structure of deep lateral cervical lymph node (body structure)", []),
     },
     "StructureOfDeepLymphNode": {
         "60996007": ("Structure of deep lymph node (body structure)", []),
@@ -31109,10 +26922,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "35721009": ("Structure of deep popliteal lymph node (body structure)", []),
     },
     "StructureOfDeepVolarArchOfRadialArtery": {
-        "10119003": (
-            "Structure of deep volar arch of radial artery (body structure)",
-            [],
-        ),
+        "10119003": ("Structure of deep volar arch of radial artery (body structure)", []),
     },
     "StructureOfDelphianLymphNode": {
         "167664004": ("Structure of delphian lymph node (body structure)", []),
@@ -31133,22 +26943,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "40254007": ("Structure of digital artery of hand (body structure)", []),
     },
     "StructureOfDistalPortionOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "36672000": (
-            "Structure of distal portion of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "36672000": ("Structure of distal portion of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfDistalPortionOfCircumflexBranchOfLeftCoronaryArtery": {
-        "6511003": (
-            "Structure of distal portion of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "6511003": ("Structure of distal portion of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfDistalPortionOfRightCoronaryArtery": {
-        "41879009": (
-            "Structure of distal portion of right coronary artery (body structure)",
-            [],
-        ),
+        "41879009": ("Structure of distal portion of right coronary artery (body structure)", []),
     },
     "StructureOfDorsalAspectOfScapula": {
         "51698000": ("Structure of dorsal aspect of scapula (body structure)", []),
@@ -31199,19 +27000,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "71585003": ("Structure of external jugular vein (body structure)", []),
     },
     "StructureOfExternalLimitingMembraneOfRetina": {
-        "76710003": (
-            "Structure of external limiting membrane of retina (body structure)",
-            [],
-        ),
+        "76710003": ("Structure of external limiting membrane of retina (body structure)", []),
     },
     "StructureOfExternalMammaryLymphNode": {
         "421988007": ("Structure of external mammary lymph node (body structure)", []),
     },
     "StructureOfExtrapulmonaryLymphNodeOfLung": {
-        "363537007": (
-            "Structure of extrapulmonary lymph node of lung (body structure)",
-            [],
-        ),
+        "363537007": ("Structure of extrapulmonary lymph node of lung (body structure)", []),
     },
     "StructureOfEyeProper": {
         "81745001": ("Structure of eye proper (body structure)", []),
@@ -31235,31 +27030,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "397411003": ("Structure of fifth lumbar artery (body structure)", []),
     },
     "StructureOfFirstDiagonalBranchOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "91750005": (
-            "Structure of first diagonal branch of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91750005": ("Structure of first diagonal branch of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfFirstLeftPosterolateralBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91757008": (
-            "Structure of first left posterolateral branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91757008": ("Structure of first left posterolateral branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfFirstLumbarArtery": {
         "397407009": ("Structure of first lumbar artery (body structure)", []),
     },
     "StructureOfFirstObtuseMarginalBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91754001": (
-            "Structure of first obtuse marginal branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91754001": ("Structure of first obtuse marginal branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfFirstRightPosterolateralBranchOfThePosteriorDescendingBranchOfRightCoronaryArtery": {
-        "91761002": (
-            "Structure of first right posterolateral branch of the posterior descending branch of right coronary artery (body structure)",
-            [],
-        ),
+        "91761002": ("Structure of first right posterolateral branch of the posterior descending branch of right coronary artery (body structure)", []),
     },
     "StructureOfFontanelOfSkull": {
         "79361005": ("Structure of fontanel of skull (body structure)", []),
@@ -31340,31 +27123,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "57651003": ("Structure of iliocostalis muscle (body structure)", []),
     },
     "StructureOfInferiorArticularProcessOfVertebra": {
-        "317766009": (
-            "Structure of inferior articular process of vertebra (body structure)",
-            [],
-        ),
+        "317766009": ("Structure of inferior articular process of vertebra (body structure)", []),
     },
     "StructureOfInferiorAuricularLymphNode": {
-        "155237005": (
-            "Structure of inferior auricular lymph node (body structure)",
-            [],
-        ),
+        "155237005": ("Structure of inferior auricular lymph node (body structure)", []),
     },
     "StructureOfInferiorFrontoOccipitalFasciculus": {
-        "35664009": (
-            "Structure of inferior fronto-occipital fasciculus (body structure)",
-            [],
-        ),
+        "35664009": ("Structure of inferior fronto-occipital fasciculus (body structure)", []),
     },
     "StructureOfInferiorGlutealLymphNode": {
         "40684008": ("Structure of inferior gluteal lymph node (body structure)", []),
     },
     "StructureOfInferiorHornOfLateralVentricle": {
-        "53118009": (
-            "Structure of inferior horn of lateral ventricle (body structure)",
-            [],
-        ),
+        "53118009": ("Structure of inferior horn of lateral ventricle (body structure)", []),
     },
     "StructureOfInferiorInguinalLymphNode": {
         "85380009": ("Structure of inferior inguinal lymph node (body structure)", []),
@@ -31373,55 +27144,34 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "51249003": ("Structure of inferior left pulmonary vein (body structure)", []),
     },
     "StructureOfInferiorLongitudinalFasciculus": {
-        "55233005": (
-            "Structure of inferior longitudinal fasciculus (body structure)",
-            [],
-        ),
+        "55233005": ("Structure of inferior longitudinal fasciculus (body structure)", []),
     },
     "StructureOfInferiorMesentericArtery": {
         "33795007": ("Structure of inferior mesenteric artery (body structure)", []),
     },
     "StructureOfInferiorMesentericLymphNode": {
-        "113336002": (
-            "Structure of inferior mesenteric lymph node (body structure)",
-            [],
-        ),
+        "113336002": ("Structure of inferior mesenteric lymph node (body structure)", []),
     },
     "StructureOfInferiorMesentericVein": {
         "32859001": ("Structure of inferior mesenteric vein (body structure)", []),
     },
     "StructureOfInferiorPancreaticLymphNode": {
-        "280915003": (
-            "Structure of inferior pancreatic lymph node (body structure)",
-            [],
-        ),
+        "280915003": ("Structure of inferior pancreatic lymph node (body structure)", []),
     },
     "StructureOfInferiorPancreaticoduodenalLymphNode": {
-        "281227003": (
-            "Structure of inferior pancreaticoduodenal lymph node (body structure)",
-            [],
-        ),
+        "281227003": ("Structure of inferior pancreaticoduodenal lymph node (body structure)", []),
     },
     "StructureOfInferiorPhrenicArtery": {
         "29660000": ("Structure of inferior phrenic artery (body structure)", []),
     },
     "StructureOfInferiorRightPulmonaryVein": {
-        "113273001": (
-            "Structure of inferior right pulmonary vein (body structure)",
-            [],
-        ),
+        "113273001": ("Structure of inferior right pulmonary vein (body structure)", []),
     },
     "StructureOfInflowTractOfLeftVentricle": {
-        "70238003": (
-            "Structure of inflow tract of left ventricle (body structure)",
-            [],
-        ),
+        "70238003": ("Structure of inflow tract of left ventricle (body structure)", []),
     },
     "StructureOfInflowTractOfRightVentricle": {
-        "8017000": (
-            "Structure of inflow tract of right ventricle (body structure)",
-            [],
-        ),
+        "8017000": ("Structure of inflow tract of right ventricle (body structure)", []),
     },
     "StructureOfInfrarenalAorta": {
         "28205006": ("Structure of infrarenal aorta (body structure)", []),
@@ -31442,22 +27192,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "274143007": ("Structure of interlobar artery of kidney (body structure)", []),
     },
     "StructureOfInterlobularArteryOfKidney": {
-        "274329007": (
-            "Structure of interlobular artery of kidney (body structure)",
-            [],
-        ),
+        "274329007": ("Structure of interlobular artery of kidney (body structure)", []),
     },
     "StructureOfIntermediateCommonIliacLymphNode": {
-        "64556009": (
-            "Structure of intermediate common iliac lymph node (body structure)",
-            [],
-        ),
+        "64556009": ("Structure of intermediate common iliac lymph node (body structure)", []),
     },
     "StructureOfInternalAcousticMeatusOfTemporalBone": {
-        "61671002": (
-            "Structure of internal acoustic meatus of temporal bone (body structure)",
-            [],
-        ),
+        "61671002": ("Structure of internal acoustic meatus of temporal bone (body structure)", []),
     },
     "StructureOfInternalIliacArtery": {
         "90024005": ("Structure of internal iliac artery (body structure)", []),
@@ -31481,10 +27222,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128320002": ("Structure of intracranial vein (body structure)", []),
     },
     "StructureOfIntraglandularParotidLymphNode": {
-        "143824007": (
-            "Structure of intraglandular parotid lymph node (body structure)",
-            [],
-        ),
+        "143824007": ("Structure of intraglandular parotid lymph node (body structure)", []),
     },
     "StructureOfIntramammaryLymphNode": {
         "443808008": ("Structure of intramammary lymph node (body structure)", []),
@@ -31520,49 +27258,31 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "68915008": ("Structure of lateral cervical lymph node (body structure)", []),
     },
     "StructureOfLateralCommonIliacLymphNode": {
-        "41145006": (
-            "Structure of lateral common iliac lymph node (body structure)",
-            [],
-        ),
+        "41145006": ("Structure of lateral common iliac lymph node (body structure)", []),
     },
     "StructureOfLateralCorticospinalTract": {
         "461002": ("Structure of lateral corticospinal tract (body structure)", []),
     },
     "StructureOfLateralExternalIliacLymphNode": {
-        "40242007": (
-            "Structure of lateral external iliac lymph node (body structure)",
-            [],
-        ),
+        "40242007": ("Structure of lateral external iliac lymph node (body structure)", []),
     },
     "StructureOfLateralJugularLymphNode": {
         "168159002": ("Structure of lateral jugular lymph node (body structure)", []),
     },
     "StructureOfLateralMiddleRegionalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716918005": (
-            "Structure of lateral middle regional part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716918005": ("Structure of lateral middle regional part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfLateralMiddleRegionalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716917000": (
-            "Structure of lateral middle regional part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716917000": ("Structure of lateral middle regional part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfLateralPericardialLymphNode": {
-        "196587000": (
-            "Structure of lateral pericardial lymph node (body structure)",
-            [],
-        ),
+        "196587000": ("Structure of lateral pericardial lymph node (body structure)", []),
     },
     "StructureOfLateralPlantarArtery": {
         "44830000": ("Structure of lateral plantar artery (body structure)", []),
     },
     "StructureOfLateralRetropharyngealLymphNode": {
-        "167464007": (
-            "Structure of lateral retropharyngeal lymph node (body structure)",
-            [],
-        ),
+        "167464007": ("Structure of lateral retropharyngeal lymph node (body structure)", []),
     },
     "StructureOfLateralVesicularLymphNode": {
         "278672000": ("Structure of lateral vesicular lymph node (body structure)", []),
@@ -31571,10 +27291,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "15665001": ("Structure of latissimus dorsi muscle (body structure)", []),
     },
     "StructureOfLeftAnteriorDivisionOfLeftBranchOfAtrioventricularBundle": {
-        "84654008": (
-            "Structure of left anterior division of left branch of atrioventricular bundle (body structure)",
-            [],
-        ),
+        "84654008": ("Structure of left anterior division of left branch of atrioventricular bundle (body structure)", []),
     },
     "StructureOfLeftAuricularAppendage": {
         "33626005": ("Structure of left auricular appendage (body structure)", []),
@@ -31601,28 +27318,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "79163004": ("Structure of left lobe of thyroid gland (body structure)", []),
     },
     "StructureOfLeftLowerQuadrantOfAbdomen": {
-        "68505006": (
-            "Structure of left lower quadrant of abdomen (body structure)",
-            [],
-        ),
+        "68505006": ("Structure of left lower quadrant of abdomen (body structure)", []),
     },
     "StructureOfLeftMainBranchOfPortalVein": {
-        "70253006": (
-            "Structure of left main branch of portal vein (body structure)",
-            [],
-        ),
+        "70253006": ("Structure of left main branch of portal vein (body structure)", []),
     },
     "StructureOfLeftPosteriorDivisionOfLeftBranchOfAtrioventricularBundle": {
-        "91085002": (
-            "Structure of left posterior division of left branch of atrioventricular bundle (body structure)",
-            [],
-        ),
+        "91085002": ("Structure of left posterior division of left branch of atrioventricular bundle (body structure)", []),
     },
     "StructureOfLeftPosteriorLateralBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "57823005": (
-            "Structure of left posterior lateral branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "57823005": ("Structure of left posterior lateral branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfLeftPulmonaryArtery": {
         "50408007": ("Structure of left pulmonary artery (body structure)", []),
@@ -31640,10 +27345,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "85235006": ("Structure of left subclavian artery (body structure)", []),
     },
     "StructureOfLeftUpperQuadrantOfAbdomen": {
-        "86367003": (
-            "Structure of left upper quadrant of abdomen (body structure)",
-            [],
-        ),
+        "86367003": ("Structure of left upper quadrant of abdomen (body structure)", []),
     },
     "StructureOfLensOfEye": {
         "78076003": ("Structure of lens of eye (body structure)", []),
@@ -31682,19 +27384,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128594000": ("Structure of low right atrium (body structure)", []),
     },
     "StructureOfLowerInnerQuadrantOfBreast": {
-        "19100000": (
-            "Structure of lower inner quadrant of breast (body structure)",
-            [],
-        ),
+        "19100000": ("Structure of lower inner quadrant of breast (body structure)", []),
     },
     "StructureOfLowerLobeOfLung": {
         "90572001": ("Structure of lower lobe of lung (body structure)", []),
     },
     "StructureOfLowerOuterQuadrantOfBreast": {
-        "33564002": (
-            "Structure of lower outer quadrant of breast (body structure)",
-            [],
-        ),
+        "33564002": ("Structure of lower outer quadrant of breast (body structure)", []),
     },
     "StructureOfLumbarArtery": {
         "34635009": ("Structure of lumbar artery (body structure)", []),
@@ -31712,16 +27408,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "59441001": ("Structure of lymph node (body structure)", []),
     },
     "StructureOfLymphNodeOfEpiploicForamen": {
-        "68878000": (
-            "Structure of lymph node of epiploic foramen (body structure)",
-            [],
-        ),
+        "68878000": ("Structure of lymph node of epiploic foramen (body structure)", []),
     },
     "StructureOfLymphNodeOfGreaterCurvatureOfStomach": {
-        "76878005": (
-            "Structure of lymph node of greater curvature of stomach (body structure)",
-            [],
-        ),
+        "76878005": ("Structure of lymph node of greater curvature of stomach (body structure)", []),
     },
     "StructureOfLymphNodeOfHead": {
         "13482005": ("Structure of lymph node of head (body structure)", []),
@@ -31730,10 +27420,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "312501005": ("Structure of lymph node of head and neck (body structure)", []),
     },
     "StructureOfLymphNodeOfLesserCurvatureOfStomach": {
-        "279784003": (
-            "Structure of lymph node of lesser curvature of stomach (body structure)",
-            [],
-        ),
+        "279784003": ("Structure of lymph node of lesser curvature of stomach (body structure)", []),
     },
     "StructureOfLymphNodeOfMesentery": {
         "279795009": ("Structure of lymph node of mesentery (body structure)", []),
@@ -31742,10 +27429,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "47109002": ("Structure of lymph node of thorax (body structure)", []),
     },
     "StructureOfLymphNodeRingOfCardiaOfStomach": {
-        "279866008": (
-            "Structure of lymph node ring of cardia of stomach (body structure)",
-            [],
-        ),
+        "279866008": ("Structure of lymph node ring of cardia of stomach (body structure)", []),
     },
     "StructureOfLymphaticSystem": {
         "89890002": ("Structure of lymphatic system (body structure)", []),
@@ -31754,10 +27438,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "83555006": ("Structure of lymphatic vessel (body structure)", []),
     },
     "StructureOfMaleExternalUrethralSphincter": {
-        "717027004": (
-            "Structure of male external urethral sphincter (body structure)",
-            [],
-        ),
+        "717027004": ("Structure of male external urethral sphincter (body structure)", []),
     },
     "StructureOfMandibularIncisorTooth": {
         "442274007": ("Structure of mandibular incisor tooth (body structure)", []),
@@ -31766,46 +27447,25 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "39844006": ("Structure of mandibular left canine tooth (body structure)", []),
     },
     "StructureOfMandibularLeftCentralIncisorTooth": {
-        "113278005": (
-            "Structure of mandibular left central incisor tooth (body structure)",
-            [],
-        ),
+        "113278005": ("Structure of mandibular left central incisor tooth (body structure)", []),
     },
     "StructureOfMandibularLeftFirstMolarTooth": {
-        "89625000": (
-            "Structure of mandibular left first molar tooth (body structure)",
-            [],
-        ),
+        "89625000": ("Structure of mandibular left first molar tooth (body structure)", []),
     },
     "StructureOfMandibularLeftFirstPremolarTooth": {
-        "2400006": (
-            "Structure of mandibular left first premolar tooth (body structure)",
-            [],
-        ),
+        "2400006": ("Structure of mandibular left first premolar tooth (body structure)", []),
     },
     "StructureOfMandibularLeftLateralIncisorTooth": {
-        "77130001": (
-            "Structure of mandibular left lateral incisor tooth (body structure)",
-            [],
-        ),
+        "77130001": ("Structure of mandibular left lateral incisor tooth (body structure)", []),
     },
     "StructureOfMandibularLeftSecondMolarTooth": {
-        "48402004": (
-            "Structure of mandibular left second molar tooth (body structure)",
-            [],
-        ),
+        "48402004": ("Structure of mandibular left second molar tooth (body structure)", []),
     },
     "StructureOfMandibularLeftSecondPremolarTooth": {
-        "24573005": (
-            "Structure of mandibular left second premolar tooth (body structure)",
-            [],
-        ),
+        "24573005": ("Structure of mandibular left second premolar tooth (body structure)", []),
     },
     "StructureOfMandibularLeftThirdMolarTooth": {
-        "74344005": (
-            "Structure of mandibular left third molar tooth (body structure)",
-            [],
-        ),
+        "74344005": ("Structure of mandibular left third molar tooth (body structure)", []),
     },
     "StructureOfMandibularLymphNode": {
         "155338003": ("Structure of mandibular lymph node (body structure)", []),
@@ -31814,52 +27474,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "47055002": ("Structure of mandibular right canine tooth (body structure)", []),
     },
     "StructureOfMandibularRightCentralIncisorTooth": {
-        "15422005": (
-            "Structure of mandibular right central incisor tooth (body structure)",
-            [],
-        ),
+        "15422005": ("Structure of mandibular right central incisor tooth (body structure)", []),
     },
     "StructureOfMandibularRightFirstMolarTooth": {
-        "28480000": (
-            "Structure of mandibular right first molar tooth (body structure)",
-            [],
-        ),
+        "28480000": ("Structure of mandibular right first molar tooth (body structure)", []),
     },
     "StructureOfMandibularRightFirstPremolarTooth": {
-        "80140008": (
-            "Structure of mandibular right first premolar tooth (body structure)",
-            [],
-        ),
+        "80140008": ("Structure of mandibular right first premolar tooth (body structure)", []),
     },
     "StructureOfMandibularRightLateralIncisorTooth": {
-        "82628004": (
-            "Structure of mandibular right lateral incisor tooth (body structure)",
-            [],
-        ),
+        "82628004": ("Structure of mandibular right lateral incisor tooth (body structure)", []),
     },
     "StructureOfMandibularRightSecondMolarTooth": {
-        "40005008": (
-            "Structure of mandibular right second molar tooth (body structure)",
-            [],
-        ),
+        "40005008": ("Structure of mandibular right second molar tooth (body structure)", []),
     },
     "StructureOfMandibularRightSecondPremolarTooth": {
-        "8873007": (
-            "Structure of mandibular right second premolar tooth (body structure)",
-            [],
-        ),
+        "8873007": ("Structure of mandibular right second premolar tooth (body structure)", []),
     },
     "StructureOfMandibularRightThirdMolarTooth": {
-        "38994002": (
-            "Structure of mandibular right third molar tooth (body structure)",
-            [],
-        ),
+        "38994002": ("Structure of mandibular right third molar tooth (body structure)", []),
     },
     "StructureOfMarginalBranchOfRightCoronaryArtery": {
-        "22765000": (
-            "Structure of marginal branch of right coronary artery (body structure)",
-            [],
-        ),
+        "22765000": ("Structure of marginal branch of right coronary artery (body structure)", []),
     },
     "StructureOfMaxillaryIncisorTooth": {
         "442100006": ("Structure of maxillary incisor tooth (body structure)", []),
@@ -31868,103 +27504,55 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "72876007": ("Structure of maxillary left canine tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftCentralIncisorTooth": {
-        "31982000": (
-            "Structure of maxillary left central incisor tooth (body structure)",
-            [],
-        ),
+        "31982000": ("Structure of maxillary left central incisor tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftFirstMolarTooth": {
-        "23427002": (
-            "Structure of maxillary left first molar tooth (body structure)",
-            [],
-        ),
+        "23427002": ("Structure of maxillary left first molar tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftFirstPremolarTooth": {
-        "61897005": (
-            "Structure of maxillary left first premolar tooth (body structure)",
-            [],
-        ),
+        "61897005": ("Structure of maxillary left first premolar tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftLateralIncisorTooth": {
-        "25748002": (
-            "Structure of maxillary left lateral incisor tooth (body structure)",
-            [],
-        ),
+        "25748002": ("Structure of maxillary left lateral incisor tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftSecondMolarTooth": {
-        "66303006": (
-            "Structure of maxillary left second molar tooth (body structure)",
-            [],
-        ),
+        "66303006": ("Structure of maxillary left second molar tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftSecondPremolarTooth": {
-        "23226009": (
-            "Structure of maxillary left second premolar tooth (body structure)",
-            [],
-        ),
+        "23226009": ("Structure of maxillary left second premolar tooth (body structure)", []),
     },
     "StructureOfMaxillaryLeftThirdMolarTooth": {
-        "87704003": (
-            "Structure of maxillary left third molar tooth (body structure)",
-            [],
-        ),
+        "87704003": ("Structure of maxillary left third molar tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightCanineTooth": {
         "80647007": ("Structure of maxillary right canine tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightCentralIncisorTooth": {
-        "22120004": (
-            "Structure of maxillary right central incisor tooth (body structure)",
-            [],
-        ),
+        "22120004": ("Structure of maxillary right central incisor tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightFirstMolarTooth": {
-        "5140004": (
-            "Structure of maxillary right first molar tooth (body structure)",
-            [],
-        ),
+        "5140004": ("Structure of maxillary right first molar tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightFirstPremolarTooth": {
-        "57826002": (
-            "Structure of maxillary right first premolar tooth (body structure)",
-            [],
-        ),
+        "57826002": ("Structure of maxillary right first premolar tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightLateralIncisorTooth": {
-        "11712009": (
-            "Structure of maxillary right lateral incisor tooth (body structure)",
-            [],
-        ),
+        "11712009": ("Structure of maxillary right lateral incisor tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightSecondMolarTooth": {
-        "7121006": (
-            "Structure of maxillary right second molar tooth (body structure)",
-            [],
-        ),
+        "7121006": ("Structure of maxillary right second molar tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightSecondPremolarTooth": {
-        "36492000": (
-            "Structure of maxillary right second premolar tooth (body structure)",
-            [],
-        ),
+        "36492000": ("Structure of maxillary right second premolar tooth (body structure)", []),
     },
     "StructureOfMaxillaryRightThirdMolarTooth": {
-        "68085002": (
-            "Structure of maxillary right third molar tooth (body structure)",
-            [],
-        ),
+        "68085002": ("Structure of maxillary right third molar tooth (body structure)", []),
     },
     "StructureOfMedialCommonIliacLymphNode": {
-        "34625003": (
-            "Structure of medial common iliac lymph node (body structure)",
-            [],
-        ),
+        "34625003": ("Structure of medial common iliac lymph node (body structure)", []),
     },
     "StructureOfMedialExternalIliacLymphNode": {
-        "42472007": (
-            "Structure of medial external iliac lymph node (body structure)",
-            [],
-        ),
+        "42472007": ("Structure of medial external iliac lymph node (body structure)", []),
     },
     "StructureOfMedialLacunarLymphNode": {
         "23198005": ("Structure of medial lacunar lymph node (body structure)", []),
@@ -31976,10 +27564,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "49852007": ("Structure of median cubital vein (body structure)", []),
     },
     "StructureOfMedianRetropharyngealLymphNode": {
-        "167364008": (
-            "Structure of median retropharyngeal lymph node (body structure)",
-            [],
-        ),
+        "167364008": ("Structure of median retropharyngeal lymph node (body structure)", []),
     },
     "StructureOfMesentericArtery": {
         "86570000": ("Structure of mesenteric artery (body structure)", []),
@@ -31991,22 +27576,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128583004": ("Structure of mesenteric vein (body structure)", []),
     },
     "StructureOfMidPortionOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "91748002": (
-            "Structure of mid portion of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91748002": ("Structure of mid portion of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfMidPortionOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91753007": (
-            "Structure of mid portion of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91753007": ("Structure of mid portion of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfMidPortionOfRightCoronaryArtery": {
-        "450960006": (
-            "Structure of mid portion of right coronary artery (body structure)",
-            [],
-        ),
+        "450960006": ("Structure of mid portion of right coronary artery (body structure)", []),
     },
     "StructureOfMidRightAtrium": {
         "128593006": ("Structure of mid right atrium (body structure)", []),
@@ -32033,40 +27609,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "72481006": ("Structure of middle lobe of right lung (body structure)", []),
     },
     "StructureOfMiddleRegionalPartOfAnteriorFibromuscularStromaOfLeftHalfProstate": {
-        "716910003": (
-            "Structure of middle regional part of anterior fibromuscular stroma of left half prostate (body structure)",
-            [],
-        ),
+        "716910003": ("Structure of middle regional part of anterior fibromuscular stroma of left half prostate (body structure)", []),
     },
     "StructureOfMiddleRegionalPartOfAnteriorFibromuscularStromaOfProstate": {
-        "716908000": (
-            "Structure of middle regional part of anterior fibromuscular stroma of prostate (body structure)",
-            [],
-        ),
+        "716908000": ("Structure of middle regional part of anterior fibromuscular stroma of prostate (body structure)", []),
     },
     "StructureOfMiddleRegionalPartOfAnteriorFibromuscularStromaOfRightHalfProstate": {
-        "716909008": (
-            "Structure of middle regional part of anterior fibromuscular stroma of right half prostate (body structure)",
-            [],
-        ),
+        "716909008": ("Structure of middle regional part of anterior fibromuscular stroma of right half prostate (body structure)", []),
     },
     "StructureOfMiddleRegionalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716912006": (
-            "Structure of middle regional part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716912006": ("Structure of middle regional part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfMiddleRegionalPartOfTransitionZoneOfRightHalfProstate": {
-        "716911004": (
-            "Structure of middle regional part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716911004": ("Structure of middle regional part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfMucousMembraneOfFloorOfMouth": {
-        "36152006": (
-            "Structure of mucous membrane of floor of mouth (body structure)",
-            [],
-        ),
+        "36152006": ("Structure of mucous membrane of floor of mouth (body structure)", []),
     },
     "StructureOfMucousMembraneOfLowerLip": {
         "46353006": ("Structure of mucous membrane of lower lip (body structure)", []),
@@ -32078,34 +27636,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "18444004": ("Structure of mucous membrane of upper lip (body structure)", []),
     },
     "StructureOfMyocardiumOfAnterolateralRegion": {
-        "73050001": (
-            "Structure of myocardium of anterolateral region (body structure)",
-            [],
-        ),
+        "73050001": ("Structure of myocardium of anterolateral region (body structure)", []),
     },
     "StructureOfMyocardiumOfApexOfHeart": {
         "47962008": ("Structure of myocardium of apex of heart (body structure)", []),
     },
     "StructureOfMyocardiumOfDiaphragmaticRegion": {
-        "72542009": (
-            "Structure of myocardium of diaphragmatic region (body structure)",
-            [],
-        ),
+        "72542009": ("Structure of myocardium of diaphragmatic region (body structure)", []),
     },
     "StructureOfMyocardiumOfInferolateralRegion": {
-        "16239001": (
-            "Structure of myocardium of inferolateral region (body structure)",
-            [],
-        ),
+        "16239001": ("Structure of myocardium of inferolateral region (body structure)", []),
     },
     "StructureOfMyocardiumOfLeftVentricle": {
         "49848007": ("Structure of myocardium of left ventricle (body structure)", []),
     },
     "StructureOfMyocardiumOfPosterolateralRegion": {
-        "33272004": (
-            "Structure of myocardium of posterolateral region (body structure)",
-            [],
-        ),
+        "33272004": ("Structure of myocardium of posterolateral region (body structure)", []),
     },
     "StructureOfNasolabialLymphNode": {
         "144026003": ("Structure of nasolabial lymph node (body structure)", []),
@@ -32135,10 +27681,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "53549008": ("Structure of ophthalmic artery (body structure)", []),
     },
     "StructureOfOphthalmicSegmentOfInternalCarotidArtery": {
-        "698348000": (
-            "Structure of ophthalmic segment of internal carotid artery (body structure)",
-            [],
-        ),
+        "698348000": ("Structure of ophthalmic segment of internal carotid artery (body structure)", []),
     },
     "StructureOfOpticRadiation": {
         "70105001": ("Structure of optic radiation (body structure)", []),
@@ -32147,28 +27690,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "363654007": ("Structure of orbit proper (body structure)", []),
     },
     "StructureOfOstiumOfLeftCoronaryArtery": {
-        "76862008": (
-            "Structure of ostium of left coronary artery (body structure)",
-            [],
-        ),
+        "76862008": ("Structure of ostium of left coronary artery (body structure)", []),
     },
     "StructureOfOstiumOfRightCoronaryArtery": {
-        "56789007": (
-            "Structure of ostium of right coronary artery (body structure)",
-            [],
-        ),
+        "56789007": ("Structure of ostium of right coronary artery (body structure)", []),
     },
     "StructureOfOutflowTractOfLeftVentricle": {
-        "13418002": (
-            "Structure of outflow tract of left ventricle (body structure)",
-            [],
-        ),
+        "13418002": ("Structure of outflow tract of left ventricle (body structure)", []),
     },
     "StructureOfOutflowTractOfRightVentricle": {
-        "44627009": (
-            "Structure of outflow tract of right ventricle (body structure)",
-            [],
-        ),
+        "44627009": ("Structure of outflow tract of right ventricle (body structure)", []),
     },
     "StructureOfOvarianArtery": {
         "12052000": ("Structure of ovarian artery (body structure)", []),
@@ -32180,10 +27711,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "77778009": ("Structure of pancreatic lymph node (body structure)", []),
     },
     "StructureOfPancreaticoduodenalLymphNode": {
-        "76659008": (
-            "Structure of pancreaticoduodenal lymph node (body structure)",
-            [],
-        ),
+        "76659008": ("Structure of pancreaticoduodenal lymph node (body structure)", []),
     },
     "StructureOfPancreaticosplenicLymphNode": {
         "16050005": ("Structure of pancreaticosplenic lymph node (body structure)", []),
@@ -32231,10 +27759,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "3924000": ("Structure of pericardiophrenic artery (body structure)", []),
     },
     "StructureOfPeripheralGlandularZoneOfProstate": {
-        "279706003": (
-            "Structure of peripheral glandular zone of prostate (body structure)",
-            [],
-        ),
+        "279706003": ("Structure of peripheral glandular zone of prostate (body structure)", []),
     },
     "StructureOfPeronealArtery": {
         "8821006": ("Structure of peroneal artery (body structure)", []),
@@ -32258,91 +27783,49 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "56849005": ("Structure of popliteal vein (body structure)", []),
     },
     "StructureOfPostductalRegionOfAorticArch": {
-        "60835009": (
-            "Structure of postductal region of aortic arch (body structure)",
-            [],
-        ),
+        "60835009": ("Structure of postductal region of aortic arch (body structure)", []),
     },
     "StructureOfPosteriorApicalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716933002": (
-            "Structure of posterior apical part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716933002": ("Structure of posterior apical part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfPosteriorApicalPartOfTransitionZoneOfRightHalfProstate": {
-        "716932007": (
-            "Structure of posterior apical part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716932007": ("Structure of posterior apical part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfPosteriorBasalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716899002": (
-            "Structure of posterior basal part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716899002": ("Structure of posterior basal part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfPosteriorBasalPartOfTransitionZoneOfRightHalfProstate": {
-        "716898005": (
-            "Structure of posterior basal part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716898005": ("Structure of posterior basal part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfPosteriorCerebralArtery": {
         "70382005": ("Structure of posterior cerebral artery (body structure)", []),
     },
     "StructureOfPosteriorCommissureOfLabiaMajora": {
-        "4019005": (
-            "Structure of posterior commissure of labia majora (body structure)",
-            [],
-        ),
+        "4019005": ("Structure of posterior commissure of labia majora (body structure)", []),
     },
     "StructureOfPosteriorCommunicatingArtery": {
-        "43119007": (
-            "Structure of posterior communicating artery (body structure)",
-            [],
-        ),
+        "43119007": ("Structure of posterior communicating artery (body structure)", []),
     },
     "StructureOfPosteriorDescendingBranchOfRightCoronaryArtery": {
-        "53655008": (
-            "Structure of posterior descending branch of right coronary artery (body structure)",
-            [],
-        ),
+        "53655008": ("Structure of posterior descending branch of right coronary artery (body structure)", []),
     },
     "StructureOfPosteriorDescendingCoronaryArtery": {
-        "443113009": (
-            "Structure of posterior descending coronary artery (body structure)",
-            [],
-        ),
+        "443113009": ("Structure of posterior descending coronary artery (body structure)", []),
     },
     "StructureOfPosteriorHornOfLateralVentricle": {
-        "52943005": (
-            "Structure of posterior horn of lateral ventricle (body structure)",
-            [],
-        ),
+        "52943005": ("Structure of posterior horn of lateral ventricle (body structure)", []),
     },
     "StructureOfPosteriorMediastinalLymphNode": {
-        "25447008": (
-            "Structure of posterior mediastinal lymph node (body structure)",
-            [],
-        ),
+        "25447008": ("Structure of posterior mediastinal lymph node (body structure)", []),
     },
     "StructureOfPosteriorMiddleRegionalPartOfTransitionZoneOfLeftHalfProstate": {
-        "716916009": (
-            "Structure of posterior middle regional part of transition zone of left half prostate (body structure)",
-            [],
-        ),
+        "716916009": ("Structure of posterior middle regional part of transition zone of left half prostate (body structure)", []),
     },
     "StructureOfPosteriorMiddleRegionalPartOfTransitionZoneOfRightHalfProstate": {
-        "716915008": (
-            "Structure of posterior middle regional part of transition zone of right half prostate (body structure)",
-            [],
-        ),
+        "716915008": ("Structure of posterior middle regional part of transition zone of right half prostate (body structure)", []),
     },
     "StructureOfPosteriorSegmentOfRightUpperLobeOfLung": {
-        "3236000": (
-            "Structure of posterior segment of right upper lobe of lung (body structure)",
-            [],
-        ),
+        "3236000": ("Structure of posterior segment of right upper lobe of lung (body structure)", []),
     },
     "StructureOfPosteriorSinusOfValsalva": {
         "24865005": ("Structure of posterior sinus of Valsalva (body structure)", []),
@@ -32357,70 +27840,37 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "4258007": ("Structure of posterior tibial vein (body structure)", []),
     },
     "StructureOfPosteriorVeinOfLeftVentricle": {
-        "195416006": (
-            "Structure of posterior vein of left ventricle (body structure)",
-            [],
-        ),
+        "195416006": ("Structure of posterior vein of left ventricle (body structure)", []),
     },
     "StructureOfPosterolateralApicalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716939003": (
-            "Structure of posterolateral apical part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716939003": ("Structure of posterolateral apical part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfPosterolateralApicalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716938006": (
-            "Structure of posterolateral apical part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716938006": ("Structure of posterolateral apical part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfPosterolateralBasalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716907005": (
-            "Structure of posterolateral basal part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716907005": ("Structure of posterolateral basal part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfPosterolateralBasalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716906001": (
-            "Structure of posterolateral basal part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716906001": ("Structure of posterolateral basal part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfPosterolateralMiddleRegionalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716922000": (
-            "Structure of posterolateral middle regional part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716922000": ("Structure of posterolateral middle regional part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfPosterolateralMiddleRegionalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716921007": (
-            "Structure of posterolateral middle regional part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716921007": ("Structure of posterolateral middle regional part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfPosteromedialApicalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716941002": (
-            "Structure of posteromedial apical part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716941002": ("Structure of posteromedial apical part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfPosteromedialApicalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716940001": (
-            "Structure of posteromedial apical part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716940001": ("Structure of posteromedial apical part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfPosteromedialMiddleRegionalPartOfPeripheralZoneOfLeftHalfProstate": {
-        "716924004": (
-            "Structure of posteromedial middle regional part of peripheral zone of left half prostate (body structure)",
-            [],
-        ),
+        "716924004": ("Structure of posteromedial middle regional part of peripheral zone of left half prostate (body structure)", []),
     },
     "StructureOfPosteromedialMiddleRegionalPartOfPeripheralZoneOfRightHalfProstate": {
-        "716923005": (
-            "Structure of posteromedial middle regional part of peripheral zone of right half prostate (body structure)",
-            [],
-        ),
+        "716923005": ("Structure of posteromedial middle regional part of peripheral zone of right half prostate (body structure)", []),
     },
     "StructureOfPostvesicularLymphNode": {
         "278571002": ("Structure of postvesicular lymph node (body structure)", []),
@@ -32429,10 +27879,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "281765006": ("Structure of prececal lymph node (body structure)", []),
     },
     "StructureOfPreductalRegionOfAorticArch": {
-        "75397005": (
-            "Structure of preductal region of aortic arch (body structure)",
-            [],
-        ),
+        "75397005": ("Structure of preductal region of aortic arch (body structure)", []),
     },
     "StructureOfPrelaryngealLymphNode": {
         "74203007": ("Structure of prelaryngeal lymph node (body structure)", []),
@@ -32462,28 +27909,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "23438002": ("Structure of profunda femoris vein (body structure)", []),
     },
     "StructureOfPromontoryCommonIliacLymphNode": {
-        "279189002": (
-            "Structure of promontory common iliac lymph node (body structure)",
-            [],
-        ),
+        "279189002": ("Structure of promontory common iliac lymph node (body structure)", []),
     },
     "StructureOfProximalPortionOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "68787002": (
-            "Structure of proximal portion of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "68787002": ("Structure of proximal portion of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfProximalPortionOfCircumflexBranchOfLeftCoronaryArtery": {
-        "52433000": (
-            "Structure of proximal portion of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "52433000": ("Structure of proximal portion of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfProximalPortionOfRightCoronaryArtery": {
-        "91083009": (
-            "Structure of proximal portion of right coronary artery (body structure)",
-            [],
-        ),
+        "91083009": ("Structure of proximal portion of right coronary artery (body structure)", []),
     },
     "StructureOfPulmonaryVeinGreatVessel": {
         "430757002": ("Structure of pulmonary vein great vessel (body structure)", []),
@@ -32534,16 +27969,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "68300000": ("Structure of right auricular appendage (body structure)", []),
     },
     "StructureOfRightBranchOfAtrioventricularBundle": {
-        "57383004": (
-            "Structure of right branch of atrioventricular bundle (body structure)",
-            [],
-        ),
+        "57383004": ("Structure of right branch of atrioventricular bundle (body structure)", []),
     },
     "StructureOfRightBranchOfHepaticArtery": {
-        "69421009": (
-            "Structure of right branch of hepatic artery (body structure)",
-            [],
-        ),
+        "69421009": ("Structure of right branch of hepatic artery (body structure)", []),
     },
     "StructureOfRightColicFlexure": {
         "48338005": ("Structure of right colic flexure (body structure)", []),
@@ -32558,16 +27987,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "29565003": ("Structure of right lobe of thyroid gland (body structure)", []),
     },
     "StructureOfRightLowerQuadrantOfAbdomen": {
-        "48544008": (
-            "Structure of right lower quadrant of abdomen (body structure)",
-            [],
-        ),
+        "48544008": ("Structure of right lower quadrant of abdomen (body structure)", []),
     },
     "StructureOfRightMainBranchOfPortalVein": {
-        "73931004": (
-            "Structure of right main branch of portal vein (body structure)",
-            [],
-        ),
+        "73931004": ("Structure of right main branch of portal vein (body structure)", []),
     },
     "StructureOfRightMiddlePulmonaryVein": {
         "443714006": ("Structure of right middle pulmonary vein (body structure)", []),
@@ -32588,10 +28011,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "29700009": ("Structure of right subclavian artery (body structure)", []),
     },
     "StructureOfRightUpperQuadrantOfAbdomen": {
-        "50519007": (
-            "Structure of right upper quadrant of abdomen (body structure)",
-            [],
-        ),
+        "50519007": ("Structure of right upper quadrant of abdomen (body structure)", []),
     },
     "StructureOfRootOfTongue": {
         "47975008": ("Structure of root of tongue (body structure)", []),
@@ -32609,37 +28029,22 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "50755001": ("Structure of scalenus anterior muscle (body structure)", []),
     },
     "StructureOfSecondDiagonalBranchOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "91751009": (
-            "Structure of second diagonal branch of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91751009": ("Structure of second diagonal branch of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfSecondLeftPosterolateralBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91758003": (
-            "Structure of second left posterolateral branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91758003": ("Structure of second left posterolateral branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfSecondLumbarArtery": {
         "397408004": ("Structure of second lumbar artery (body structure)", []),
     },
     "StructureOfSecondObtuseMarginalBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91755000": (
-            "Structure of second obtuse marginal branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91755000": ("Structure of second obtuse marginal branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfSecondRightPosterolateralBranchOfThePosteriorDescendingBranchOfRightCoronaryArtery": {
-        "91762009": (
-            "Structure of second right posterolateral branch of the posterior descending branch of right coronary artery (body structure)",
-            [],
-        ),
+        "91762009": ("Structure of second right posterolateral branch of the posterior descending branch of right coronary artery (body structure)", []),
     },
     "StructureOfSegmentalBranchOfRenalArtery": {
-        "120234003": (
-            "Structure of segmental branch of renal artery (body structure)",
-            [],
-        ),
+        "120234003": ("Structure of segmental branch of renal artery (body structure)", []),
     },
     "StructureOfSerratusAnteriorMuscle": {
         "18346003": ("Structure of serratus anterior muscle (body structure)", []),
@@ -32723,61 +28128,37 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "280314006": ("Structure of subpyloric lymph node (body structure)", []),
     },
     "StructureOfSubscapularAxillaryLymphNode": {
-        "12196003": (
-            "Structure of subscapular axillary lymph node (body structure)",
-            [],
-        ),
+        "12196003": ("Structure of subscapular axillary lymph node (body structure)", []),
     },
     "StructureOfSuperficialAnteriorCervicalLymphNode": {
-        "168557005": (
-            "Structure of superficial anterior cervical lymph node (body structure)",
-            [],
-        ),
+        "168557005": ("Structure of superficial anterior cervical lymph node (body structure)", []),
     },
     "StructureOfSuperficialInguinalLymphNode": {
-        "113340006": (
-            "Structure of superficial inguinal lymph node (body structure)",
-            [],
-        ),
+        "113340006": ("Structure of superficial inguinal lymph node (body structure)", []),
     },
     "StructureOfSuperficialLateralCervicalLymphNode": {
-        "167965000": (
-            "Structure of superficial lateral cervical lymph node (body structure)",
-            [],
-        ),
+        "167965000": ("Structure of superficial lateral cervical lymph node (body structure)", []),
     },
     "StructureOfSuperficialLymphNode": {
         "90606007": ("Structure of superficial lymph node (body structure)", []),
     },
     "StructureOfSuperficialPalmarVenousArch": {
-        "368479001": (
-            "Structure of superficial palmar venous arch (body structure)",
-            [],
-        ),
+        "368479001": ("Structure of superficial palmar venous arch (body structure)", []),
     },
     "StructureOfSuperficialPoplitealLymphNode": {
-        "12728001": (
-            "Structure of superficial popliteal lymph node (body structure)",
-            [],
-        ),
+        "12728001": ("Structure of superficial popliteal lymph node (body structure)", []),
     },
     "StructureOfSuperficialTemporalArtery": {
         "15672000": ("Structure of superficial temporal artery (body structure)", []),
     },
     "StructureOfSuperiorArticularProcessOfVertebra": {
-        "317665004": (
-            "Structure of superior articular process of vertebra (body structure)",
-            [],
-        ),
+        "317665004": ("Structure of superior articular process of vertebra (body structure)", []),
     },
     "StructureOfSuperiorCerebellarPeduncle": {
         "11089000": ("Structure of superior cerebellar peduncle (body structure)", []),
     },
     "StructureOfSuperiorFrontoOccipitalFasciculus": {
-        "13958008": (
-            "Structure of superior fronto-occipital fasciculus (body structure)",
-            [],
-        ),
+        "13958008": ("Structure of superior fronto-occipital fasciculus (body structure)", []),
     },
     "StructureOfSuperiorGlutealLymphNode": {
         "76290003": ("Structure of superior gluteal lymph node (body structure)", []),
@@ -32786,31 +28167,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "43863001": ("Structure of superior left pulmonary vein (body structure)", []),
     },
     "StructureOfSuperiorLongitudinalFasciculus": {
-        "89202009": (
-            "Structure of superior longitudinal fasciculus (body structure)",
-            [],
-        ),
+        "89202009": ("Structure of superior longitudinal fasciculus (body structure)", []),
     },
     "StructureOfSuperiorMesentericLymphNode": {
-        "49394004": (
-            "Structure of superior mesenteric lymph node (body structure)",
-            [],
-        ),
+        "49394004": ("Structure of superior mesenteric lymph node (body structure)", []),
     },
     "StructureOfSuperiorMesentericVein": {
         "90771006": ("Structure of superior mesenteric vein (body structure)", []),
     },
     "StructureOfSuperiorPancreaticLymphNode": {
-        "280999005": (
-            "Structure of superior pancreatic lymph node (body structure)",
-            [],
-        ),
+        "280999005": ("Structure of superior pancreatic lymph node (body structure)", []),
     },
     "StructureOfSuperiorPancreaticoduodenalLymphNode": {
-        "281320004": (
-            "Structure of superior pancreaticoduodenal lymph node (body structure)",
-            [],
-        ),
+        "281320004": ("Structure of superior pancreaticoduodenal lymph node (body structure)", []),
     },
     "StructureOfSuperiorPhrenicArtery": {
         "38991005": ("Structure of superior phrenic artery (body structure)", []),
@@ -32825,19 +28194,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "72021004": ("Structure of superior thyroid artery (body structure)", []),
     },
     "StructureOfSuperiorTracheobronchialLymphNode": {
-        "67941004": (
-            "Structure of superior tracheobronchial lymph node (body structure)",
-            [],
-        ),
+        "67941004": ("Structure of superior tracheobronchial lymph node (body structure)", []),
     },
     "StructureOfSupraclavicularLymphNode": {
         "76838003": ("Structure of supraclavicular lymph node (body structure)", []),
     },
     "StructureOfSupraclavicularRegionOfNeck": {
-        "77621008": (
-            "Structure of supraclavicular region of neck (body structure)",
-            [],
-        ),
+        "77621008": ("Structure of supraclavicular region of neck (body structure)", []),
     },
     "StructureOfSuprapyloricLymphNode": {
         "280216006": ("Structure of suprapyloric lymph node (body structure)", []),
@@ -32852,10 +28215,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "60105000": ("Structure of tapetum of corpus callosum (body structure)", []),
     },
     "StructureOfTeethGumsAndSupportingStructures": {
-        "28035005": (
-            "Structure of teeth, gums, and supporting structures (body structure)",
-            [],
-        ),
+        "28035005": ("Structure of teeth, gums, and supporting structures (body structure)", []),
     },
     "StructureOfTelencephalon": {
         "11628009": ("Structure of telencephalon (body structure)", []),
@@ -32870,10 +28230,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "51159009": ("Structure of teres minor muscle (body structure)", []),
     },
     "StructureOfTerminalPortionOfInternalCarotidArtery": {
-        "415646005": (
-            "Structure of terminal portion of internal carotid artery (body structure)",
-            [],
-        ),
+        "415646005": ("Structure of terminal portion of internal carotid artery (body structure)", []),
     },
     "StructureOfTesticularArtery": {
         "27175001": ("Structure of testicular artery (body structure)", []),
@@ -32885,31 +28242,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "714759009": ("Structure of thigh perforator (body structure)", []),
     },
     "StructureOfThirdDiagonalBranchOfAnteriorDescendingBranchOfLeftCoronaryArtery": {
-        "91752002": (
-            "Structure of third diagonal branch of anterior descending branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91752002": ("Structure of third diagonal branch of anterior descending branch of left coronary artery (body structure)", []),
     },
     "StructureOfThirdLeftPosterolateralBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91759006": (
-            "Structure of third left posterolateral branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91759006": ("Structure of third left posterolateral branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfThirdLumbarArtery": {
         "397409007": ("Structure of third lumbar artery (body structure)", []),
     },
     "StructureOfThirdObtuseMarginalBranchOfCircumflexBranchOfLeftCoronaryArtery": {
-        "91756004": (
-            "Structure of third obtuse marginal branch of circumflex branch of left coronary artery (body structure)",
-            [],
-        ),
+        "91756004": ("Structure of third obtuse marginal branch of circumflex branch of left coronary artery (body structure)", []),
     },
     "StructureOfThirdRightPosterolateralBranchOfThePosteriorDescendingBranchOfRightCoronaryArtery": {
-        "91763004": (
-            "Structure of third right posterolateral branch of the posterior descending branch of right coronary artery (body structure)",
-            [],
-        ),
+        "91763004": ("Structure of third right posterolateral branch of the posterior descending branch of right coronary artery (body structure)", []),
     },
     "StructureOfThoracicInlet": {
         "42973007": ("Structure of thoracic inlet (body structure)", []),
@@ -32927,10 +28272,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "443281009": ("Structure of transverse aortic arch (body structure)", []),
     },
     "StructureOfTransverseProcessOfVertebra": {
-        "73400003": (
-            "Structure of transverse process of vertebra (body structure)",
-            [],
-        ),
+        "73400003": ("Structure of transverse process of vertebra (body structure)", []),
     },
     "StructureOfTransverseThoracisMuscle": {
         "88454005": ("Structure of transverse thoracis muscle (body structure)", []),
@@ -32954,10 +28296,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "50536004": ("Structure of umbilical artery (body structure)", []),
     },
     "StructureOfUmbilicalPortionOfPortalVein": {
-        "284639000": (
-            "Structure of umbilical portion of portal vein (body structure)",
-            [],
-        ),
+        "284639000": ("Structure of umbilical portion of portal vein (body structure)", []),
     },
     "StructureOfUmbilicalVein": {
         "367567000": ("Structure of umbilical vein (body structure)", []),
@@ -32966,10 +28305,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "26230003": ("Structure of uncinate fasciculus (body structure)", []),
     },
     "StructureOfUpperInnerQuadrantOfBreast": {
-        "77831004": (
-            "Structure of upper inner quadrant of breast (body structure)",
-            [],
-        ),
+        "77831004": ("Structure of upper inner quadrant of breast (body structure)", []),
     },
     "StructureOfUpperLobeOfLeftLung": {
         "44714003": ("Structure of upper lobe of left lung (body structure)", []),
@@ -32978,10 +28314,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "45653009": ("Structure of upper lobe of lung (body structure)", []),
     },
     "StructureOfUpperOuterQuadrantOfBreast": {
-        "76365002": (
-            "Structure of upper outer quadrant of breast (body structure)",
-            [],
-        ),
+        "76365002": ("Structure of upper outer quadrant of breast (body structure)", []),
     },
     "StructureOfUpperUrinaryTractProper": {
         "431491007": ("Structure of upper urinary tract proper (body structure)", []),
@@ -32996,10 +28329,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "91079009": ("Structure of uterine artery (body structure)", []),
     },
     "StructureOfUterineParacervicalLymphNode": {
-        "5394000": (
-            "Structure of uterine paracervical lymph node (body structure)",
-            [],
-        ),
+        "5394000": ("Structure of uterine paracervical lymph node (body structure)", []),
     },
     "StructureOfUterineVein": {
         "60028002": ("Structure of uterine vein (body structure)", []),
@@ -33080,53 +28410,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "28330007": ("subcarinal lymph node", [7600, 8134]),
     },
     "SubclavianArtery": {
-        "36765005": (
-            "Subclavian artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12104,
-                12107,
-            ],
-        ),
+        "36765005": ("Subclavian artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12104, 12107]),
     },
     "SubclavianLymphNode": {
         "421861001": ("subclavian lymph node", [7600, 8134]),
     },
     "SubclavianVein": {
-        "9454009": (
-            "Subclavian vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12108,
-            ],
-        ),
+        "9454009": ("Subclavian vein", [4, 3010, 3607, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "Subcostal": {
         "19695001": ("Subcostal", [4, 7151, 7192, 8134, 9514]),
@@ -33156,19 +28446,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "443499004": ("Subcostal short axis view at mitral valve level", [501, 12226]),
     },
     "SubcostalShortAxisViewAtPapillaryMuscleLevel": {
-        "443160001": (
-            "Subcostal short axis view at papillary muscle level",
-            [501, 12226],
-        ),
+        "443160001": ("Subcostal short axis view at papillary muscle level", [501, 12226]),
     },
     "SubcostalShortAxisViewAtVenousInflowLevel": {
         "443500008": ("Subcostal short axis view at venous inflow level", [501, 12226]),
     },
     "SubcostalViewOfCardiacOutletsDirectedAnteriorly": {
-        "443100003": (
-            "Subcostal view of cardiac outlets directed anteriorly",
-            [501, 12226],
-        ),
+        "443100003": ("Subcostal view of cardiac outlets directed anteriorly", [501, 12226]),
     },
     "SubcutaneousRoute": {
         "34206005": ("Subcutaneous route", [11]),
@@ -33195,10 +28479,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "5713008": ("Submandibular area", [4, 7151, 7192, 9514]),
     },
     "SubmandibularGland": {
-        "54019009": (
-            "Submandibular gland",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "54019009": ("Submandibular gland", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "SubmandibularLymphNode": {
         "59503006": ("submandibular lymph node", [7600, 8134]),
@@ -33237,10 +28518,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "12196003": ("subscapular axillary lymph node", [7600, 8134]),
     },
     "SubscapularisMuscle": {
-        "90588001": (
-            "Subscapularis muscle",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "90588001": ("Subscapularis muscle", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "SubscapularisMuscleStructure": {
         "90588001": ("Subscapularis muscle structure (body structure)", []),
@@ -33363,30 +28641,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "279144003": ("superficial cervical lymph node", [7600, 8134]),
     },
     "SuperficialFemoralArtery": {
-        "181349008": (
-            "Superficial Femoral Artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12109,
-            ],
-        ),
+        "181349008": ("Superficial Femoral Artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12109]),
     },
     "SuperficialFemoralVein": {
-        "397364003": (
-            "Superficial Femoral Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12110],
-        ),
+        "397364003": ("Superficial Femoral Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12110]),
     },
     "SuperficialFemoralVeinStructure": {
         "397364003": ("Superficial femoral vein structure (body structure)", []),
@@ -33404,19 +28662,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "90606007": ("superficial lymph node", [7600, 8134]),
     },
     "SuperficialPalmarArch": {
-        "26818002": (
-            "Superficial Palmar Arch",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12107],
-        ),
+        "26818002": ("Superficial Palmar Arch", [3827, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "SuperficialPalmarArchStructure": {
         "26818002": ("Superficial palmar arch structure (body structure)", []),
     },
     "SuperficialPalmarVenousArch": {
-        "368479001": (
-            "Superficial Palmar Venous Arch",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12108],
-        ),
+        "368479001": ("Superficial Palmar Venous Arch", [3827, 7151, 7192, 8134, 9514, 12103, 12108]),
     },
     "SuperficialParotidLymphNode": {
         "279141006": ("superficial parotid lymph node", [7600, 8134]),
@@ -33425,10 +28677,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "12728001": ("superficial popliteal lymph node", [7600, 8134]),
     },
     "SuperficialTemporalArtery": {
-        "15672000": (
-            "Superficial temporal artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "15672000": ("Superficial temporal artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "SuperfineMerinoSheepBreed": {
         "132724006": ("Superfine Merino sheep breed", [7480]),
@@ -33443,10 +28692,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "317665004": ("Superior articular process of vertebra", [6115, 8134]),
     },
     "SuperiorCerebellarPeduncle": {
-        "11089000": (
-            "Superior cerebellar peduncle",
-            [7151, 7153, 7192, 7701, 7710, 8134, 9514],
-        ),
+        "11089000": ("Superior cerebellar peduncle", [7151, 7153, 7192, 7701, 7710, 8134, 9514]),
     },
     "SuperiorFrontoOccipitalFasciculus": {
         "13958008": ("superior fronto-occipital fasciculus", [7703, 7710, 8134]),
@@ -33458,16 +28704,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "76704003": ("superior lateral inguinal lymph node", [7600, 8134]),
     },
     "SuperiorLeftPulmonaryVein": {
-        "43863001": (
-            "Superior left pulmonary vein",
-            [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "43863001": ("Superior left pulmonary vein", [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514]),
     },
     "SuperiorLongitudinalFasciculus": {
-        "89202009": (
-            "Superior longitudinal fasciculus",
-            [7151, 7153, 7192, 8134, 9514],
-        ),
+        "89202009": ("Superior longitudinal fasciculus", [7151, 7153, 7192, 8134, 9514]),
     },
     "SuperiorMedialInguinalLymphNode": {
         "52554005": ("superior medial inguinal lymph node", [7600, 8134]),
@@ -33476,10 +28716,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "127925003": ("superior mediastinal lymph node", [7600, 8134]),
     },
     "SuperiorMesentericArtery": {
-        "42258001": (
-            "Superior mesenteric artery",
-            [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12112, 12125],
-        ),
+        "42258001": ("Superior mesenteric artery", [4, 3010, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12112, 12125]),
     },
     "SuperiorMesentericArteryStructure": {
         "42258001": ("Superior mesenteric artery structure (body structure)", []),
@@ -33488,10 +28725,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "49394004": ("superior mesenteric lymph node", [7600, 8134]),
     },
     "SuperiorMesentericVein": {
-        "90771006": (
-            "Superior Mesenteric Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "90771006": ("Superior Mesenteric Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "SuperiorPancreaticLymphNode": {
         "280999005": ("superior pancreatic lymph node", [7600, 8134]),
@@ -33500,378 +28734,190 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "281320004": ("superior pancreaticoduodenal lymph node", [7600, 8134]),
     },
     "SuperiorPhrenicArtery": {
-        "38991005": (
-            "Superior phrenic artery",
-            [6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "38991005": ("Superior phrenic artery", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "SuperiorRectalLymphNode": {
         "68881005": ("superior rectal lymph node", [7600, 8134]),
     },
     "SuperiorRightPulmonaryVein": {
-        "8629005": (
-            "Superior right pulmonary vein",
-            [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "8629005": ("Superior right pulmonary vein", [4, 3010, 3011, 3827, 3840, 4042, 7151, 7192, 8134, 9514]),
     },
     "SuperiorRollingOfBreast": {
         "415670009": ("Superior rolling of breast (procedure)", []),
     },
     "SuperiorThyroidArtery": {
-        "72021004": (
-            "Superior thyroid artery",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "72021004": ("Superior thyroid artery", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "SuperiorTracheobronchialLymphNode": {
         "67941004": ("superior tracheobronchial lymph node", [7600, 8134]),
     },
     "SuperiorVenaCava": {
-        "48345005": (
-            "Superior vena cava",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12108,
-                12282,
-            ],
-        ),
+        "48345005": ("Superior vena cava", [4, 3010, 3607, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12108, 12282]),
     },
     "SuperiorVenaCavaStructure": {
         "48345005": ("Superior vena cava structure (body structure)", []),
     },
     "SupernumeraryDeciduousMandibularLeftCanineTooth": {
-        "707029006": (
-            "Supernumerary deciduous mandibular left canine tooth",
-            [4025, 4026],
-        ),
+        "707029006": ("Supernumerary deciduous mandibular left canine tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularLeftCentralIncisorTooth": {
-        "707026004": (
-            "Supernumerary deciduous mandibular left central incisor tooth",
-            [4025, 4026],
-        ),
+        "707026004": ("Supernumerary deciduous mandibular left central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularLeftFirstMolarTooth": {
-        "707030001": (
-            "Supernumerary deciduous mandibular left first molar tooth",
-            [4025, 4026],
-        ),
+        "707030001": ("Supernumerary deciduous mandibular left first molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularLeftLateralIncisorTooth": {
-        "707028003": (
-            "Supernumerary deciduous mandibular left lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707028003": ("Supernumerary deciduous mandibular left lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularLeftSecondMolarTooth": {
-        "707031002": (
-            "Supernumerary deciduous mandibular left second molar tooth",
-            [4025, 4026],
-        ),
+        "707031002": ("Supernumerary deciduous mandibular left second molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularRightCanineTooth": {
-        "707023007": (
-            "Supernumerary deciduous mandibular right canine tooth",
-            [4025, 4026],
-        ),
+        "707023007": ("Supernumerary deciduous mandibular right canine tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularRightCentralIncisorTooth": {
-        "707025000": (
-            "Supernumerary deciduous mandibular right central incisor tooth",
-            [4025, 4026],
-        ),
+        "707025000": ("Supernumerary deciduous mandibular right central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularRightFirstMolarTooth": {
-        "707022002": (
-            "Supernumerary deciduous mandibular right first molar tooth",
-            [4025, 4026],
-        ),
+        "707022002": ("Supernumerary deciduous mandibular right first molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularRightLateralIncisorTooth": {
-        "707024001": (
-            "Supernumerary deciduous mandibular right lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707024001": ("Supernumerary deciduous mandibular right lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMandibularRightSecondMolarTooth": {
-        "707021009": (
-            "Supernumerary deciduous mandibular right second molar tooth",
-            [4025, 4026],
-        ),
+        "707021009": ("Supernumerary deciduous mandibular right second molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryLeftCanineTooth": {
-        "707016006": (
-            "Supernumerary deciduous maxillary left canine tooth",
-            [4025, 4026],
-        ),
+        "707016006": ("Supernumerary deciduous maxillary left canine tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryLeftCentralIncisorTooth": {
-        "707014009": (
-            "Supernumerary deciduous maxillary left central incisor tooth",
-            [4025, 4026],
-        ),
+        "707014009": ("Supernumerary deciduous maxillary left central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryLeftFirstMolarTooth": {
-        "707017002": (
-            "Supernumerary deciduous maxillary left first molar tooth",
-            [4025, 4026],
-        ),
+        "707017002": ("Supernumerary deciduous maxillary left first molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryLeftLateralIncisorTooth": {
-        "707015005": (
-            "Supernumerary deciduous maxillary left lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707015005": ("Supernumerary deciduous maxillary left lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryLeftSecondMolarTooth": {
-        "707018007": (
-            "Supernumerary deciduous maxillary left second molar tooth",
-            [4025, 4026],
-        ),
+        "707018007": ("Supernumerary deciduous maxillary left second molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryRightCanineTooth": {
-        "707011001": (
-            "Supernumerary deciduous maxillary right canine tooth",
-            [4025, 4026],
-        ),
+        "707011001": ("Supernumerary deciduous maxillary right canine tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryRightCentralIncisorTooth": {
-        "707013003": (
-            "Supernumerary deciduous maxillary right central incisor tooth",
-            [4025, 4026],
-        ),
+        "707013003": ("Supernumerary deciduous maxillary right central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryRightFirstMolarTooth": {
-        "707010000": (
-            "Supernumerary deciduous maxillary right first molar tooth",
-            [4025, 4026],
-        ),
+        "707010000": ("Supernumerary deciduous maxillary right first molar tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryRightLateralIncisorTooth": {
-        "707012008": (
-            "Supernumerary deciduous maxillary right lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707012008": ("Supernumerary deciduous maxillary right lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryDeciduousMaxillaryRightSecondMolarTooth": {
-        "707009005": (
-            "Supernumerary deciduous maxillary right second molar tooth",
-            [4025, 4026],
-        ),
+        "707009005": ("Supernumerary deciduous maxillary right second molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftCanineTooth": {
-        "707058009": (
-            "Supernumerary permanent mandibular left canine tooth",
-            [4025, 4026],
-        ),
+        "707058009": ("Supernumerary permanent mandibular left canine tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftCentralIncisorTooth": {
-        "707060006": (
-            "Supernumerary permanent mandibular left central incisor tooth",
-            [4025, 4026],
-        ),
+        "707060006": ("Supernumerary permanent mandibular left central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftFirstMolarTooth": {
-        "707055007": (
-            "Supernumerary permanent mandibular left first molar tooth",
-            [4025, 4026],
-        ),
+        "707055007": ("Supernumerary permanent mandibular left first molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftFirstPremolarTooth": {
-        "707057004": (
-            "Supernumerary permanent mandibular left first premolar tooth",
-            [4025, 4026],
-        ),
+        "707057004": ("Supernumerary permanent mandibular left first premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftLateralIncisorTooth": {
-        "707059001": (
-            "Supernumerary permanent mandibular left lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707059001": ("Supernumerary permanent mandibular left lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftSecondMolarTooth": {
-        "707054006": (
-            "Supernumerary permanent mandibular left second molar tooth",
-            [4025, 4026],
-        ),
+        "707054006": ("Supernumerary permanent mandibular left second molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftSecondPremolarTooth": {
-        "707056008": (
-            "Supernumerary permanent mandibular left second premolar tooth",
-            [4025, 4026],
-        ),
+        "707056008": ("Supernumerary permanent mandibular left second premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularLeftThirdMolarTooth": {
-        "707052005": (
-            "Supernumerary permanent mandibular left third molar tooth",
-            [4025, 4026],
-        ),
+        "707052005": ("Supernumerary permanent mandibular left third molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightCanineTooth": {
-        "707063008": (
-            "Supernumerary permanent mandibular right canine tooth",
-            [4025, 4026],
-        ),
+        "707063008": ("Supernumerary permanent mandibular right canine tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightCentralIncisorTooth": {
-        "707061005": (
-            "Supernumerary permanent mandibular right central incisor tooth",
-            [4025, 4026],
-        ),
+        "707061005": ("Supernumerary permanent mandibular right central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightFirstMolarTooth": {
-        "707066000": (
-            "Supernumerary permanent mandibular right first molar tooth",
-            [4025, 4026],
-        ),
+        "707066000": ("Supernumerary permanent mandibular right first molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightFirstPremolarTooth": {
-        "707064002": (
-            "Supernumerary permanent mandibular right first premolar tooth",
-            [4025, 4026],
-        ),
+        "707064002": ("Supernumerary permanent mandibular right first premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightLateralIncisorTooth": {
-        "707062003": (
-            "Supernumerary permanent mandibular right lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707062003": ("Supernumerary permanent mandibular right lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightSecondMolarTooth": {
-        "707067009": (
-            "Supernumerary permanent mandibular right second molar tooth",
-            [4025, 4026],
-        ),
+        "707067009": ("Supernumerary permanent mandibular right second molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightSecondPremolarTooth": {
-        "707065001": (
-            "Supernumerary permanent mandibular right second premolar tooth",
-            [4025, 4026],
-        ),
+        "707065001": ("Supernumerary permanent mandibular right second premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMandibularRightThirdMolarTooth": {
-        "707068004": (
-            "Supernumerary permanent mandibular right third molar tooth",
-            [4025, 4026],
-        ),
+        "707068004": ("Supernumerary permanent mandibular right third molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftCanineTooth": {
-        "707044007": (
-            "Supernumerary permanent maxillary left canine tooth",
-            [4025, 4026],
-        ),
+        "707044007": ("Supernumerary permanent maxillary left canine tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftCentralIncisorTooth": {
-        "707042006": (
-            "Supernumerary permanent maxillary left central incisor tooth",
-            [4025, 4026],
-        ),
+        "707042006": ("Supernumerary permanent maxillary left central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftFirstMolarTooth": {
-        "707047000": (
-            "Supernumerary permanent maxillary left first molar tooth",
-            [4025, 4026],
-        ),
+        "707047000": ("Supernumerary permanent maxillary left first molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftFirstPremolarTooth": {
-        "707045008": (
-            "Supernumerary permanent maxillary left first premolar tooth",
-            [4025, 4026],
-        ),
+        "707045008": ("Supernumerary permanent maxillary left first premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftLateralIncisorTooth": {
-        "707043001": (
-            "Supernumerary permanent maxillary left lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707043001": ("Supernumerary permanent maxillary left lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftSecondMolarTooth": {
-        "707048005": (
-            "Supernumerary permanent maxillary left second molar tooth",
-            [4025, 4026],
-        ),
+        "707048005": ("Supernumerary permanent maxillary left second molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftSecondPremolarTooth": {
-        "707046009": (
-            "Supernumerary permanent maxillary left second premolar tooth",
-            [4025, 4026],
-        ),
+        "707046009": ("Supernumerary permanent maxillary left second premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryLeftThirdMolarTooth": {
-        "707049002": (
-            "Supernumerary permanent maxillary left third molar tooth",
-            [4025, 4026],
-        ),
+        "707049002": ("Supernumerary permanent maxillary left third molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightCanineTooth": {
-        "707038008": (
-            "Supernumerary permanent maxillary right canine tooth",
-            [4025, 4026],
-        ),
+        "707038008": ("Supernumerary permanent maxillary right canine tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightCentralIncisorTooth": {
-        "707041004": (
-            "Supernumerary permanent maxillary right central incisor tooth",
-            [4025, 4026],
-        ),
+        "707041004": ("Supernumerary permanent maxillary right central incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightFirstMolarTooth": {
-        "707035006": (
-            "Supernumerary permanent maxillary right first molar tooth",
-            [4025, 4026],
-        ),
+        "707035006": ("Supernumerary permanent maxillary right first molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightFirstPremolarTooth": {
-        "707037003": (
-            "Supernumerary permanent maxillary right first premolar tooth",
-            [4025, 4026],
-        ),
+        "707037003": ("Supernumerary permanent maxillary right first premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightLateralIncisorTooth": {
-        "707039000": (
-            "Supernumerary permanent maxillary right lateral incisor tooth",
-            [4025, 4026],
-        ),
+        "707039000": ("Supernumerary permanent maxillary right lateral incisor tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightSecondMolarTooth": {
-        "707033004": (
-            "Supernumerary permanent maxillary right second molar tooth",
-            [4025, 4026],
-        ),
+        "707033004": ("Supernumerary permanent maxillary right second molar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightSecondPremolarTooth": {
-        "707036007": (
-            "Supernumerary permanent maxillary right second premolar tooth",
-            [4025, 4026],
-        ),
+        "707036007": ("Supernumerary permanent maxillary right second premolar tooth", [4025, 4026]),
     },
     "SupernumeraryPermanentMaxillaryRightThirdMolarTooth": {
-        "707032009": (
-            "Supernumerary permanent maxillary right third molar tooth",
-            [4025, 4026],
-        ),
+        "707032009": ("Supernumerary permanent maxillary right third molar tooth", [4025, 4026]),
     },
     "SuperolateralToInferomedialOblique": {
         "399188001": ("superolateral to inferomedial oblique", [4014]),
     },
     "SuperolateralToInferomedialObliqueProjection": {
-        "399188001": (
-            "Superolateral to inferomedial oblique projection (qualifier value)",
-            [],
-        ),
+        "399188001": ("Superolateral to inferomedial oblique projection (qualifier value)", []),
     },
     "Supination": {
         "14502000": ("Supination", [92]),
@@ -33892,10 +28938,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399707004": ("Supportive - procedure intent (qualifier value)", []),
     },
     "SupraRenalAorta": {
-        "1918003": (
-            "Supra-renal Aorta",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125, 12291],
-        ),
+        "1918003": ("Supra-renal Aorta", [3827, 7151, 7192, 8134, 9514, 12103, 12112, 12125, 12291]),
     },
     "SupraaorticValveAreaStructure": {
         "8128003": ("Supraaortic valve area structure (body structure)", []),
@@ -33940,10 +28983,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "443562002": ("Suprasternal long axis view of aortic arch", [501, 12226]),
     },
     "SuprasternalNotch": {
-        "26493002": (
-            "Suprasternal notch",
-            [4, 1000, 1001, 1004, 6115, 7151, 7192, 8134, 9514],
-        ),
+        "26493002": ("Suprasternal notch", [4, 1000, 1001, 1004, 6115, 7151, 7192, 8134, 9514]),
     },
     "SuprasternalSagittalView": {
         "443163004": ("Suprasternal sagittal view", [501, 12226]),
@@ -34003,94 +29043,49 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "309993003": ("Surgical transplant department (environment)", []),
     },
     "SurgicallyConstructedBidirectionalPathwayFromSuperiorVenaCavaToPulmonaryArtery": {
-        "443789005": (
-            "Surgically constructed bidirectional pathway from superior vena cava to pulmonary artery (morphologic abnormality)",
-            [],
-        ),
+        "443789005": ("Surgically constructed bidirectional pathway from superior vena cava to pulmonary artery (morphologic abnormality)", []),
     },
     "SurgicallyConstructedConnectionOfAortaToPulmonaryArtery": {
-        "443096004": (
-            "Surgically constructed connection of aorta to pulmonary artery (morphologic abnormality)",
-            [],
-        ),
+        "443096004": ("Surgically constructed connection of aorta to pulmonary artery (morphologic abnormality)", []),
     },
     "SurgicallyConstructedConnectionOfLeftVentricleToPulmonaryArteryConduit": {
-        "443696003": (
-            "Surgically constructed connection of left ventricle to pulmonary artery conduit (morphologic abnormality)",
-            [],
-        ),
+        "443696003": ("Surgically constructed connection of left ventricle to pulmonary artery conduit (morphologic abnormality)", []),
     },
     "SurgicallyConstructedConnectionOfPulmonaryVeinToLeftAtrium": {
-        "443297004": (
-            "Surgically constructed connection of pulmonary vein to left atrium (morphologic abnormality)",
-            [],
-        ),
+        "443297004": ("Surgically constructed connection of pulmonary vein to left atrium (morphologic abnormality)", []),
     },
     "SurgicallyConstructedConnectionOfRightVentricleToPulmonaryArteryConduit": {
-        "443328003": (
-            "Surgically constructed connection of right ventricle to pulmonary artery conduit (morphologic abnormality)",
-            [],
-        ),
+        "443328003": ("Surgically constructed connection of right ventricle to pulmonary artery conduit (morphologic abnormality)", []),
     },
     "SurgicallyConstructedConnectionOfSystemicVenousReturnToPulmonaryArtery": {
-        "443625008": (
-            "Surgically constructed connection of systemic venous return to pulmonary artery (morphologic abnormality)",
-            [],
-        ),
+        "443625008": ("Surgically constructed connection of systemic venous return to pulmonary artery (morphologic abnormality)", []),
     },
     "SurgicallyConstructedConvergenceOfInferiorAndSuperiorVenaCavaPathwaysIntoCommonPathwaySuperiorToAtrioventricularValve": {
-        "443809000": (
-            "Surgically constructed convergence of inferior and superior vena cava pathways into common pathway superior to atrioventricular valve (morphologic abnormality)",
-            [],
-        ),
+        "443809000": ("Surgically constructed convergence of inferior and superior vena cava pathways into common pathway superior to atrioventricular valve (morphologic abnormality)", []),
     },
     "SurgicallyConstructedOrificeBetweenSystemicVenousPathwayAndLeftAtrium": {
-        "443724003": (
-            "Surgically constructed orifice between systemic venous pathway and left atrium (morphologic abnormality)",
-            [],
-        ),
+        "443724003": ("Surgically constructed orifice between systemic venous pathway and left atrium (morphologic abnormality)", []),
     },
     "SurgicallyConstructedOutflowTractOfLeftVentricleAcrossVentricularSeptalDefectToAorta": {
-        "443260009": (
-            "Surgically constructed outflow tract of left ventricle across ventricular septal defect to aorta (morphologic abnormality)",
-            [],
-        ),
+        "443260009": ("Surgically constructed outflow tract of left ventricle across ventricular septal defect to aorta (morphologic abnormality)", []),
     },
     "SurgicallyConstructedPathwayFromInferiorVenaCavaToMitralValve": {
-        "444329004": (
-            "Surgically constructed pathway from inferior vena cava to mitral valve (morphologic abnormality)",
-            [],
-        ),
+        "444329004": ("Surgically constructed pathway from inferior vena cava to mitral valve (morphologic abnormality)", []),
     },
     "SurgicallyConstructedPathwayFromInferiorVenaCavaToPulmonaryArtery": {
-        "443326004": (
-            "Surgically constructed pathway from inferior vena cava to pulmonary artery (morphologic abnormality)",
-            [],
-        ),
+        "443326004": ("Surgically constructed pathway from inferior vena cava to pulmonary artery (morphologic abnormality)", []),
     },
     "SurgicallyConstructedPathwayFromPulmonaryVeinsToTricuspidValve": {
-        "443907004": (
-            "Surgically constructed pathway from pulmonary veins to tricuspid valve (morphologic abnormality)",
-            [],
-        ),
+        "443907004": ("Surgically constructed pathway from pulmonary veins to tricuspid valve (morphologic abnormality)", []),
     },
     "SurgicallyConstructedPathwayFromSuperiorVenaCavaToMitralValve": {
-        "444177009": (
-            "Surgically constructed pathway from superior vena cava to mitral valve (morphologic abnormality)",
-            [],
-        ),
+        "444177009": ("Surgically constructed pathway from superior vena cava to mitral valve (morphologic abnormality)", []),
     },
     "SurgicallyConstructedPathwayFromSuperiorVenaCavaToPulmonaryArtery": {
-        "443327008": (
-            "Surgically constructed pathway from superior vena cava to pulmonary artery (morphologic abnormality)",
-            [],
-        ),
+        "443327008": ("Surgically constructed pathway from superior vena cava to pulmonary artery (morphologic abnormality)", []),
     },
     "SurgicallyConstructedPathwayThroughHeartFromInferiorVenaCavaAndSuperiorVenaCavaToPulmonaryArtery": {
-        "443298009": (
-            "Surgically constructed pathway through heart from inferior vena cava and superior vena cava to pulmonary artery (morphologic abnormality)",
-            [],
-        ),
+        "443298009": ("Surgically constructed pathway through heart from inferior vena cava and superior vena cava to pulmonary artery (morphologic abnormality)", []),
     },
     "Sus": {
         "388393002": ("Sus", [7454]),
@@ -34099,10 +29094,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "78678003": ("Sus scrofa", [7454]),
     },
     "SusScrofaDomesticPigXJapaneseWildBoarIntragenusHybrid": {
-        "133182008": (
-            "Sus scrofa domestic pig X Japanese wild boar intragenus hybrid (organism)",
-            [],
-        ),
+        "133182008": ("Sus scrofa domestic pig X Japanese wild boar intragenus hybrid (organism)", []),
     },
     "Suspected": {
         "415684004": ("Suspected", [3770]),
@@ -34253,10 +29245,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371952000": ("Systemic Artery Blood", [3520]),
     },
     "SystemicCollateralArteryToLung": {
-        "128589000": (
-            "Systemic collateral artery to lung",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128589000": ("Systemic collateral artery to lung", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "SystemicVascularResistance": {
         "386530009": ("Systemic Vascular Resistance", [3619]),
@@ -34268,10 +29257,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "360592004": ("Systemic vein", [7151, 7156, 7192, 8134, 9514]),
     },
     "SystemicVenousAtrium": {
-        "128568009": (
-            "Systemic venous atrium",
-            [4, 3010, 3608, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "128568009": ("Systemic venous atrium", [4, 3010, 3608, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "SystemicVenousStructure": {
         "360592004": ("Systemic venous structure (body structure)", []),
@@ -34295,10 +29281,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373172003": ("T1: Tumor 2 cm or less in greatest dimension (breast)", [6160]),
     },
     "T1aTumorMoreThan0Point1cmButNotMoreThan0Point5cm": {
-        "373180005": (
-            "T1a: Tumor more than 0.1 cm but not more than 0.5 cm...",
-            [6160],
-        ),
+        "373180005": ("T1a: Tumor more than 0.1 cm but not more than 0.5 cm...", [6160]),
     },
     "T1bTumorMoreThan0Point5cmButNotMoreThan1cm": {
         "373204007": ("T1b: Tumor more than 0.5 cm but not more than 1 cm...", [6160]),
@@ -34307,46 +29290,28 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373183007": ("T1c: Tumor more than 1 cm but not more than 2 cm...", [6160]),
     },
     "T1micMicroinvasion0Point1cmOrLessInGreatestDimension": {
-        "373179007": (
-            "T1mic: Microinvasion 0.1 cm or less in greatest dimension...",
-            [6160],
-        ),
+        "373179007": ("T1mic: Microinvasion 0.1 cm or less in greatest dimension...", [6160]),
     },
     "T2TumorMoreThan2cmButNotMoreThan5cm": {
         "373182002": ("T2: Tumor more than 2 cm but not more than 5 cm...", [6160]),
     },
     "T3TumorMoreThan5cmInGreatestDimension": {
-        "373184001": (
-            "T3: Tumor more than 5 cm in greatest dimension (breast)",
-            [6160],
-        ),
+        "373184001": ("T3: Tumor more than 5 cm in greatest dimension (breast)", [6160]),
     },
     "T4InflammatoryCarcinoma": {
         "373190002": ("T4: Inflammatory carcinoma (breast)", [6160]),
     },
     "T4TumorOfAnySizeWithDirectExtensionToChestWall": {
-        "373185000": (
-            "T4: Tumor of any size with direct extension to chest wall...",
-            [6160],
-        ),
+        "373185000": ("T4: Tumor of any size with direct extension to chest wall...", [6160]),
     },
     "T4aTumorOfAnySizeWithExtensionToChestWallNotIncl": {
-        "373186004": (
-            "T4a: Tumor of any size with extension to chest wall, not incl...",
-            [6160],
-        ),
+        "373186004": ("T4a: Tumor of any size with extension to chest wall, not incl...", [6160]),
     },
     "T4bTumorOfAnySizeWithEdemaIncludingPeauDOrange": {
-        "373187008": (
-            "T4b: Tumor of any size with edema (including peau d'orange) ...",
-            [6160],
-        ),
+        "373187008": ("T4b: Tumor of any size with edema (including peau d'orange) ...", [6160]),
     },
     "T4cTumorOfAnySizeWithDirectExtensionToChestWall": {
-        "373189006": (
-            "T4c: Tumor of any size with direct extension to chest wall...",
-            [6160],
-        ),
+        "373189006": ("T4c: Tumor of any size with direct extension to chest wall...", [6160]),
     },
     "TSSH1CattleBreed": {
         "133839005": ("TSSH-1 cattle breed (organism)", []),
@@ -34484,10 +29449,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "399247005": ("Tarrant projection (qualifier value)", []),
     },
     "TarsalJoint": {
-        "27949001": (
-            "Tarsal joint",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "27949001": ("Tarsal joint", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "Tarsus": {
         "108371006": ("Tarsus", [7482, 7483, 8134]),
@@ -34523,10 +29485,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "424118002": ("Tc-99m tetrofosmin", [3111]),
     },
     "Technetium99mGalactosylHumanSerumAlbuminDiethylenetriamine": {
-        "446534003": (
-            "Technetium^99m Galactosyl Human Serum Albumin Diethylenetriamine",
-            [25],
-        ),
+        "446534003": ("Technetium^99m Galactosyl Human Serum Albumin Diethylenetriamine", [25]),
     },
     "Technetium99mLabeledCarbon": {
         "447125008": ("Technetium^99m labeled carbon", [25]),
@@ -34544,10 +29503,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "447128005": ("Technetium^99m Stannous Colloid", [25]),
     },
     "Technetium99mtcEthylCysteinateDimerInjection": {
-        "404713008": (
-            "Technetium[99mTc] ethyl cysteinate dimer injection (product)",
-            [],
-        ),
+        "404713008": ("Technetium[99mTc] ethyl cysteinate dimer injection (product)", []),
     },
     "TechnetiumTc99NSubstitutedIminodiacetate": {
         "87410002": ("Technetium Tc^99^ N-substituted iminodiacetate (substance)", []),
@@ -34577,10 +29533,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "77313009": ("Technetium Tc^99m^ exametazime", [25]),
     },
     "TechnetiumTc99mGalactosylHumanSerumAlbuminDiethylenetriaminePentaaceticAcid": {
-        "446534003": (
-            "Technetium Tc^99m^ galactosyl human serum albumin diethylenetriamine pentaacetic acid (substance)",
-            [],
-        ),
+        "446534003": ("Technetium Tc^99m^ galactosyl human serum albumin diethylenetriamine pentaacetic acid (substance)", []),
     },
     "TechnetiumTc99mIronAscorbate": {
         "87853006": ("Technetium Tc^99m^ iron ascorbate", [25]),
@@ -34604,10 +29557,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "81761004": ("Technetium Tc^99m^ microaggregated albumin", [25]),
     },
     "TechnetiumTc99mNPyridoxyl5Methyltryptophan": {
-        "447126009": (
-            "Technetium Tc^99m^ N-pyridoxyl-5-methyltryptophan (substance)",
-            [],
-        ),
+        "447126009": ("Technetium Tc^99m^ N-pyridoxyl-5-methyltryptophan (substance)", []),
     },
     "TechnetiumTc99mNSubstitutedIminodiacetate": {
         "87410002": ("Technetium Tc^99m^ N-substituted iminodiacetate", [25]),
@@ -34700,10 +29650,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "78277001": ("Temporal lobe structure (body structure)", []),
     },
     "TemporalPeriodsRelatingToFeedingAndEating": {
-        "309602000": (
-            "Temporal periods relating to feeding and eating (qualifier value)",
-            [],
-        ),
+        "309602000": ("Temporal periods relating to feeding and eating (qualifier value)", []),
     },
     "TemporalPeriodsRelatingToProcedure": {
         "307152002": ("Temporal periods relating to procedure (qualifier value)", []),
@@ -34712,10 +29659,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "59218006": ("temporary transcutaneous pacing", [3555]),
     },
     "TemporomandibularJoint": {
-        "53620006": (
-            "Temporomandibular joint",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "53620006": ("Temporomandibular joint", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "TemporomandibularJointStructure": {
         "53620006": ("Temporomandibular joint structure (body structure)", []),
@@ -34748,10 +29692,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "406975002": ("terminal deoxynucleotidyl transferase stain", [8112]),
     },
     "TerminalInternalCarotidArtery": {
-        "415646005": (
-            "Terminal internal carotid artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12105],
-        ),
+        "415646005": ("Terminal internal carotid artery", [3827, 7151, 7192, 8134, 9514, 12103, 12105]),
     },
     "Terrier": {
         "606003": ("Terrier", [7480]),
@@ -34766,22 +29707,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373121007": ("Test not done (qualifier value)", []),
     },
     "TesticularArtery": {
-        "27175001": (
-            "Testicular Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "27175001": ("Testicular Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "TesticularVein": {
-        "31688004": (
-            "Testicular Vein",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12113, 12125],
-        ),
+        "31688004": ("Testicular Vein", [3827, 7151, 7192, 8134, 9514, 12103, 12113, 12125]),
     },
     "Testis": {
-        "40689003": (
-            "Testis",
-            [4, 4030, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 10044, 10060],
-        ),
+        "40689003": ("Testis", [4, 4030, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 10044, 10060]),
     },
     "TestisStructure": {
         "40689003": ("Testis structure (body structure)", []),
@@ -34869,10 +29801,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128454000": ("Thermal cardiac output waveform", [3003]),
     },
     "ThermalCardiacOutputWaveformFunction": {
-        "128454000": (
-            "Thermal cardiac output waveform, function (observable entity)",
-            [],
-        ),
+        "128454000": ("Thermal cardiac output waveform, function (observable entity)", []),
     },
     "ThermalInline": {
         "371843008": ("Thermal Inline", [3628]),
@@ -34884,10 +29813,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133914002": ("Thermistor catheter method", [3241]),
     },
     "ThermoluminescentRadiationDosimeter": {
-        "464983000": (
-            "Thermoluminescent radiation dosimeter",
-            [7026, 7027, 7151, 7193],
-        ),
+        "464983000": ("Thermoluminescent radiation dosimeter", [7026, 7027, 7151, 7193]),
     },
     "ThessalonianHorseBreed": {
         "131950002": ("Thessalonian horse breed", [7480]),
@@ -34941,10 +29867,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "27885002": ("Third degree Atrioventricular block", [3230]),
     },
     "ThirdLumbarArtery": {
-        "397409007": (
-            "Third Lumbar Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125],
-        ),
+        "397409007": ("Third Lumbar Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125]),
     },
     "ThirdMolarRegion": {
         "699503005": ("Third molar region", [4017]),
@@ -34962,10 +29885,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "91602002": ("Thoracentesis", [9]),
     },
     "ThoracicAorta": {
-        "113262008": (
-            "Thoracic aorta",
-            [4, 3010, 3604, 3606, 3630, 4030, 4042, 7151, 7192, 8134, 9514, 12291],
-        ),
+        "113262008": ("Thoracic aorta", [4, 3010, 3604, 3606, 3630, 4030, 4042, 7151, 7192, 8134, 9514, 12291]),
     },
     "ThoracicAortaStructure": {
         "113262008": ("Thoracic aorta structure (body structure)", []),
@@ -34986,10 +29906,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "42973007": ("Thoracic Inlet", [1000, 1001, 1004, 8134]),
     },
     "ThoracicSpine": {
-        "122495006": (
-            "Thoracic spine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7155, 7192, 7304, 7482, 7483, 8134, 9514],
-        ),
+        "122495006": ("Thoracic spine", [4, 4009, 4030, 4031, 4042, 7151, 7155, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "ThoracicSpineStructure": {
         "122495006": ("Thoracic spine structure (body structure)", []),
@@ -35004,10 +29921,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "309970009": ("Thoracic surgery department (environment)", []),
     },
     "ThoracoLumbarSpine": {
-        "297172009": (
-            "Thoraco-lumbar spine",
-            [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514],
-        ),
+        "297172009": ("Thoraco-lumbar spine", [4, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 7482, 7483, 8134, 9514]),
     },
     "ThoracolumbarRegionOfSpineStructure": {
         "297172009": ("Thoracolumbar region of spine structure (body structure)", []),
@@ -35025,28 +29939,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "36176003": ("Thrombin preparation", [10]),
     },
     "ThrombolysisInMyocardialInfarctionGrade0NoPerfusion": {
-        "371867000": (
-            "Thrombolysis in Myocardial Infarction grade 0: no perfusion (finding)",
-            [],
-        ),
+        "371867000": ("Thrombolysis in Myocardial Infarction grade 0: no perfusion (finding)", []),
     },
     "ThrombolysisInMyocardialInfarctionGrade1PenetrationWithoutPerfusion": {
-        "371866009": (
-            "Thrombolysis in Myocardial Infarction grade 1: penetration without perfusion (finding)",
-            [],
-        ),
+        "371866009": ("Thrombolysis in Myocardial Infarction grade 1: penetration without perfusion (finding)", []),
     },
     "ThrombolysisInMyocardialInfarctionGrade2PartialPerfusion": {
-        "371864007": (
-            "Thrombolysis in Myocardial Infarction grade 2: partial perfusion (finding)",
-            [],
-        ),
+        "371864007": ("Thrombolysis in Myocardial Infarction grade 2: partial perfusion (finding)", []),
     },
     "ThrombolysisInMyocardialInfarctionGrade3CompletePerfusion": {
-        "371865008": (
-            "Thrombolysis in Myocardial Infarction grade 3: complete perfusion (finding)",
-            [],
-        ),
+        "371865008": ("Thrombolysis in Myocardial Infarction grade 3: complete perfusion (finding)", []),
     },
     "Thrombolytic": {
         "303960004": ("Thrombolytic (product)", []),
@@ -35055,28 +29957,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "303960004": ("Thrombolytic agent", [10]),
     },
     "ThrombolyticAgentAdministeredBetween3And6HoursBeforePercutaneousCoronaryIntervention": {
-        "371897008": (
-            "Thrombolytic agent administered between 3 and 6 hours before percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371897008": ("Thrombolytic agent administered between 3 and 6 hours before percutaneous coronary intervention (situation)", []),
     },
     "ThrombolyticAgentAdministeredBetween6HoursAnd7DaysBeforePercutaneousCoronaryIntervention": {
-        "371906007": (
-            "Thrombolytic agent administered between 6 hours and 7 days before percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371906007": ("Thrombolytic agent administered between 6 hours and 7 days before percutaneous coronary intervention (situation)", []),
     },
     "ThrombolyticAgentAdministeredLessThan3HoursBeforePercutaneousCoronaryIntervention": {
-        "371896004": (
-            "Thrombolytic agent administered less than 3 hours before percutaneous coronary intervention (situation)",
-            [],
-        ),
+        "371896004": ("Thrombolytic agent administered less than 3 hours before percutaneous coronary intervention (situation)", []),
     },
     "ThrombolyticAgentNotAdministeredBecauseContraindicated": {
-        "373148008": (
-            "Thrombolytic agent not administered because contraindicated (situation)",
-            [],
-        ),
+        "373148008": ("Thrombolytic agent not administered because contraindicated (situation)", []),
     },
     "ThrombolyticTherapy": {
         "426347000": ("Thrombolytic therapy", [3764]),
@@ -35101,10 +29991,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "118927008": ("Thrombotic disorder (navigational concept)", []),
     },
     "Thrombus": {
-        "396339007": (
-            "Thrombus",
-            [3491, 3495, 3497, 3712, 3810, 7151, 7156, 7192, 8134, 9514],
-        ),
+        "396339007": ("Thrombus", [3491, 3495, 3497, 3712, 3810, 7151, 7156, 7192, 8134, 9514]),
     },
     "Thumb": {
         "76505004": ("Thumb", [4, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
@@ -35137,24 +30024,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "6538005": ("Thyrocervical trunk", [6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "Thyroid": {
-        "69748006": (
-            "Thyroid",
-            [
-                4,
-                645,
-                4030,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-            ],
-        ),
+        "69748006": ("Thyroid", [4, 645, 4030, 6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514, 10044, 10060]),
     },
     "ThyroidHormone": {
         "18220004": ("Thyroid hormone", [621, 622]),
@@ -35238,10 +30108,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371802008": ("Tip manometer", [3429]),
     },
     "TipManometerHemodynamicMeasurementMethodRegimeTherapy": {
-        "128582009": (
-            "Tip manometer hemodynamic measurement method (regime/therapy)",
-            [],
-        ),
+        "128582009": ("Tip manometer hemodynamic measurement method (regime/therapy)", []),
     },
     "TipManometerMethod": {
         "128582009": ("Tip manometer method", [3241]),
@@ -35310,10 +30177,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "365981007": ("Tobacco Smoking Behavior", [3774]),
     },
     "Toe": {
-        "29707007": (
-            "Toe",
-            [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "29707007": ("Toe", [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "ToeStructure": {
         "29707007": ("Toe structure (body structure)", []),
@@ -35418,10 +30282,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "268384009": ("Total blood volume (observable entity)", []),
     },
     "TotalCavopulmonaryConnectionWithLateralAtrialTunnel": {
-        "427886002": (
-            "Total cavopulmonary connection with lateral atrial tunnel (procedure)",
-            [],
-        ),
+        "427886002": ("Total cavopulmonary connection with lateral atrial tunnel (procedure)", []),
     },
     "TotalExerciseTime": {
         "252130009": ("Total exercise time (observable entity)", []),
@@ -35481,32 +30342,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "118755002": ("Trabeculae carneae cordis (body structure)", []),
     },
     "TrabecularThickeningOfBreast": {
-        "129795008": (
-            "Trabecular thickening of breast",
-            [6014, 6015, 6016, 6054, 6056],
-        ),
+        "129795008": ("Trabecular thickening of breast", [6014, 6015, 6016, 6054, 6056]),
     },
     "Trachea": {
-        "44567001": (
-            "Trachea",
-            [
-                4,
-                4009,
-                4028,
-                4030,
-                4031,
-                4042,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7155,
-                7192,
-                8134,
-                9514,
-            ],
-        ),
+        "44567001": ("Trachea", [4, 4009, 4028, 4030, 4031, 4042, 6102, 6109, 6113, 6149, 7151, 7155, 7192, 8134, 9514]),
     },
     "TracheaAndBronchus": {
         "110726009": ("Trachea and bronchus", [4, 4040, 7151, 7192, 8134, 9514]),
@@ -35617,16 +30456,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "103381007": ("Transhepatic approach (qualifier value)", []),
     },
     "TransientIschemicDilatationOfLeftVentricularCavity": {
-        "429710001": (
-            "Transient ischemic dilatation of left ventricular cavity (disorder)",
-            [],
-        ),
+        "429710001": ("Transient ischemic dilatation of left ventricular cavity (disorder)", []),
     },
     "TransientIschemicDilatationRatioOfLeftVentricularCavity": {
-        "428832008": (
-            "Transient ischemic dilatation ratio of left ventricular cavity (observable entity)",
-            [],
-        ),
+        "428832008": ("Transient ischemic dilatation ratio of left ventricular cavity (observable entity)", []),
     },
     "TransientLimbParalysis": {
         "274662006": ("Transient limb paralysis", [3205]),
@@ -35638,10 +30471,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "27090000": ("Transitional cell carcinoma", [638, 639]),
     },
     "TransjugularIntrahepaticPortosystemicShunt": {
-        "397423009": (
-            "Transjugular Intrahepatic Portosystemic Shunt",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125],
-        ),
+        "397423009": ("Transjugular Intrahepatic Portosystemic Shunt", [3827, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "TransluminalExtractionCatheterDevice": {
         "21870002": ("Transluminal extraction catheter, device (physical object)", []),
@@ -35742,10 +30572,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "73400003": ("Transverse process or vertebra", [6115, 8134]),
     },
     "TransversusThoracis": {
-        "88454005": (
-            "Transversus thoracis",
-            [6102, 6109, 6116, 7151, 7192, 8134, 9514],
-        ),
+        "88454005": ("Transversus thoracis", [6102, 6109, 6116, 7151, 7192, 8134, 9514]),
     },
     "Transvesical": {
         "103344008": ("Transvesical (qualifier value)", []),
@@ -35760,10 +30587,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133543000": ("Transylvanian Pinzgua cattle breed", [7480]),
     },
     "TrapeziusMuscle": {
-        "31764008": (
-            "Trapezius muscle",
-            [6102, 6109, 6113, 6116, 6149, 7151, 7192, 8134, 9514],
-        ),
+        "31764008": ("Trapezius muscle", [6102, 6109, 6113, 6116, 6149, 7151, 7192, 8134, 9514]),
     },
     "Trauma": {
         "417746004": ("trauma", [3815]),
@@ -35829,10 +30653,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371847009": ("Tricuspid diastolic filling period (observable entity)", []),
     },
     "TricuspidDiastolicFillingPeriodDfpt": {
-        "371847009": (
-            "Tricuspid Diastolic Filling Period (DFPt)",
-            [3616, 12267, 12268],
-        ),
+        "371847009": ("Tricuspid Diastolic Filling Period (DFPt)", [3616, 12267, 12268]),
     },
     "TricuspidRegurgitation": {
         "111287006": ("Tricuspid regurgitation", [3700]),
@@ -35841,24 +30662,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "113259005": ("Tricuspid ring", [3011, 8134]),
     },
     "TricuspidValve": {
-        "46030003": (
-            "Tricuspid valve",
-            [
-                3610,
-                3630,
-                3701,
-                6102,
-                6109,
-                6113,
-                6149,
-                7151,
-                7192,
-                8134,
-                9514,
-                12285,
-                12305,
-            ],
-        ),
+        "46030003": ("Tricuspid valve", [3610, 3630, 3701, 6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514, 12285, 12305]),
     },
     "TricuspidValveArea": {
         "251014001": ("Tricuspid Valve Area", [3614, 3615]),
@@ -35879,10 +30683,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "128451008": ("Tricuspid valve pullback pressure waveform", [3003]),
     },
     "TricuspidValvePullbackPressureWaveformFunction": {
-        "128451008": (
-            "Tricuspid valve pullback pressure waveform, function (observable entity)",
-            [],
-        ),
+        "128451008": ("Tricuspid valve pullback pressure waveform, function (observable entity)", []),
     },
     "TricuspidValveRegurgitation": {
         "111287006": ("Tricuspid valve regurgitation (disorder)", []),
@@ -35945,10 +30746,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "279317000": ("Truncal Valve Structure", [12289]),
     },
     "TruncusArteriosusCommunis": {
-        "61959006": (
-            "Truncus arteriosus communis",
-            [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "61959006": ("Truncus arteriosus communis", [4, 3010, 3604, 3606, 3630, 4042, 7151, 7192, 8134, 9514]),
     },
     "TruncusCoeliacus": {
         "57850000": ("Truncus coeliacus", [4, 3010, 4042, 7151, 7192, 8134, 9514]),
@@ -36002,10 +30800,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "19665009": ("Tubular adenoma", [6030, 6031]),
     },
     "TubularAdenomaNoInternationalClassificationOfDiseasesForOncologySubtype": {
-        "19665009": (
-            "Tubular adenoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",
-            [],
-        ),
+        "19665009": ("Tubular adenoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)", []),
     },
     "TubularDensity": {
         "129794007": ("Tubular density", [6014, 6015, 6016, 6054, 6056]),
@@ -36053,10 +30848,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445679001": ("Tungsten halogen lamp", [8125]),
     },
     "TungstenHalogenLampMicroscopeIlluminator": {
-        "445679001": (
-            "Tungsten halogen lamp microscope illuminator (physical object)",
-            [],
-        ),
+        "445679001": ("Tungsten halogen lamp microscope illuminator (physical object)", []),
     },
     "TuniCattleBreed": {
         "131536000": ("Tuni cattle breed", [7480]),
@@ -36191,10 +30983,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "23416004": ("Ulna", [7304, 8134, 12021]),
     },
     "UlnarArtery": {
-        "44984001": (
-            "Ulnar artery",
-            [4, 3010, 3440, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12107],
-        ),
+        "44984001": ("Ulnar artery", [4, 3010, 3440, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12107]),
     },
     "UlnarVein": {
         "17623008": ("Ulnar vein", [3827, 7151, 7192, 8134, 9514, 12103, 12108]),
@@ -36236,32 +31025,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445254006": ("Ultraviolet optical filter", [8124]),
     },
     "UltravioletOpticalFilterOfOpticalMicroscope": {
-        "445254006": (
-            "Ultraviolet optical filter of optical microscope (physical object)",
-            [],
-        ),
+        "445254006": ("Ultraviolet optical filter of optical microscope (physical object)", []),
     },
     "UmbilicalArtery": {
-        "50536004": (
-            "Umbilical artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12111,
-                12125,
-                12140,
-            ],
-        ),
+        "50536004": ("Umbilical artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12111, 12125, 12140]),
     },
     "UmbilicalCord": {
         "29870000": ("Umbilical cord", [8134]),
@@ -36277,24 +31044,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
     },
     "UmbilicalVein": {
         "13576009": ("Umbilical Vein", [12140]),
-        "284639000": (
-            "Umbilical vein",
-            [
-                4,
-                3010,
-                3607,
-                3630,
-                3827,
-                4042,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12114,
-                12125,
-            ],
-        ),
+        "284639000": ("Umbilical vein", [4, 3010, 3607, 3630, 3827, 4042, 7151, 7192, 8134, 9514, 12103, 12114, 12125]),
     },
     "UmblacheryCattleBreed": {
         "133671001": ("Umblachery cattle breed", [7480]),
@@ -36378,10 +31128,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "62834003": ("Upper gastrointestinal tract structure (body structure)", []),
     },
     "UpperInnerQuadrantOfBreast": {
-        "77831004": (
-            "Upper inner quadrant of breast",
-            [4, 6020, 6021, 7151, 7192, 8134, 9514],
-        ),
+        "77831004": ("Upper inner quadrant of breast", [4, 6020, 6021, 7151, 7192, 8134, 9514]),
     },
     "UpperJugularLymphNode": {
         "245321008": ("upper jugular lymph node", [7600, 8134]),
@@ -36405,25 +31152,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "45653009": ("Upper lobe of lung", [6124, 6126, 7151, 7155, 7192, 8134, 9514]),
     },
     "UpperOuterQuadrantOfBreast": {
-        "76365002": (
-            "Upper outer quadrant of breast",
-            [4, 6020, 6021, 7151, 7192, 8134, 9514],
-        ),
+        "76365002": ("Upper outer quadrant of breast", [4, 6020, 6021, 7151, 7192, 8134, 9514]),
     },
     "UpperParatrachealLymphNode": {
         "127927006": ("upper paratracheal lymph node (mediastinal)", [7600, 8134]),
     },
     "UpperParatrachealLymphNodeMediastinal": {
-        "127927006": (
-            "Upper paratracheal lymph node (mediastinal) (body structure)",
-            [],
-        ),
+        "127927006": ("Upper paratracheal lymph node (mediastinal) (body structure)", []),
     },
     "UpperUrinaryTract": {
-        "431491007": (
-            "Upper urinary tract",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "431491007": ("Upper urinary tract", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514]),
     },
     "UpperZoneOfLung": {
         "281392002": ("Upper zone of lung", [6124, 6126]),
@@ -36453,10 +31191,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "873008": ("Urethane (ethyl carbamate)", [623, 625]),
     },
     "Urethra": {
-        "13648007": (
-            "Urethra",
-            [4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514],
-        ),
+        "13648007": ("Urethra", [4009, 4030, 4031, 4042, 7151, 7192, 7482, 7483, 8134, 9514]),
     },
     "UrethralCatheter": {
         "34759008": ("Urethral catheter", [6202, 6203]),
@@ -36477,10 +31212,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "1710001": ("Uric Acid", [300]),
     },
     "UrinaryBladderAndUrethraCombinedSite": {
-        "110837003": (
-            "Urinary bladder and urethra (combined site) (body structure)",
-            [],
-        ),
+        "110837003": ("Urinary bladder and urethra (combined site) (body structure)", []),
     },
     "UrinaryBladderStructure": {
         "89837001": ("Urinary bladder structure (body structure)", []),
@@ -36525,10 +31257,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "424361007": ("Using substance (attribute)", []),
     },
     "UterineArtery": {
-        "91079009": (
-            "Uterine Artery",
-            [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125, 12140],
-        ),
+        "91079009": ("Uterine Artery", [3827, 7151, 7192, 8134, 9514, 12103, 12111, 12125, 12140]),
     },
     "UterineLeiomyoma": {
         "95315005": ("Uterine leiomyoma (disorder)", []),
@@ -36543,36 +31272,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "60028002": ("Uterine Vein", [12140]),
     },
     "Uterus": {
-        "35039007": (
-            "Uterus",
-            [
-                4,
-                645,
-                4030,
-                6202,
-                6204,
-                7151,
-                7160,
-                7192,
-                8134,
-                9514,
-                10044,
-                10060,
-                12023,
-            ],
-        ),
+        "35039007": ("Uterus", [4, 645, 4030, 6202, 6204, 7151, 7160, 7192, 8134, 9514, 10044, 10060, 12023]),
     },
     "UterusAndFallopianTubes": {
-        "110639002": (
-            "Uterus and fallopian tubes",
-            [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "110639002": ("Uterus and fallopian tubes", [4, 4009, 4030, 4031, 4040, 4042, 7151, 7192, 8134, 9514]),
     },
     "UterusAndFallopianTubesCombinedSite": {
-        "110639002": (
-            "Uterus and fallopian tubes (combined site) (body structure)",
-            [],
-        ),
+        "110639002": ("Uterus and fallopian tubes (combined site) (body structure)", []),
     },
     "Uvula": {
         "26140008": ("uvula", [7601, 8134]),
@@ -36741,10 +31447,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133558008": ("Vaynol cattle breed", [7480]),
     },
     "Vein": {
-        "29092000": (
-            "Vein",
-            [3010, 3496, 3607, 3630, 4042, 7111, 7151, 7166, 7191, 7192, 8134, 9514],
-        ),
+        "29092000": ("Vein", [3010, 3496, 3607, 3630, 4042, 7111, 7151, 7166, 7191, 7192, 8134, 9514]),
     },
     "VenaAnonyma": {
         "371951007": ("Vena anonyma (body structure)", []),
@@ -36789,28 +31492,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442721003": ("Ventral 20 degree rostral-dorsocaudal oblique", [7484]),
     },
     "Ventral20DegreeRostralDorsocaudalObliqueProjection": {
-        "442721003": (
-            "Ventral 20 degree rostral-dorsocaudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442721003": ("Ventral 20 degree rostral-dorsocaudal oblique projection (qualifier value)", []),
     },
     "Ventral30DegreeLeftDorsalRightOblique": {
         "442589002": ("Ventral 30 degree left-dorsal right oblique", [7484]),
     },
     "Ventral30DegreeLeftDorsalRightObliqueProjection": {
-        "442589002": (
-            "Ventral 30 degree left-dorsal right oblique projection (qualifier value)",
-            [],
-        ),
+        "442589002": ("Ventral 30 degree left-dorsal right oblique projection (qualifier value)", []),
     },
     "Ventral30DegreeRightDorsalLeftOblique": {
         "442587000": ("Ventral 30 degree right-dorsal left oblique", [7484]),
     },
     "Ventral30DegreeRightDorsalLeftObliqueProjection": {
-        "442587000": (
-            "Ventral 30 degree right-dorsal left oblique projection (qualifier value)",
-            [],
-        ),
+        "442587000": ("Ventral 30 degree right-dorsal left oblique projection (qualifier value)", []),
     },
     "VentralFuniculus": {
         "31701002": ("ventral funiculus", [7707, 7710, 8134]),
@@ -36822,19 +31516,13 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442590006": ("Ventral left-dorsal right oblique", [7484]),
     },
     "VentralLeftDorsalRightObliqueProjection": {
-        "442590006": (
-            "Ventral left-dorsal right oblique projection (qualifier value)",
-            [],
-        ),
+        "442590006": ("Ventral left-dorsal right oblique projection (qualifier value)", []),
     },
     "VentralRightDorsalLeftOblique": {
         "442738004": ("Ventral right-dorsal left oblique", [7484]),
     },
     "VentralRightDorsalLeftObliqueProjection": {
-        "442738004": (
-            "Ventral right-dorsal left oblique projection (qualifier value)",
-            [],
-        ),
+        "442738004": ("Ventral right-dorsal left oblique projection (qualifier value)", []),
     },
     "Ventricle": {
         "21814001": ("Ventricle", [4, 6102, 6109, 6113, 6149, 7151, 7192, 8134, 9514]),
@@ -36849,10 +31537,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "11157007": ("Ventricular bigeminy", [3234]),
     },
     "VentricularEffectiveRefractoryPeriod": {
-        "129088006": (
-            "Ventricular effective refractory period (observable entity)",
-            [],
-        ),
+        "129088006": ("Ventricular effective refractory period (observable entity)", []),
     },
     "VentricularEffectiveRefractoryPeriodEvaluationOf": {
         "129088006": ("Ventricular Effective Refractory Period, evaluation of", [3254]),
@@ -36885,10 +31570,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "17338001": ("Ventricular premature contraction", [3230]),
     },
     "VentricularSeptalDefect": {
-        "30288003": (
-            "Ventricular Septal defect",
-            [3610, 3630, 3700, 3728, 12236, 12244, 12248, 12249, 12286],
-        ),
+        "30288003": ("Ventricular Septal defect", [3610, 3630, 3700, 3728, 12236, 12244, 12248, 12249, 12286]),
     },
     "VentricularSeptalDefectDeviceClosure": {
         "89814007": ("Ventricular septal defect device closure", [12247]),
@@ -36918,10 +31600,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "442741008": ("Ventrorostral-dorsocaudal oblique", [7484]),
     },
     "VentrorostralDorsocaudalObliqueProjection": {
-        "442741008": (
-            "Ventrorostral-dorsocaudal oblique projection (qualifier value)",
-            [],
-        ),
+        "442741008": ("Ventrorostral-dorsocaudal oblique projection (qualifier value)", []),
     },
     "Verapamil": {
         "47898004": ("Verapamil", [10]),
@@ -36939,42 +31618,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "51282000": ("Vertebra", [6102, 6109, 6114, 7151, 7192, 9514]),
     },
     "VertebralArtery": {
-        "85234005": (
-            "Vertebral artery",
-            [
-                4,
-                3010,
-                3604,
-                3606,
-                3630,
-                3827,
-                4042,
-                6102,
-                6109,
-                6117,
-                7151,
-                7192,
-                8134,
-                9514,
-                12103,
-                12104,
-            ],
-        ),
+        "85234005": ("Vertebral artery", [4, 3010, 3604, 3606, 3630, 3827, 4042, 6102, 6109, 6117, 7151, 7192, 8134, 9514, 12103, 12104]),
     },
     "VertebralCanal": {
         "61853006": ("Vertebral canal", [6115, 8134]),
     },
     "VertebralColumnAndCranium": {
-        "110517009": (
-            "Vertebral column and cranium",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "110517009": ("Vertebral column and cranium", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "VertebralColumnAndCraniumCombinedSite": {
-        "110517009": (
-            "Vertebral column and cranium (combined site) (body structure)",
-            [],
-        ),
+        "110517009": ("Vertebral column and cranium (combined site) (body structure)", []),
     },
     "VertebralForamen": {
         "280734009": ("Vertebral foramen", [6115, 8134]),
@@ -37025,16 +31678,10 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "397415007": ("Vessel lumen cross-sectional area", [3482, 12119, 12122]),
     },
     "VesselLumenCrossSectionalAreaIncrease": {
-        "415816005": (
-            "Vessel lumen cross-sectional area increase (observable entity)",
-            [],
-        ),
+        "415816005": ("Vessel lumen cross-sectional area increase (observable entity)", []),
     },
     "VesselLumenCrossSectionalDiameterIncrease": {
-        "415817001": (
-            "Vessel lumen cross-sectional diameter increase (observable entity)",
-            [],
-        ),
+        "415817001": ("Vessel lumen cross-sectional diameter increase (observable entity)", []),
     },
     "VesselLumenDiameter": {
         "397413000": ("Vessel lumen diameter", [3481, 12119, 12122]),
@@ -37130,10 +31777,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445278001": ("Violet optical filter", [8124]),
     },
     "VioletOpticalFilterOfOpticalMicroscope": {
-        "445278001": (
-            "Violet optical filter of optical microscope (physical object)",
-            [],
-        ),
+        "445278001": ("Violet optical filter of optical microscope (physical object)", []),
     },
     "Virus": {
         "49872002": ("Virus", [637]),
@@ -37196,10 +31840,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "133562002": ("Vogelsberg cattle breed", [7480]),
     },
     "Volume": {
-        "118565006": (
-            "Volume",
-            [218, 3423, 4050, 7469, 7472, 12257, 12258, 12259, 12265, 12271, 12304],
-        ),
+        "118565006": ("Volume", [218, 3423, 4050, 7469, 7472, 12257, 12258, 12259, 12265, 12271, 12304]),
     },
     "VolumeProperty": {
         "118565006": ("Volume (property) (qualifier value)", []),
@@ -37295,10 +31936,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "102323003": ("Water bag prosthesis for imaging procedure", [5]),
     },
     "WaterBagProsthesisForImagingProcedureDevice": {
-        "102323003": (
-            "Water bag prosthesis for imaging procedure, device (physical object)",
-            [],
-        ),
+        "102323003": ("Water bag prosthesis for imaging procedure, device (physical object)", []),
     },
     "WaterSolubleAnilineBlueStain": {
         "88625006": ("water soluble aniline blue stain", [8112]),
@@ -37316,10 +31954,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "260473000": ("Waters", [4012]),
     },
     "Waters35DegreeTiltToRadiographicBaseline": {
-        "260473000": (
-            "Waters - 35 degree tilt to radiographic baseline (qualifier value)",
-            [],
-        ),
+        "260473000": ("Waters - 35 degree tilt to radiographic baseline (qualifier value)", []),
     },
     "WatusiUSACattleBreed": {
         "131546003": ("Watusi (USA) cattle breed", [7480]),
@@ -37508,10 +32143,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "389080008": ("White matter of brain and spinal cord", [7710]),
     },
     "WhiteMatterStructureOfBrainAndSpinalCord": {
-        "389080008": (
-            "White matter structure of brain and spinal cord (body structure)",
-            [],
-        ),
+        "389080008": ("White matter structure of brain and spinal cord (body structure)", []),
     },
     "WhiteParkCattleBreed": {
         "26525003": ("White Park cattle breed (organism)", []),
@@ -37623,10 +32255,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "373682001": ("wright stain", [8112]),
     },
     "WristJoint": {
-        "74670003": (
-            "Wrist joint",
-            [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514],
-        ),
+        "74670003": ("Wrist joint", [4, 1000, 1001, 1006, 4009, 4030, 4031, 4042, 7151, 7192, 7304, 8134, 9514]),
     },
     "WristJointStructure": {
         "74670003": ("Wrist joint structure (body structure)", []),
@@ -37740,10 +32369,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "445340000": ("Yellow-green optical filter", [4204]),
     },
     "YellowGreenOpticalFilterOfOpticalMicroscope": {
-        "445340000": (
-            "Yellow-green optical filter of optical microscope (physical object)",
-            [],
-        ),
+        "445340000": ("Yellow-green optical filter of optical microscope (physical object)", []),
     },
     "YemeniHorsesHorseBreed": {
         "131968004": ("Yemeni Horses horse breed", [7480]),
@@ -37872,10 +32498,7 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "96227004": ("Zolazepam hydrochloride (substance)", []),
     },
     "Zygoma": {
-        "13881006": (
-            "Zygoma",
-            [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514],
-        ),
+        "13881006": ("Zygoma", [4, 4009, 4028, 4030, 4031, 4042, 7151, 7192, 8134, 9514]),
     },
     "ZygomaticBoneStructure": {
         "13881006": ("Zygomatic bone structure (body structure)", []),
@@ -38031,34 +32654,19 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371917008": ("1 Sigma Upper Value of population", [221, 226, 7465]),
     },
     "_1stDiagonalCoronaryArtery": {
-        "91750005": (
-            "1st Diagonal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91750005": ("1st Diagonal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_1stLeftPosterolateralCoronaryArtery": {
-        "91757008": (
-            "1st Left Posterolateral Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91757008": ("1st Left Posterolateral Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_1stMarginalCoronaryArtery": {
-        "91754001": (
-            "1st Marginal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91754001": ("1st Marginal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_1stRightPosterolateralCoronaryArtery": {
-        "91761002": (
-            "1st Right posterolateral Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91761002": ("1st Right posterolateral Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_1stSeptalCoronaryArtery": {
-        "244251006": (
-            "1st Septal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "244251006": ("1st Septal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_201Thallium": {
         "60057003": ("^201^Thallium", [18]),
@@ -38106,28 +32714,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "371920000": ("2 Sigma Upper Value of population", [221, 226, 7465]),
     },
     "_2ndDiagonalCoronaryArtery": {
-        "91751009": (
-            "2nd Diagonal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91751009": ("2nd Diagonal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_2ndLeftPosterolateralCoronaryArtery": {
-        "91758003": (
-            "2nd Left Posterolateral Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91758003": ("2nd Left Posterolateral Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_2ndMarginalCoronaryArtery": {
-        "91755000": (
-            "2nd Marginal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91755000": ("2nd Marginal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_2ndRightPosterolateralCoronaryArtery": {
-        "91762009": (
-            "2nd Right posterolateral Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91762009": ("2nd Right posterolateral Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_32Phosphorus": {
         "32505007": ("^32^Phosphorus", [18, 9528]),
@@ -38151,28 +32747,16 @@ concepts_SCT: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "129774003": ("3 o'clock position on mammogram (finding)", []),
     },
     "_3rdDiagonalCoronaryArtery": {
-        "91752002": (
-            "3rd diagonal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91752002": ("3rd diagonal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_3rdLeftPosterolateralCoronaryArtery": {
-        "91759006": (
-            "3rd Left Posterolateral Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91759006": ("3rd Left Posterolateral Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_3rdMarginalCoronaryArtery": {
-        "91756004": (
-            "3rd Marginal Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91756004": ("3rd Marginal Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_3rdRightPosterolateralCoronaryArtery": {
-        "91763004": (
-            "3rd Right posterolateral Coronary Artery",
-            [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514],
-        ),
+        "91763004": ("3rd Right posterolateral Coronary Artery", [3014, 3015, 3604, 3827, 6102, 6109, 6117, 7151, 7192, 8134, 9514]),
     },
     "_42Potassium": {
         "59844004": ("^42^Potassium", [18]),

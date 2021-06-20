@@ -286,16 +286,10 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "2:148": ("Canine, fifth right intercostal space near edge of sternum", [3001]),
     },
     "CanineOverDorsalSpinousProcessOf7thThoracicVertebra": {
-        "2:151": (
-            "Canine, over dorsal spinous process of 7th thoracic vertebra",
-            [3001],
-        ),
+        "2:151": ("Canine, over dorsal spinous process of 7th thoracic vertebra", [3001]),
     },
     "CanineSixthLeftIntercostalSpaceAtCostochondralJunction": {
-        "2:150": (
-            "Canine, sixth left intercostal space at costochondral junction",
-            [3001],
-        ),
+        "2:150": ("Canine, sixth left intercostal space at costochondral junction", [3001]),
     },
     "CanineSixthLeftIntercostalSpaceNearEdgeOfSternum": {
         "2:149": ("Canine, sixth left intercostal space near edge of sternum", [3001]),
@@ -777,16 +771,10 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:1856": ("Isoelectric point or segment", [3335]),
     },
     "IsoelectricRegionFromGlobalQRSOnsetToSpecificLeadOnset": {
-        "10:1280": (
-            "Isoelectric region from global QRS onset to specific lead onset",
-            [3335],
-        ),
+        "10:1280": ("Isoelectric region from global QRS onset to specific lead onset", [3335]),
     },
     "IsoelectricRegionFromSpecificLeadQRSOffsetToGlobalOffset": {
-        "10:1344": (
-            "Isoelectric region from specific lead QRS Offset to global offset",
-            [3335],
-        ),
+        "10:1344": ("Isoelectric region from specific lead QRS Offset to global offset", [3335]),
     },
     "IsolatedQRSLikeArtifact": {
         "10:2176": ("Isolated QRS-like artifact", [3335]),
@@ -946,10 +934,7 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:8688": ("Lown-Ganong-Levine syndrome", [3335]),
     },
     "MasonLikarLeadPositionsElectrodesPlacedIndividually": {
-        "10:11266": (
-            "Mason-Likar lead positions, electrodes placed individually",
-            [3263],
-        ),
+        "10:11266": ("Mason-Likar lead positions, electrodes placed individually", [3263]),
     },
     "MasonLikarLeadPositionsV1V6InElectrodePad": {
         "10:11267": ("Mason-Likar lead positions, V1-V6 in electrode pad", [3263]),
@@ -961,10 +946,7 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:11216": ("Moderate noise", [3680]),
     },
     "ModerateNoiseBeatsCanBeDetectedButCannotBeClassified": {
-        "10:11216": (
-            "Moderate Noise, beats can be detected but cannot be classified",
-            [3335],
-        ),
+        "10:11216": ("Moderate Noise, beats can be detected but cannot be classified", [3335]),
     },
     "ModifiedChestLead": {
         "2:91": ("Modified chest lead (left arm indifferent)", [3001]),
@@ -3598,10 +3580,7 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:9680": ("Second Degree AV Block Type II (Mobitz Type II)", [3415]),
     },
     "SecondDegreeAVBlockTypeIWenckebachOrMobitzTypeI": {
-        "10:9664": (
-            "Second Degree AV Block Type I (Wenckebach, or Mobitz Type I)",
-            [3415],
-        ),
+        "10:9664": ("Second Degree AV Block Type I (Wenckebach, or Mobitz Type I)", [3415]),
     },
     "SecondDegreeSABlockTypeII": {
         "10:9808": ("Second Degree SA Block Type II", [3415]),
@@ -3707,10 +3686,7 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "2:24064": ("Slow eye movements", [3035]),
     },
     "SlowVentricularTachycardiaIdioventricularTachycardia": {
-        "10:9904": (
-            "Slow Ventricular Tachycardia (Idioventricular Tachycardia)",
-            [3415],
-        ),
+        "10:9904": ("Slow Ventricular Tachycardia (Idioventricular Tachycardia)", [3415]),
     },
     "SmallSharpSpike": {
         "2:23840": ("Small sharp spike", [3035]),
@@ -3746,19 +3722,13 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:11291": ("Standard 12-lead extended to the right by V5R, V4R, V3R", [3263]),
     },
     "Standard12LeadPositionsElectrodesPlacedIndividually": {
-        "10:11265": (
-            "Standard 12-lead positions, electrodes placed individually",
-            [3263],
-        ),
+        "10:11265": ("Standard 12-lead positions, electrodes placed individually", [3263]),
     },
     "Standard12LeadPositionsOneIntercostalSpaceHigher": {
         "10:11272": ("Standard 12-lead positions one intercostal space higher", [3263]),
     },
     "Standard12LeadWithExtraLeadsToTheRightAndOrLeftSides": {
-        "10:11290": (
-            "Standard 12-lead with extra leads to the right and/or left sides",
-            [3263],
-        ),
+        "10:11290": ("Standard 12-lead with extra leads to the right and/or left sides", [3263]),
     },
     "SupraventricularAtrialOrJunctionalEctopicRhythm": {
         "10:9488": ("Supraventricular (atrial or junctional) Ectopic Rhythm", [3415]),
@@ -3956,10 +3926,7 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:9936": ("Ventricular Trigeminy", [3415]),
     },
     "WanderingPacemakerBetweenTheSinusNodeAndTheAVNode": {
-        "10:9344": (
-            "Wandering Pacemaker between the sinus node and the A-V node",
-            [3415],
-        ),
+        "10:9344": ("Wandering Pacemaker between the sinus node and the A-V node", [3415]),
     },
     "WanderingSinusPacemakerWithinTheSinusNode": {
         "10:9328": ("Wandering Sinus Pacemaker within the sinus node", [3415]),
@@ -3998,22 +3965,13 @@ concepts_MDC: Dict[str, Dict[str, Tuple[str, List[int]]]] = {
         "10:11268": ("12-lead electrode pad", [3263]),
     },
     "_12LeadForBicycleExerciseTestingLimbLeadsOnBackOfPatient": {
-        "10:11271": (
-            "12-lead for bicycle exercise testing, limb leads on back of patient",
-            [3263],
-        ),
+        "10:11271": ("12-lead for bicycle exercise testing, limb leads on back of patient", [3263]),
     },
     "_12LeadFromEASILeadsESASAIByDowerEASITransformation": {
-        "10:11284": (
-            "12-lead from EASI leads (ES, AS, AI) by Dower/EASI transformation",
-            [3263],
-        ),
+        "10:11284": ("12-lead from EASI leads (ES, AS, AI) by Dower/EASI transformation", [3263]),
     },
     "_12LeadFromFrankLeadsXYZLeadsByDowerTransformation": {
-        "10:11283": (
-            "12-lead from Frank leads XYZ leads by Dower transformation",
-            [3263],
-        ),
+        "10:11283": ("12-lead from Frank leads XYZ leads by Dower transformation", [3263]),
     },
     "_12LeadFromLimbLeadsIIIAndOneOrMoreVLeads": {
         "10:11285": ("12-lead from Limb Leads (I, II) and one or more V leads", [3263]),
